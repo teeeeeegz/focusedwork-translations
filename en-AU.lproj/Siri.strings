@@ -1,0 +1,72 @@
+/* 
+  Siri.strings
+  FocusedWork
+
+  Created by Michael Tigas on 10/10/21.
+  Copyright © 2021 Michael Tigas. All rights reserved.
+*/
+
+"WGze4P" = "Start Focus Session";
+"xNSGTM" = "Start a focus session";
+"2RFwZQ" = "focus session";
+"lJT1yP" = "focus";
+
+"iqCJqW" = "Get Current Focus Session";
+"cw7u4X" = "Get the current focus session";
+"xsqsUA" = "Current Session";
+
+"7gkqwx" = "Pause Focus Session";
+"fTFenX" = "Pause the current focus session";
+
+"vnU9j3" = "Resume Focus Session";
+"iBixd7" = "Resume the current focus session";
+
+"FrHBmX" = "Restart Stage";
+"SlgwQt" = "Restart the current stage";
+
+"CkST2C" = "Skip Stage";
+"ePx3J8" = "Skip the current stage";
+"Ex3h4k" = "Final stage action";
+
+"X7GC24" = "End Focus Session";
+"Hv5tMs" = "End the current focus session";
+"xFA78C" = "Mark as Complete";
+
+"DqJL77" = "Set Timer Volume Level";
+"QkviCZ" = "Change the timer volume";
+"meOMaG" = "Volume Level";
+
+"PuFZOt" = "Get Last Finished Focus Session";
+"4Qkgz7" = "Get the details of your last finished focus session";
+
+"bFsKpJ" = "Get Focus Sessions";
+"QQydPj" = "Get a list of all created focus sessions";
+"WmLBzJ" = "Only Show Favourites";
+"hOQYS9" = "Only show favourites?";
+"b6ALRf" = "Favourites Only";
+
+"HZQhYU" = "Focused Work";
+"Yo9ohq" = "Break";
+"yTiTC4" = "Planning";
+
+"kSeptN" = "Productivity Rating";
+"2Qh9FO" = "😔 Not Productive";
+"wNw1NY" = "😕 Kinda Productive";
+"n8a5Zc" = "🙂 Fairly Productive";
+"2Xskok" = "😁 Very Productive";
+"y5jdw6" = "🤩 Super Productive";
+
+"8l8lLm" = "Mark Session Complete";
+"hUbzaQ" = "End Session";
+"O4noDy" = "no";
+
+"As0hz9" = "Count Up";
+"NIktKD" = "Count Down";
+
+"PKwfC2" = "Completed Focus Session";
+"bDxpAx" = "Current Session";
+"4P7xGB" = "Focus Session";
+
+
+
+"" = "";

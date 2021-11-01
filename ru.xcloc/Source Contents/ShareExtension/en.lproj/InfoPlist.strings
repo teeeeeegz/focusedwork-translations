@@ -1,0 +1,6 @@
+/* Bundle display name */
+"CFBundleDisplayName" = "ShareExtension";
+/* Bundle name */
+"CFBundleName" = "ShareExtension";
+/* Copyright (human-readable) */
+"NSHumanReadableCopyright" = "Copyright © 2021 Michael Tigas. All rights reserved.";

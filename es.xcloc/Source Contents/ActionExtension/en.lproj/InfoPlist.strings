@@ -1,0 +1,6 @@
+/* Bundle display name */
+"CFBundleDisplayName" = "Start a Focus Session";
+/* Bundle name */
+"CFBundleName" = "ActionExtension";
+/* Copyright (human-readable) */
+"NSHumanReadableCopyright" = "Copyright © 2021 Michael Tigas. All rights reserved.";

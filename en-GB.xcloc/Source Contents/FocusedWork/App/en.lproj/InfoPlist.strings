@@ -1,0 +1,6 @@
+/* Bundle name */
+"CFBundleName" = "Focused Work";
+/* Privacy - AppleEvents Sending Usage Description */
+"NSAppleEventsUsageDescription" = "Select and automatically trigger shortcuts during a focus session.";
+/* Privacy - Photo Library Additions Usage Description */
+"NSPhotoLibraryAddUsageDescription" = "Save your Tip Jar donation to the Camera Roll.";
