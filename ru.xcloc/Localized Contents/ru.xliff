@@ -124,7 +124,7 @@
       </trans-unit>
       <trans-unit id="ACTION_CANCEL" xml:space="preserve">
         <source>Cancel</source>
-        <target>Cancel</target>
+        <target>Отменить</target>
         <note/>
       </trans-unit>
       <trans-unit id="ACTION_CHANGE" xml:space="preserve">
@@ -259,7 +259,7 @@
       </trans-unit>
       <trans-unit id="ACTION_NEXT" xml:space="preserve">
         <source>Next</source>
-        <target>Next</target>
+        <target>Далее</target>
         <note/>
       </trans-unit>
       <trans-unit id="ACTION_OFF" xml:space="preserve">
@@ -1030,12 +1030,12 @@ Focus Session</target>
       </trans-unit>
       <trans-unit id="HEADING_DETAILS" xml:space="preserve">
         <source>Details</source>
-        <target>Details</target>
+        <target>Детали</target>
         <note/>
       </trans-unit>
       <trans-unit id="HEADING_FAVOURITESESSIONS" xml:space="preserve">
         <source>Favorite Sessions</source>
-        <target>Favorite Sessions</target>
+        <target>Избранные сессии</target>
         <note/>
       </trans-unit>
       <trans-unit id="HEADING_FOCUS" xml:space="preserve">
@@ -1224,27 +1224,27 @@ Focus Session</target>
       </trans-unit>
       <trans-unit id="ONBOARDING_CREATESESSIONS" xml:space="preserve">
         <source>Create repeatable Focus Sessions for different tasks.</source>
-        <target>Create repeatable Focus Sessions for different tasks.</target>
+        <target>Создай повторяющиеся Фокус Сессии для разных задач.</target>
         <note/>
       </trans-unit>
       <trans-unit id="ONBOARDING_CURRENTSESSION" xml:space="preserve">
         <source>Start the timer and get to work.</source>
-        <target>Start the timer and get to work.</target>
+        <target>Запустите таймер и приступайте к работе.</target>
         <note/>
       </trans-unit>
       <trans-unit id="ONBOARDING_PRODUCTIVITY" xml:space="preserve">
         <source>Create healthy productivity habits by completing daily goals.</source>
-        <target>Create healthy productivity habits by completing daily goals.</target>
+        <target>Выполняя ежедневные цели, Вы развиваете привычки продуктивности.</target>
         <note/>
       </trans-unit>
       <trans-unit id="ONBOARDING_SESSIONFOCUS" xml:space="preserve">
         <source>Pick a task you want to focus on.</source>
-        <target>Pick a task you want to focus on.</target>
+        <target>Выберите задачу для фокусирования.</target>
         <note/>
       </trans-unit>
       <trans-unit id="ONBOARDING_SESSIONSTAGES" xml:space="preserve">
         <source>Add structure to each session.</source>
-        <target>Add structure to each session.</target>
+        <target>Добавьте структуру для каждой сессии.</target>
         <note/>
       </trans-unit>
       <trans-unit id="PERMISSION_NOTIFICATION_DENIED_MESSAGE" xml:space="preserve">
@@ -1308,7 +1308,7 @@ When it's not on-screen, we need permission to share these reminders with you.</
       </trans-unit>
       <trans-unit id="PHRASE_CLICKSTARTSESSION" xml:space="preserve">
         <source>Click the timer to start</source>
-        <target>Click the timer to start</target>
+        <target>Нажмите на таймер чтобы начать</target>
         <note/>
       </trans-unit>
       <trans-unit id="PHRASE_COMPLETED" xml:space="preserve">
@@ -1338,7 +1338,7 @@ When it's not on-screen, we need permission to share these reminders with you.</
       </trans-unit>
       <trans-unit id="PHRASE_LETSGO" xml:space="preserve">
         <source>Let's go!</source>
-        <target>Let's go!</target>
+        <target>Начнём!</target>
         <note/>
       </trans-unit>
       <trans-unit id="PHRASE_MADEWITHLOVE" xml:space="preserve">
@@ -1415,7 +1415,7 @@ to focus on?</target>
       </trans-unit>
       <trans-unit id="PHRASE_SESSIONFOCUSQUESTION_PLACEHOLDER" xml:space="preserve">
         <source>I will...</source>
-        <target>I will...</target>
+        <target>Я сделаю...</target>
         <note/>
       </trans-unit>
       <trans-unit id="PHRASE_SESSIONPRESET" xml:space="preserve">
@@ -1435,7 +1435,7 @@ to focus on?</target>
       </trans-unit>
       <trans-unit id="PHRASE_SHOWME" xml:space="preserve">
         <source>Show Me</source>
-        <target>Show Me</target>
+        <target>Познакомимся</target>
         <note/>
       </trans-unit>
       <trans-unit id="PHRASE_SKIPSTAGE_BREAK" xml:space="preserve">
@@ -1510,19 +1510,19 @@ to focus on?</target>
       </trans-unit>
       <trans-unit id="PHRASE_WELCOME" xml:space="preserve">
         <source>Welcome to Focused Work!</source>
-        <target>Welcome to Focused Work!</target>
+        <target>Добро пожаловать в Focused Work!</target>
         <note/>
       </trans-unit>
       <trans-unit id="PHRASE_WELCOME_LINESEPARATED" xml:space="preserve">
         <source>Welcome to
 Focused Work!</source>
-        <target>Welcome to
+        <target>Добро пожаловать в
 Focused Work!</target>
         <note/>
       </trans-unit>
       <trans-unit id="PHRASE_WELCOME_MESSAGE" xml:space="preserve">
         <source>A flexible focus timer that helps you stay productive and avoid burnout.</source>
-        <target>A flexible focus timer that helps you stay productive and avoid burnout.</target>
+        <target>Гибкий таймер для фокусирования, который поможет оставаться продуктивным и избежать выгорания.</target>
         <note/>
       </trans-unit>
       <trans-unit id="PLACEHOLDER_ADDNOTES" xml:space="preserve">
@@ -1687,7 +1687,7 @@ Focused Work!</target>
       </trans-unit>
       <trans-unit id="PLACEHOLDER_SESSIONREADY" xml:space="preserve">
         <source>Ready to focus?</source>
-        <target>Ready to focus?</target>
+        <target>Готовы к фокусированию?</target>
         <note/>
       </trans-unit>
       <trans-unit id="POWERSAVER_ALWAYSENABLED" xml:space="preserve">
@@ -2047,7 +2047,7 @@ Focused Work!</target>
       </trans-unit>
       <trans-unit id="SESSIONCONTINUE_BREAK" xml:space="preserve">
         <source>Ready to start your break?</source>
-        <target>Ready to start your break?</target>
+        <target>Готовы к перерыву?</target>
         <note/>
       </trans-unit>
       <trans-unit id="SESSIONCONTINUE_FOCUSEDWORK" xml:space="preserve">
@@ -2072,7 +2072,7 @@ Focused Work!</target>
       </trans-unit>
       <trans-unit id="SESSION_ACTION_CHANGE" xml:space="preserve">
         <source>Change Session</source>
-        <target>Change Session</target>
+        <target>Выбрать сессию</target>
         <note/>
       </trans-unit>
       <trans-unit id="SESSION_ACTION_DETAILS" xml:space="preserve">
@@ -2181,7 +2181,7 @@ Mark Complete will include your progress for the current stage.</target>
       </trans-unit>
       <trans-unit id="SESSION_ACTION_START" xml:space="preserve">
         <source>Start Session</source>
-        <target>Start Session</target>
+        <target>Начать сессию</target>
         <note/>
       </trans-unit>
       <trans-unit id="SESSION_ACTION_STARTGROUP" xml:space="preserve">
@@ -2995,7 +2995,7 @@ Terms of Use: https://focusedwork.app/termsofuse/
       </trans-unit>
       <trans-unit id="TEMPLATE_TWOHALVES_NAME" xml:space="preserve">
         <source>Two Halves</source>
-        <target>Two Halves</target>
+        <target>Две половины</target>
         <note/>
       </trans-unit>
       <trans-unit id="TEMPLATE_ULTRADIAN_DESCRIPTION" xml:space="preserve">
@@ -3371,7 +3371,7 @@ Thank you!
       </trans-unit>
       <trans-unit id="TITLE_ALLSESSIONS" xml:space="preserve">
         <source>All Sessions</source>
-        <target>All Sessions</target>
+        <target>Все сессии</target>
         <note/>
       </trans-unit>
       <trans-unit id="TITLE_ALLTAGS" xml:space="preserve">
@@ -3406,7 +3406,7 @@ Thank you!
       </trans-unit>
       <trans-unit id="TITLE_CURRENTSESSION" xml:space="preserve">
         <source>Current Session</source>
-        <target>Current Session</target>
+        <target>Текущая сессия</target>
         <note/>
       </trans-unit>
       <trans-unit id="TITLE_EDITPRODUCTIVITYNOTES" xml:space="preserve">
@@ -3436,7 +3436,7 @@ Thank you!
       </trans-unit>
       <trans-unit id="TITLE_PRODUCTIVITY" xml:space="preserve">
         <source>Productivity</source>
-        <target>Productivity</target>
+        <target>Продуктивность</target>
         <note/>
       </trans-unit>
       <trans-unit id="TITLE_PRODUCTIVITYEXPORT" xml:space="preserve">
