@@ -1,0 +1,873 @@
+"ACTION_CANCEL" = "Cancel";
+"ACTION_SAVE" = "Save";
+"ACTION_CLOSE" = "Close";
+"ACTION_DONE" = "Done";
+"ACTION_OK" = "OK";
+"ACTION_EDIT" = "Edit";
+"ACTION_UNFAVORITE" = "Unfavorite";
+"ACTION_FAVORITE" = "Favorite";
+"ACTION_MOREOPTIONS" = "More Options";
+"ACTION_SELECTASESSION" = "Select a focus session";
+"ACTION_SELECTASESSION_LINESEPARATED" = "Select a\nFocus Session";
+"ACTION_SKIP" = "Skip";
+"ACTION_RESTART" = "Restart";
+"ACTION_LEAVE" = "Leave";
+"ACTION_START" = "Start";
+"ACTION_PAUSE" = "Pause";
+"ACTION_RESUME" = "Resume";
+"ACTION_END" = "End";
+"ACTION_SELECT" = "Select";
+"ACTION_EXPORT" = "Export";
+"ACTION_COPY" = "Copy";
+"ACTION_ENABLE" = "Enable";
+"ACTION_ADD" = "Add";
+"ACTION_DUPLICATE" = "Duplicate";
+"ACTION_TAP" = "Tap";
+"ACTION_CLICK" = "Click";
+"ACTION_NEW" = "New";
+"ACTION_NEWSESSION" = "New";
+"ACTION_NEWFROMTEMPLATE" = "New from Template";
+"ACTION_DELETE" = "Delete";
+"ACTION_DELETESESSION" = "Delete Session";
+"ACTION_SHOW" = "Show";
+"ACTION_HIDE" = "Hide";
+"ACTION_UPDATE" = "Update";
+"ACTION_SELECTALL" = "Select All";
+"ACTION_UNSELECTALL" = "Unselect All";
+"ACTION_NEXT" = "Next";
+"ACTION_ON" = "On";
+"ACTION_OFF" = "Off";
+"ACTION_SHOWMORE" = "Show More";
+"ACTION_VIEW" = "View";
+"ACTION_CHANGE" = "Change";
+"ACTION_SHARE" = "Share";
+"ACTION_CREATE" = "Create";
+"ACTION_ADDFOCUS" = "Add Focus";
+"ACTION_RESET" = "Reset";
+"ACTION_CLEAR" = "Clear";
+"ACTION_SHAREIMAGE" = "Share Image";
+"ACTION_SENDEMAIL" = "Send Email";
+"ACTION_AUTHENTICATE" = "Authenticate";
+"ACTION_DEACTIVATE" = "Deactivate";
+"ACTION_CREATEPRESET" = "Create Preset";
+"ACTION_DELETEPRESET" = "Delete Preset";
+"ACTION_CONTINUE" = "Continue";
+"ACTION_QUIT" = "Quit";
+"ACTION_OPENAPP" = "Open App";
+"ACTION_REMOVE" = "Remove";
+"ACTION_OPENSHORTCUTS" = "Open Shortcuts";
+"ACTION_ADDSHORTCUT" = "Add Shortcut";
+"ACTION_COPYFROMSESSION" = "Copy From Session";
+"ACTION_RUN" = "Run";
+
+"COMMON_OR" = "or";
+
+"TERM_APP" = "App";
+"TERM_FOCUSEDWORK" = "Focused Work";
+"TERM_BREAK" = "Break";
+"TERM_PLANNING" = "Planning";
+"TERM_FOCUSSESSION" = "Focus Session";
+"TERM_FOCUSSESSIONS" = "Focus Sessions";
+"TERM_SESSION" = "Session";
+"TERM_FOCUSGROUP" = "Focus Group";
+"TERM_INTEGRATION" = "Integration";
+"TERM_AUTOMATION" = "Automation";
+"TERM_AUTOMATIONS" = "Automations";
+"TERM_ERROR" = "Error";
+"TERM_TIMER" = "Timer";
+"TERM_SESSIONID" = "Session ID";
+"TERM_NOTES" = "Notes";
+"TERM_STAGE" = "Stage";
+"TERM_COMPLETEDSESSION" = "Completed Session";
+"TERM_NEVER" = "Never";
+"TERM_TEMPLATE" = "Template";
+"TERM_DETAILS" = "Details";
+"TERM_SUPPORT" = "Support";
+"TERM_FAQ" = "FAQ";
+"TERM_AUDIO" = "Audio";
+"TERM_ALERTS" = "Alerts";
+"TERM_BREAKTIME" = "Break Time";
+"TERM_GOAL" = "Goal";
+"TERM_RESTOREPURCHASES" = "Restore Purchases";
+"TERM_LOADING" = "Loading";
+"TERM_GROUP" = "Group";
+"TERM_FINISH" = "Finish";
+"TERM_ENABLED" = "Enabled";
+"TERM_DEVELOPER" = "Developer";
+"TERM_NEWSLETTER" = "Newsletter";
+"TERM_WEBSITE" = "Website";
+"TERM_PRIVACYPOLICY" = "Privacy Policy";
+"TERM_PRIVACY" = "Privacy";
+"TERM_TERMS" = "Terms";
+"TERM_STANDARD" = "Standard";
+"TERM_STAGETYPE" = "Stage Type";
+"TERM_STATUS" = "Status";
+"TERM_ACTIVE" = "Active";
+"TERM_INACTIVE" = "Inactive";
+"TERM_TOKEN" = "Token";
+"TERM_PROFILE" = "Profile";
+"TERM_DEFAULT" = "Default";
+"TERM_PRESETS" = "Presets";
+"TERM_UNKNOWN" = "Unknown";
+"TERM_PAUSED" = "Paused";
+"TERM_PRODUCTIVE" = "Productive";
+"TERM_VOLUME" = "Volume";
+
+"PHRASE_ORLEAVETHE" = "or leave the";
+"PHRASE_AREYOUSURE" = "Are you sure you want to";
+"PHRASE_SHOWME" = "Show Me";
+"PHRASE_WELCOME" = "Welcome to Focused Work!";
+"PHRASE_WELCOME_LINESEPARATED" = "Welcome to\nFocused Work!";
+"PHRASE_WELCOME_MESSAGE" = "A flexible focus timer that helps you stay productive and avoid burnout.";
+"PHRASE_LETSGO" = "Let's go!";
+"PHRASE_REMAINING" = "remaining";
+"PHRASE_COMPLETED" = "completed";
+"PHRASE_SESSIONFOCUSQUESTION" = "What do you want to focus on?";
+"PHRASE_SESSIONFOCUSQUESTION_LINESEPARATED" = "What do you want\nto focus on?";
+"PHRASE_SESSIONFOCUSQUESTION_PLACEHOLDER" = "I will...";
+"PHRASE_STAGEFOCUSQUESTION" = "My focus for the current stage.";
+"PHRASE_STAGEFOCUSQUESTION_PLACEHOLDER" = "Set a focus";
+"PHRASE_RECENTENTRIES" = "Recent Entries";
+"PHRASE_SEARCHEMOJI" = "Search Emoji";
+"PHRASE_SESSIONPRESET" = "Session Preset";
+"PHRASE_TIMERSETTINGS" = "Timer Settings";
+"PHRASE_FOCUSGROUPACTIVE" = "Focus Group Active";
+"PHRASE_FOCUSGROUPAVAILABLE" = "Focus Group Available";
+"PHRASE_FOCUSGROUPDISALLOWED" = "Not available while in a Focus Group.";
+"PHRASE_SKIPSTAGE_FOCUSEDWORK" = "Begin Focused Work stage";
+"PHRASE_SKIPSTAGE_BREAK" = "Begin Break stage";
+"PHRASE_SKIPSTAGE_PLANNING" = "Begin Planning stage";
+"PHRASE_APPLYTOPRESET" = "Apply to Session Preset";
+"PHRASE_ACTIVESINCE" = "Active since %@";
+"PHRASE_MADEWITHLOVE" = "Made with ❤️ in Australia by";
+"PHRASE_MADEWITHLOVE_TEXT" = "Made with love in Australia by";
+"PHRASE_MANUALINPUT" = "Manual Input";
+"PHRASE_SETSTAGEDURATION" = "Set Stage Duration";
+"PHRASE_THANKYOU" = "Thank you!";
+"PHRASE_UPGRADETO" = "Upgrade to";
+"PHRASE_SUPPORTINDIE" = "Support Indie Development";
+"PHRASE_REDEEMCODE" = "Redeem Code";
+"PHRASE_SEARCHSESSIONS" = "Search Focus Sessions";
+"PHRASE_NEXTUP" = "Next Up";
+"PHRASE_NOSTAGESREMAIN" = "No other stages remain. 🙂";
+"PHRASE_EXTRATIME" = "Extra Time";
+"PHRASE_STAGEAUTOMATIONS" = "Stage Automations";
+"PHRASE_SHORTCUTOPTIONS" = "Shortcut Options";
+"PHRASE_TOGGLOPTIONS" = "Toggl Options";
+"PHRASE_PLEASEWAIT" = "Please wait...";
+"PHRASE_TAPSELECTSESSION" = "Tap to select a Focus Session";
+"PHRASE_CLICKSELECTSESSION" = "Click to select a Focus Session";
+"PHRASE_TAPSTARTSESSION" = "Tap the timer to start";
+"PHRASE_CLICKSTARTSESSION" = "Click the timer to start";
+"PHRASE_CLICKNEXTSTAGE" = "Click to begin the next %@ stage.";
+"PHRASE_TAPNEXTSTAGE" = "Tap to begin the next %@ stage.";
+"PHRASE_AUTOMATIONGUIDE" = "Automation Guide";
+
+"TITLE_SESSIONINPROGRESS" = "Session In Progress";
+"TITLE_WHATSNEW" = "What's New";
+"TITLE_CURRENTSESSION" = "Current Session";
+"TITLE_PRODUCTIVITY" = "Productivity";
+"TITLE_ALLSESSIONS" = "All Sessions";
+"TITLE_SETTINGS" = "Settings";
+"TITLE_PREFERENCES" = "Preferences";
+"TITLE_EDITPRODUCTIVITYNOTES" = "Edit Productivity Notes";
+"TITLE_PRODUCTIVITYNOTES" = "Productivity Notes";
+"TITLE_CREATESESSION" = "Create Session";
+"TITLE_COPYTOGGLCONFIGURATION" = "Copy Toggl Configuration";
+"TITLE_ALLTAGS" = "All Tags";
+"TITLE_SELECTTAGS" = "Select Tags";
+"TITLE_CREATETOGGLPRESET" = "Create Toggl Preset";
+"TITLE_UPDATETOGGLPRESET" = "Update Toggl Preset";
+"TITLE_PRODUCTIVITYEXPORT" = "Productivity Export";
+"TITLE_FOCUSEDWORKPRO" = "Focused Work Pro";
+"TITLE_POWERSAVER" = "Power Saver";
+"TITLE_RECENTSESSIONS" = "Recent Sessions";
+"TITLE_SELECTRECENTENTRY" = "Select a Recent Entry";
+"TITLE_ADDNOTES" = "Add Notes";
+"TITLE_UPDATESESSIONFOCUS" = "Update Session Focus";
+"TITLE_SELECTTEMPLATE" = "Select a Template";
+"TITLE_TIPJAR" = "Tip Jar";
+"TITLE_ICLOUDSYNCSTATE" = "iCloud Sync State";
+"TITLE_APPICON" = "App Icon";
+"TITLE_SETAUTOMATIONSHORTCUT" = "Set %@ Shortcut";
+"TITLE_TIPSENT" = "Tip Sent";
+"TITLE_TOGGLINTEGRATION" = "Toggl Integration";
+"TITLE_SELECTWORKSPACE" = "Select a Workspace";
+"TITLE_SELECTPROJECT" = "Select a Project";
+"TITLE_SELECTPRESET" = "Select a Preset";
+"TITLE_SHARESTARTSESSION" = "Start a Focus Session";
+"TITLE_SHORTCUTAUTOMATIONS" = "Shortcut Automations";
+"TITLE_COPYSHORTCUTCONFIGURATION" = "Copy Shortcut Configuration";
+
+"HEADING_PRODUCTIVITYRATING" = "Productivity Rating";
+"HEADING_SESSIONSUMMARY" = "Session Summary";
+"HEADING_FOCUS" = "Focus";
+"HEADING_STAGE" = "Stage";
+"HEADING_STAGES" = "Stages";
+"HEADING_DETAILS" = "Details";
+"HEADING_INTEGRATIONS" = "Integrations";
+"HEADING_FAVOURITESESSIONS" = "Favorite Sessions";
+"HEADING_ALLFOCUSSESSIONS" = "All Focus Sessions";
+"HEADING_CONFIGURATION" = "Configuration";
+"HEADING_LASTCOMPLETED" = "Last Completed";
+"HEADING_BETANOTES" = "Beta Notes";
+"HEADING_IMPROVEMENTS" = "Improvements";
+"HEADING_DAILYGOALS" = "Daily Goals";
+"HEADING_GOALPROGRESS" = "Goal Progress";
+"HEADING_DAILYGOAL" = "Daily Goal";
+"HEADING_RECENTFOCUSENTRIES" = "Recent Focus Entries";
+"HEADING_HOWPRODUCTIVE" = "How productive were you?";
+"HEADING_GOALPROGRESS" = "Daily Goal Progress";
+"HEADING_COMPLETEDSTAGES" = "Completed Stages";
+"HEADING_REMAININGSTAGES" = "Remaining Stages";
+"HEADING_CURRENTSTAGE" = "Current Stage";
+"HEADING_UPCOMING" = "Upcoming";
+"HEADING_NEXTSTAGE" = "Next Stage";
+"HEADING_GENERAL" = "General";
+"HEADING_TASKBASED" = "Task Based";
+"HEADING_TECHNIQUE" = "Technique";
+"HEADING_ALERT" = "Alert";
+"HEADING_NOTIFICATIONS" = "Notifications";
+"HEADING_CONTACT" = "Contact";
+"HEADING_ABOUT" = "About";
+"HEADING_MENUBAR" = "Menu Bar";
+"HEADING_APPEARANCE" = "Appearance";
+"HEADING_SESSIONACTIONS" = "Session Actions";
+"HEADING_STAGEACTIONS" = "Stage Actions";
+"HEADING_MORE" = "More";
+"HEADING_AVAILABLESHORTCUTS" = "Available Shortcuts";
+"HEADING_NAME" = "Name";
+
+"A11Y_STARTSESSIONNAME" = "Start %@";
+"A11Y_SESSIONFOCUS" = "Session Focus";
+"A11Y_STAGEFOCUS" = "Stage Focus";
+"A11Y_TIMEREMAINING" = "Time Remaining";
+"A11Y_ADJUSTTIMERVOLUME" = "Adjust Timer Volume";
+"A11Y_ADJUSTALERTSVOLUME" = "Adjust Alerts Volume";
+
+"BETA_FEEDBACK_HEADER" = "Feedback";
+"BETA_FEEDBACK_FOOTER" = "Feel free to reach out if you find a bug, or have a question!";
+"BETA_SHARETESTFLIGHT" = "Share TestFlight Beta link";
+"BETA_FEATUREROADMAP" = "Feature Roadmap";
+
+"SHARE_TESTFLIGHT" = "Download Focused Work on TestFlight!";
+"SHARE_APPSTORE" = "Download Focused Work on the App Store!";
+
+"ERROR_UPDATE" = "Update Error";
+"ERROR_DELETE" = "Delete Error";
+"ERROR_SESSION" = "Session Error";
+"ERROR_STAGE" = "Stage Error";
+"ERROR_DUPLICATE" = "Duplicate Error";
+"ERROR_AUTOMATION" = "Automation Error";
+"ERROR_PURCHASE" = "Purchase Error";
+"ERROR_RESTOREPURCHASE" = "Restore Purchase Error";
+"ERROR_PRO" = "Focused Work Pro Error";
+
+"ERROR_COMPOSEEMAIL_TITLE" = "Unable to compose an email";
+"ERROR_COMPOSEEMAIL_MESSAGE %@" = "Mail app isn't set up. Please email %@ from your favorite email client.";
+"ERROR_COMPOSEEMAIL_ACTION" = "Copy Email Address";
+"ERROR_DELETELASTSTAGE" = "Focus Sessions must contain at least one stage.";
+"ERROR_SESSIONNOTFOUND" = "Focus Session no longer exists.";
+"ERROR_STAGENOTFOUND" = "Stage no longer exists.";
+"ERROR_UNFAVOURITE_NOSESSION" = "Unable to adjust favorite state, session does not exist.";
+"ERROR_APPICON" = "Unable to set icon";
+"ERROR_TOGGLTOKEN" = "Confirm your Toggl API Token is correct.";
+"ERROR_DATABASEINIT" = "Error Initialising Database";
+"ERROR_DATABASEACCESS" = "Error Accessing Database";
+
+"ERROR_TYPE_HTTPCLIENT" = "There was a request error when";
+"ERROR_TYPE_HTTPSERVER" = "There was a server error when";
+"ERROR_TYPE_OTHER" = "There was an unexpected error when";
+"ERROR_TYPE_NETWORKOFFLINE" = "No internet connection available when";
+"ERROR_TYPE_NETWORKINVALIDHOST" = "Hostname not found when";
+
+
+"PLACEHOLDER_ADDNOTES" = "Add some notes. What worked well for you during your session? What didn't?";
+"PLACEHOLDER_NOFOCUS" = "No focus set";
+"PLACEHOLDER_NOSTAGES" = "No stages";
+"PLACEHOLDER_COPYSESSION_TITLE" = "No sessions configured";
+"PLACEHOLDER_COPYSESSION_DESCRIPTION" = "Sessions with configured Shortcuts will appear here. Selecting a session from the list will apply its configuration to the session you're currently editing.";
+"PLACEHOLDER_COPYSHORTCUTS_TITLE" = "No sessions configured";
+"PLACEHOLDER_COPYSHORTCUTS_DESCRIPTION" = "Sessions with an active Toggl configuration will appear here. Selecting a session from the list will apply its Preset or Workspace, Project, and Tag configuration to the session you're currently editing.";
+"PLACEHOLDER_NOTCONFIGURED" = "Not Configured";
+"PLACEHOLDER_SESSIONDESCRIPTION" = "Add some brief notes for this session.";
+"PLACEHOLDER_NOPROJECT" = "No Project";
+"PLACEHOLDER_NOPROJECTS" = "No Projects";
+"PLACEHOLDER_NOWORKSPACES" = "No Workspaces";
+"PLACEHOLDER_NOTAGS" = "No Tags";
+"PLACEHOLDER_SESSIONREADY" = "Ready to focus?";
+"PLACEHOLDER_NOPRODUCTIVITYNOTES" = "Review your productivity notes here after completing a session.";
+"PLACEHOLDER_NORECENTSESSIONS" = "Review and reflect on recently completed focus sessions here.";
+"PLACEHOLDER_OVERLAY_SESSIONS" = "Complete focus sessions to rate & track your productivity.";
+"PLACEHOLDER_OVERLAY_BREAK" = "See if you've been taking enough breaks each day.";
+"PLACEHOLDER_OVERLAY_FOCUSEDWORK" = "See how much focused work you've completed over time.";
+"PLACEHOLDER_OVERLAY_FOCUSESSIONS" = "See how many sessions you've completed for a given time period.";
+"PLACEHOLDER_PRODUCTIVITYNOTES_TITLE" = "No Productivity Notes";
+"PLACEHOLDER_PRODUCTIVITYNOTES_DESCRIPTION" = "Your most recent productivity notes will appear here as you complete focus sessions.";
+"PLACEHOLDER_RECENTFOCUSENTRIES_TITLE" = "No Recent Entries";
+"PLACEHOLDER_RECENTFOCUSENTRIES_DESCRIPTION" = "As you complete focus sessions, your recent focus entries will appear here.";
+"PLACEHOLDER_RECENTSESSIONS_TITLE" = "No Completed Sessions";
+"PLACEHOLDER_RECENTSESSIONS_DESCRIPTION" = "Your most recent focus sessions will appear here as you complete them.";
+"PLACEHOLDER_NOSHORTCUTS_TITLE" = "No Shortcuts";
+"PLACEHOLDER_NOSHORTCUTS_DESCRIPTION" = "Create a shortcut in the Shortcuts app and trigger it mid-session.";
+"PLACEHOLDER_NOWORKSPACES_DESCRIPTION" = "Create a Workspace on the Toggl website.";
+"PLACEHOLDER_NOPRESETS_TITLE" = "No Toggl Presets";
+"PLACEHOLDER_NOPRESETS_DESCRIPTION" = "Create Workspace, Project, and Tag combinations, and link multiple Focus Sessions to that preset.";
+"PLACEHOLDER_NOSESSIONS_TITLE" = "No Focus Sessions";
+"PLACEHOLDER_NOSESSIONS_DESCRIPTION" = "Create a session before starting a session from the Share Sheet";
+
+"SESSION_COMPLETED" = "Session Completed";
+"SESSION_NOTCOMPLETED" = "Not Completed";
+"SESSION_CANCELLED" = "Session Cancelled";
+"SESSION_PAUSED" = "Session Paused";
+
+"SESSION_ACTION_END" = "End Session";
+"SESSION_ACTION_END_CONFIRM" = "Are you sure you want to end the current focus session?\n\nMark Complete will include your progress for the current stage.";
+"SESSION_ACTION_ENDCOMPLETE" = "End and Mark Complete";
+"SESSION_ACTION_PAUSE" = "Pause Session";
+"SESSION_ACTION_RESUME" = "Resume Session";
+"SESSION_ACTION_RESTARTSTAGE" = "Restart Stage";
+"SESSION_ACTION_RESTARTSTAGE_CONFIRM" = "Are you sure you want to restart the current %@ stage?";
+"SESSION_ACTION_SKIPSTAGE" = "Skip Stage";
+"SESSION_ACTION_SKIPSTAGE_CONFIRM" = "Are you sure you want to begin the next stage?";
+"SESSION_ACTION_SKIPSTAGE_CONFIRM_FOCUSEDWORK" = "Are you sure you want to begin the next Focused Work stage?";
+"SESSION_ACTION_SKIPSTAGE_CONFIRM_BREAK" = "Are you sure you want to start your break early?";
+"SESSION_ACTION_SKIPSTAGE_CONFIRM_PLANNING" = "Are you sure you want to begin the next Planning stage?";
+"SESSION_ACTION_CHANGE" = "Change Session";
+"SESSION_ACTION_DETAILS" = "Session Details";
+"SESSION_ACTION_START" = "Start Session";
+"SESSION_ACTION_SELECT" = "Select Session";
+"SESSION_ACTION_UPDATEFOCUS" = "Update Focus";
+"SESSION_ACTION_REPEAT" = "Repeat Session";
+"SESSION_ACTION_PROGRESS" = "Session Progress";
+"SESSION_ACTION_ENDGROUP_CONFIRM" = "Are you sure you want to end the current focus session for all participants?";
+"SESSION_ACTION_JOINGROUP_CONFIRM" = "Are you sure you want to end this session and join the Focus Group?";
+"SESSION_ACTION_LEAVEGROUP" = "Leave Focus Group";
+"SESSION_ACTION_LEAVEGROUP_CONFIRM" = "Are you sure you want to leave the Focus Group?";
+"SESSION_ACTION_STARTGROUP" = "Start Focus Group";
+"SESSION_ACTION_STARTGROUP_CONFIRM" = "Do you want to start a new Focus Group with SharePlay?\n\nAll participants will share the same focus session.";
+
+"STAGE_PROGRESS_QUEUED" = "Queued";
+"STAGE_PROGRESS_CANCELLED" = "Cancelled";
+"STAGE_PROGRESS_COMPLETED" = "Completed";
+"STAGE_PROGRESS_INPROGRESS" = "In Progress";
+"STAGE_PROGRESS_PAUSED" = "Paused";
+
+"EDITSESSION_CARDPREVIEW" = "Card Preview";
+"EDITSESSION_PAUSEONNEXTSTAGE" = "Pause on Next Stage";
+"EDITSESSION_SELECTICON" = "Select Icon";
+"EDITSESSION_NAME" = "Add a name";
+
+"TIP_STAGEGESTURE_MAC" = "Right-click to duplicate or delete.";
+"TIP_STAGEGESTURE_IOS" = "Swipe to duplicate or delete.";
+
+"MOCK_FOCUS_FINISHASSIGNMENT" = "Finish my assignment";
+"MOCK_FOCUS_INBOXZERO" = "Get to inbox zero";
+"MOCK_FOCUS_MEMORIZEEXAM" = "Memorize exam questions";
+"MOCK_FOCUS_DESIGNWEBSITE" = "Design website wireframes";
+"MOCK_FOCUS_SENDEMAIL" = "Send weekly email";
+"MOCK_FOCUS_WRITEBLOG" = "Write a blog post";
+
+"MOCK_PRODUCTIVITYFEEDBACK_INTHEZONE" = "I was completely in the zone!";
+"MOCK_PRODUCTIVITYFEEDBACK_TIRED" = "I felt tired";
+"MOCK_PRODUCTIVITYFEEDBACK_STAND" = "I need to remember to stand and stretch";
+"MOCK_PRODUCTIVITYFEEDBACK_FINISHEDEARLY" = "I finished my work early, so I took a longer break";
+
+"PRODUCTIVITYHISTORY_HEADING" = "Export Productivity History";
+"PRODUCTIVITYHISTORY_DESCRIPTION_1" = "Review all your completed Focus Sessions in a simple CSV format.";
+"PRODUCTIVITYHISTORY_DESCRIPTION_2" = "Connect it to your own dashboard and analyse data points such as when sessions were started or completed, and how often stages were paused, skipped, or restarted.";
+
+"SESSIONCOMPLETE_TITLE_1" = "Nice Effort!";
+"SESSIONCOMPLETE_TITLE_2" = "Well Done!";
+"SESSIONCOMPLETE_TITLE_3" = "Great Job!";
+
+"SHAREPLAY_FOCUSGROUP_TITLE" = "Focus Group";
+"SHAREPLAY_FOCUSGROUP_SUBTITLE" = "Focus together with friends, in a Focus Group";
+
+"ONBOARDING_CREATESESSIONS" = "Create repeatable Focus Sessions for different tasks.";
+"ONBOARDING_SESSIONSTAGES" = "Add structure to each session.";
+"ONBOARDING_SESSIONFOCUS" = "Pick a task you want to focus on.";
+"ONBOARDING_CURRENTSESSION" = "Start the timer and get to work.";
+"ONBOARDING_PRODUCTIVITY" = "Create healthy productivity habits by completing daily goals.";
+
+
+"POWERSAVER_FOOTER" = "Power Saver reduces background activity when Focused Work is not on-screen or when the device is locked.";
+"POWERSAVER_WHENENABLED" = "When Power Saver is enabled:";
+"POWERSAVER_ENABLED_SESSIONS" = "After a stage is completed, tap the alert to begin the next stage.";
+"POWERSAVER_ENABLED_AUDIO" = "Ticking sound is unavailable when Focused Work is in the background.";
+"POWERSAVER_ENABLED_ALERTS" = "Focus Reminders won't appear mid-session.";
+"POWERSAVER_ENABLED_PAUSEONNEXTSTAGE" = "The total time between stages won't be counted.";
+"POWERSAVER_ALWAYSENABLED" = "Always Enabled";
+"POWERSAVER_ALWAYSENABLED_DESCRIPTION" = "Enable Power Saver at all times.";
+"POWERSAVER_FOLLOWLOWPOWER" = "Follow Low Power Mode";
+"POWERSAVER_FOLLOWLOWPOWER_DESCRIPTION" = "Enable Power Saver when system Low Power Mode is active.";
+
+"DAILYGOALS_FOCUSEDWORKREMAINING" = "of Focused Work remaining";
+"DAILYGOALS_BREAKTIMEREMAINING" = "of Break Time remaining";
+"DAILYGOALS_COMPLETED" = "Well done completing your daily goals!";
+
+"PRODUCTIVITY_20SESSIONS" = "Last 20 Sessions";
+"PRODUCTIVITY_THISWEEK" = "This Week";
+"PRODUCTIVITY_LASTMONTH" = "Last Month";
+"PRODUCTIVITY_HALFYEAR" = "Half Year";
+"PRODUCTIVITY_THISYEAR" = "This Year";
+"PRODUCTIVITY_LASTYEAR" = "Last Year";
+"PRODUCTIVITY_ALLTIME" = "All Time";
+
+"PRODUCTIVITY_AVERAGEEMPTY" = "Average calculated after completing more sessions";
+"PRODUCTIVITY_AVERAGERATING_20SESSIONS" = "Avg. %@ rating from your last 20 sessions";
+"PRODUCTIVITY_AVERAGERATING_PERDAY" = "Avg. %@ rating per day";
+"PRODUCTIVITY_AVERAGEBREAK_PER" = "Averaging %@ Break Time per";
+"PRODUCTIVITY_AVERAGEFOCUSEDWORK_PER" = "Averaging %@ Focused Work per";
+"PRODUCTIVITY_AVERAGEFOCUSSESSIONS_PER" = "Averaging %@ Focus Sessions per";
+
+"PRODUCTIVITY_BREAKTIME_NONE" = "No Break Time";
+"PRODUCTIVITY_FOCUSEDWORK_NONE" = "No Focused Work";
+"PRODUCTIVITY_FOCUSSESSIONS_NONE" = "No Completed Sessions";
+
+
+"PRODUCTIVITY_RATING_NONE" = "No Rating";
+"PRODUCTIVITY_RATING_NOTREALLY" = "Not Really Productive...";
+"PRODUCTIVITY_RATING_SOMEWHAT" = "Somewhat Productive..";
+"PRODUCTIVITY_RATING_FAIRLY" = "Fairly Productive.";
+"PRODUCTIVITY_RATING_VERY" = "Very Productive!";
+"PRODUCTIVITY_RATING_SUPER" = "SUPER Productive!";
+
+"PRODUCTIVITY_RATING_NOTREALLY_SHORT" = "Not";
+"PRODUCTIVITY_RATING_SOMEWHAT_SHORT" = "Kinda";
+"PRODUCTIVITY_RATING_FAIRLY_SHORT" = "Fairly";
+"PRODUCTIVITY_RATING_VERY_SHORT" = "Very";
+"PRODUCTIVITY_RATING_SUPER_SHORT" = "Super";
+
+"METRIC_DAY" = "day";
+"METRIC_WEEK" = "week";
+"METRIC_MONTH" = "month";
+
+"UPDATEGOAL_STREAKSINCE" = "Currently on a streak since %@.";
+"UPDATEGOAL_STREAKNONE" = "Complete your %@ goal today to begin a new streak.";
+"UPDATEGOAL_LONGESTSTREAK" = "Longest streak ending on %@.";
+"UPDATEGOAL_COMPLETED" = "Well done completing your %@ goal!";
+"UPDATEGOAL_FOOTER_FOCUSSESSIONS" = "Set how many sessions you want to aim for each day.";
+"UPDATEGOAL_FOOTER_FOCUSEDWORK" = "Set how much Focused Work you want to aim for each day.";
+"UPDATEGOAL_FOOTER_BREAKTIME" = "Set how much break time you want to aim for each day.";
+
+"SESSIONCOMPLETE_ADDTIME" = "Add Extra Time to Session";
+"SESSIONCOMPLETE_ADDTIME_FOOTER" = "Log extra time after completing the session, based on the final stage type.";
+
+"PERMISSION_NOTIFICATION_FOCUSREMINDERS_MESSAGE" = "Whilst the app is open, you'll receive reminders to help you remain focused.\n\nWhen it's not on-screen, we need permission to share these reminders with you.";
+"PERMISSION_NOTIFICATION_DENIED_TITLE" = "Notification Permission Denied";
+"PERMISSION_NOTIFICATION_DENIED_MESSAGE" = "You can enable the Notification permission in the Settings app.";
+"PERMISSION_SIRI_DENIED_TITLE" = "Siri Permission Denied";
+"PERMISSION_SIRI_DENIED_MESSAGE" = "You can enable the Siri permission in the Settings app at a later time.";
+
+"SETTING_VOLUME_TIP_MAC" = "Tip: Click-and-drag the Timer to adjust volume.";
+"SETTING_VOLUME_TIP_IOS" = "Tip: Long-press and drag the Timer to adjust volume.";
+"SETTING_TIMERVOLUME" = "Timer Volume";
+"SETTING_FOCUSREMINDERS_TITLE" = "Focus Reminders";
+"SETTING_FOCUSREMINDERS_DESCRIPTION" = "Display mid-session reminders to maintain your focus.";
+"SETTING_COUNTSTYLE" = "Count Style";
+"SETTING_COUNTSTYLE_UP" = "Count Up";
+"SETTING_COUNTSTYLE_DOWN" = "Count Down";
+"SETTING_ICLOUDSYNC_TITLE" = "iCloud Sync";
+"SETTING_ICLOUDSYNC_DESCRIPTION" = "Unable to sync your data with iCloud. Please check you have available storage space.";
+"SETTING_NOTIFICATIONSDISABLED_TITLE" = "Notifications Disabled";
+"SETTING_NOTIFICATIONSDISABLED_DESCRIPTION_MAC" = "Enable notification permission in System Preferences";
+"SETTING_NOTIFICATIONSDISABLED_DESCRIPTION_IOS" = "Open the Settings app, then tap Notifications and Allow Notifications";
+"SETTING_STAGENEARLYCOMPLETE_TITLE" = "Stage Nearly Completed";
+"SETTING_STAGENEARLYCOMPLETE_DESCRIPTION" = "Show a one-minute remaining reminder when the app is in the background.";
+"SETTING_OTHERDEVICES_TITLE" = "Other Devices";
+"SETTING_OTHERDEVICES_DESCRIPTION" = "Receive alerts from Focus Sessions running on another device.";
+"SETTING_SCREENON_TITLE" = "Keep Screen On";
+"SETTING_SCREENON_DESCRIPTION" = "Prevent display auto-lock when sessions are in progress.";
+"SETTING_TIMERFONT_TITLE" = "Timer Font";
+"SETTING_TIMERFONT_DESCRIPTION" = "Standard displays a normal rounded font. Monospaced evenly spaces out text to prevent pixel shifting.";
+"SETTING_TIMERFONT_STANDARD" = "Standard";
+"SETTING_TIMERFONT_MONOSPACED" = "Monospaced";
+"SETTING_TIMERREFRESH_TITLE" = "Timer Refresh Interval";
+"SETTING_TIMERREFRESH_DESCRIPTION" = "Adjust how often the countdown timer will refresh.";
+"SETTING_TIMERREFRESH_1SECOND" = "1 Second";
+"SETTING_TIMERREFRESH_30SECONDS" = "30 Seconds";
+"SETTING_TIMERREFRESH_1MINUTE" = "1 Minute";
+"SETTING_ICONBADGE_TITLE" = "Daily Goals as App Badge";
+"SETTING_ICONBADGE_DESCRIPTION" = "Show total remaining daily goals as the notification badge count.";
+"SETTING_EMAIL" = "Email";
+"SETTING_LEAVEREVIEW" = "Leave an App Store Review";
+"SETTING_FAQ_DESCRIPTION" = "Focused Work Basics. Integrate with Toggl, Shortcuts, and other tidbits.";
+"SETTING_NEWSLETTER_DESCRIPTION" = "Receive monthly updates. Zero spam.";
+"SETTING_DISCORD_TITLE" = "Join the Discord Community";
+"SETTING_DISCORD_DESCRIPTION" = "Keep in the loop with news, announcements, beta updates, and share why you love the app!";
+"SETTING_SHOWMENUBAR_TITLE" = "Show Timer";
+"SETTING_SHOWMENUBAR_DESCRIPTION" = "See the session timer & details in the system menu bar.";
+"SETTING_MENUBAR_SESSIONFOCUS" = "Display Session/Stage Focus";
+"SETTING_MENUBAR_STAGEICON" = "Display Stage Icon";
+"SETTING_APPTHEME" = "App Theme";
+"SETTING_APPTHEME_SYSTEM" = "System";
+"SETTING_APPTHEME_LIGHT" = "Light";
+"SETTING_APPTHEME_DARK" = "Dark";
+"SETTING_PUREBLACK_TITLE" = "Use Pure Black Dark Mode";
+"SETTING_PUREBLACK_DESCRIPTION" = "Display pure black backgrounds on all screens.";
+"SETTING_KEEPONTOP_TITLE" = "Keep On Top";
+"SETTING_KEEPONTOP_DESCRIPTION" = "Always show Focused Work above other apps.";
+"SETTING_CARDCOLORSTYLE_TITLE" = "Session Card Color Style";
+"SETTING_CARDCOLORSTYLE_DESCRIPTION" = "Display a particular color style while a session is in progress.";
+"SETTING_CARDCOLORSTYLE_COLORFUL" = "Colorful";
+"SETTING_CARDCOLORSTYLE_MINIMAL" = "Minimal";
+"SETTING_CARDCOLORSTYLE_MINIMALDARK" = "Minimal - Dark";
+
+"TIP_DESCRIPTION" = "
+Hey! 👋
+
+I appreciate your support and contribution to Focused Work. In case you wish to further share your love for this app, feel free to leave a tip of any size below. 🙂
+
+Thank you!
+
+❤️ Michael
+";
+"TIP_ON" = "Tipped on %@";
+"TIP_THANKYOU_LINE1" = "I appreciate the support, it really means a lot.";
+"TIP_THANKYOU_LINE2" = "Share this screen with me on Twitter / send me an email. I'd love to hear how Focused Work has helped you be more productive.";
+"TIP_THANKYOU_LINE3" = "Or, feel free to leave a kind review on the App Store!";
+
+"TOGGL_WORKSPACE" = "Workspace";
+"TOGGL_WORKSPACES" = "Workspaces";
+"TOGGL_PROJECT" = "Project";
+"TOGGL_PROJECTS" = "Projects";
+"TOGGL_TAG" = "Tag";
+"TOGGL_TAGS" = "Tags";
+"TOGGL_PRESETS" = "Presets";
+
+"TOGGL_INFO_TITLE" = "Link your Toggl account to log Focused Work, Break, and Planning stages.";
+"TOGGL_INFO_DESCRIPTION" = "Assign Projects and Tags to each Focus Session, and create common presets that link to multiple sessions.";
+"TOGGL_INFO_TOKEN" = "Get my API Token";
+"TOGGL_ENTERTOKEN" = "Enter your API token";
+"TOGGL_ENTERTOKEN_FOOTER" = "Add your Toggl API Token to authenticate with Toggl.";
+"TOGGL_DISCLAIMER" = "Focus Session stages will be submitted to Toggl if there's an active internet connection.";
+"TOGGL_WEBSITE" = "Toggl Website";
+"TOGGL_CONFIGURATIONDISABLED" = "This configuration was saved with another Toggl account. Select another workspace.";
+
+"TOGGLPRESET_ALTACC_TITLE" = "Preset created with another Toggl account";
+"TOGGLPRESET_ALTACC_MESSAGE" = "This preset was not created with the current Toggl account. Do you want to delete it?";
+"TOGGLPRESET_ALTACC_DISABLED" = "This preset was created with a different Toggl account. Select another preset.";
+"TOGGLPRESET_HINT" = "Enter a name";
+"TOGGLPRESET_SELECT" = "Select a Toggl Preset";
+"TOGGLPRESET_DESELECT" = "Deselect Toggl Preset";
+"TOGGLPRESET_MANUAL" = "Convert to Manual Configuration";
+"TOGGLPRESET_NONAME" = "No Name";
+
+"TOGGL_LOGSTAGES" = "Log Stages";
+"TOGGL_LOGSTAGES_FOOTER" = "Log completed stages. Assign Projects, Tags, and Tasks.";
+
+"UPSELL_INTRO_LINE1" = "Focused Work is made by me, Michael! 👋 ";
+"UPSELL_INTRO_LINE2" = "I created it to help people focus and structure their time effectively. (me included! 😁)";
+
+"UPSELL_FEATURE_FOCUSSESSIONS" = "Unlimited Focus Sessions.";
+"UPSELL_FEATURE_SHORTCUTAUTOMATIONS" = "Automatically trigger Shortcuts mid-session.";
+"UPSELL_FEATURE_TOGGL" = "Toggl Integration. Assign Projects, Tags, Tasks.";
+"UPSELL_FEATURE_DEVICEALERTS" = "Mid-session alerts on all devices.";
+"UPSELL_FEATURE_DATAEXPORT" = "Productivity Export.";
+"UPSELL_FEATURE_ICLOUD" = "iCloud Sync & Backup.";
+"UPSELL_FEATURE_ICONS" = "App Icons. App & Widget Themes.";
+"UPSELL_LIFETIME_PREFIX" = "You've permanently unlocked";
+"UPSELL_SUBSCRIPTION_PREFIX" = "You've unlocked";
+"UPSELL_LIFETIMEPURCHASED" = "Lifetime Purchased ❤️";
+"UPSELL_SUBSCRIBEDUNTIL" = "Subscribed until";
+
+"QUICKACTION_PRODUCTIVITYSTATS" = "Productivity Stats";
+"QUICKACTION_STARTFOCUSSESSION" = "Start Focus Session";
+"QUICKACTION_SELECTSESSION" = "Select a Session";
+
+"PURCHASE_TYPE_LIFETIME" = "Lifetime";
+"PURCHASE_TYPE_CUSTOM" = "Custom";
+"PURCHASE_TYPE_ANNUAL" = "Annual";
+"PURCHASE_TYPE_6MONTH" = "6 Month";
+"PURCHASE_TYPE_3MONTH" = "3 Month";
+"PURCHASE_TYPE_2MONTH" = "2 Month";
+"PURCHASE_TYPE_MONTHLY" = "Monthly";
+"PURCHASE_TYPE_WEEKLY" = "Weekly";
+"PURCHASE_TYPE_UNKNOWN" = "Unknown";
+
+"PURCHASE_PRICESUFFIX_LIFETIME" = "once";
+"PURCHASE_PRICESUFFIX_ANNUAL" = "/year";
+"PURCHASE_PRICESUFFIX_MONTHLY" = "/month";
+"PURCHASE_PRICESUFFIX_WEEKLY" = "/week";
+
+"PURCHASE_TIP_LITTLE" = "Little Tip";
+"PURCHASE_TIP_SMALL" = "Small Tip";
+"PURCHASE_TIP_MEDIUM" = "Medium Tip";
+"PURCHASE_TIP_LARGE" = "Large Tip";
+"PURCHASE_TIP_MASSIVE" = "Massive Tip";
+
+"PURCHASE_CANCELLED" = "Purchase Cancelled";
+"PURCHASE_RESTORING" = "Restoring Purchases";
+"PURCHASE_RESTORING_COMPLETE_TITLE" = "Restore Purchases completed";
+"PURCHASE_RESTORING_COMPLETE_MESSAGE" = "Focused Work Pro is now active.";
+"PURCHASE_RESTORING_NONE" = "No previous purchases to restore.";
+
+"WHATSNEW_LEAVEREVIEW" = "Leave a Review";
+"WHATSNEW_READMORE" = "Read More";
+"WHATSNEW_TITLE" = "Focused Work\nUpdates";
+
+"WIDGET_DAILYGOALS_NAME" = "Daily Goals";
+"WIDGET_DAILYGOALS_DESCRIPTION" = "Display your daily productivity goals.";
+"WIDGET_MULTIPLESTARTSESSION_NAME" = "Multiple Start Focus Session";
+"WIDGET_MULTIPLESTARTSESSION_DESCRIPTION" = "Quickly start a focus session.";
+"WIDGET_SINGLESTARTSESSION_NAME" = "Start Focus Session";
+"WIDGET_SINGLESTARTSESSION_DESCRIPTION" = "Quickly start a focus session.";
+"WIDGET_CURRENTSESSION_NAME" = "Current Focus Session";
+"WIDGET_CURRENTSESSION_DESCRIPTION" = "Display the timer and current session. Session controls aren't available in small widget.";
+
+"TEMPLATE_POMODORO_NAME" = "Pomodoro";
+"TEMPLATE_POMODORO_DESCRIPTION" = "A common focus technique that encourages dividing tasks into three 25 min Focused Work stages, with two 5 min Breaks inbetween, ending with a 15 min Break.";
+"TEMPLATE_TWOHALVES_NAME" = "Two Halves";
+"TEMPLATE_TWOHALVES_DESCRIPTION" = "Suited for focusing on larger tasks that require extra time to reach a flow state, such as Coding or Content Writing. Two 45 min Focused Work stages with a 10 min Break inbetween. A favorite of the developer. 🙂";
+"TEMPLATE_HALF_NAME" = "Half";
+"TEMPLATE_HALF_DESCRIPTION" = "A half of Two Halves. Suited for focusing on larger tasks but you have less than an hour to spare.";
+"TEMPLATE_GAPTIME_NAME" = "Gap Time";
+"TEMPLATE_GAPTIME_DESCRIPTION" = "Perfect for completing short tasks while you're waiting for your tasty dinner to finish cooking!";
+"TEMPLATE_SPRINT_NAME" = "Sprint";
+"TEMPLATE_SPRINT_DESCRIPTION" = "A session divided into short Focused Work and Break stages, for when you're studying for an exam or need to memorise information. Balanced short breaks help keep your mind fresh and on-task.";
+"TEMPLATE_STACK_NAME" = "Stack";
+"TEMPLATE_STACK_DESCRIPTION" = "A technique that encourages working hard on a task in the first part, with a focus to wrap it up in the second part.";
+"TEMPLATE_ULTRADIAN_NAME" = "Ultradian";
+"TEMPLATE_ULTRADIAN_DESCRIPTION" = "Follow the Ultradian Rhythms technique which includes two 90 min stages of high productivity, with two 20 min breaks inbetween.";
+"TEMPLATE_REVERSEPOMODORO_NAME" = "Reverse Pomodoro";
+"TEMPLATE_REVERSEPOMODORO_DESCRIPTION" = "The go-to session when you're feeling unmotivated or have brain fog. It emphasises taking long breaks with short bursts of Focused Work to help you complete smaller tasks and build momentum.";
+"TEMPLATE_READING_NAME" = "Reading";
+"TEMPLATE_READING_DESCRIPTION" = "A brief focus session for completing some daily reading.";
+"TEMPLATE_TIMER_NAME" = "Simple Timer";
+"TEMPLATE_TIMER_DESCRIPTION" = "A simple count up timer that's great for open-ended tasks such as meetings.";
+"TEMPLATE_WINDDOWN_NAME" = "Wind Down";
+"TEMPLATE_WINDDOWN_DESCRIPTION" = "Complete a relaxing routine before bed to help with falling asleep. Read a book, listen to your favorite meditation app, or journal about your day.";
+"TEMPLATE_LUNCH_NAME" = "Lunch Break";
+"TEMPLATE_LUNCH_DESCRIPTION" = "Treat yourself to a one-hour lunch break to clear your mind, and enjoy some tasty food!";
+
+"TEMPLATE_STAGE_STRETCH" = "Stand up, and stretch";
+"TEMPLATE_STAGE_STANDSTRETCHWALK" = "Stand up, stretch, walk around";
+"TEMPLATE_STAGE_WALK" = "Walk around";
+"TEMPLATE_STAGE_WALKSTRETCH" = "Walk around, and stretch";
+"TEMPLATE_STAGE_RELAX" = "Relax, and enjoy my well deserved break!";
+"TEMPLATE_STAGE_TASKS" = "Finish up remaining tasks";
+"TEMPLATE_STAGE_PREPARE" = "Prepare for the sprint";
+
+"TIMER_STAGECOMPLETED" = "Stage Completed";
+
+"AUTOMATION_SESSIONSTART" = "Session Start";
+"AUTOMATION_SESSIONFINISH" = "Session Finish";
+"AUTOMATION_FOCUSEDWORKSTART" = "Focused Work Start";
+"AUTOMATION_FOCUSEDWORKEND" = "Focused Work End";
+"AUTOMATION_BREAKSTART" = "Break Start";
+"AUTOMATION_BREAKEND" = "Break End";
+"AUTOMATION_PLANNINGSTART" = "Planning Start";
+"AUTOMATION_PLANNINGEND" = "Planning End";
+
+"AUTOMATION_SETHINT" = "Set a Shortcut";
+"AUTOMATION_MANUALINPUT_MESSAGE" = "Enter a shortcut for this event";
+"AUTOMATION_MANUALINPUT_PLACEHOLDER" = "Shortcut name";
+
+"SHORTCUTSUPPORTFOOTER_BIGSUR" = "Automatically trigger shortcuts mid-session on an iOS or iPadOS device.";
+"SHORTCUTSUPPORTFOOTER_MONTEREY" = "Automatically trigger shortcuts as you progress through a focus session. e.g. Turn on Focus only for Focused Work stages.";
+"SHORTCUTSUPPORTFOOTER_IOS15" = "Automatically trigger shortcuts as you progress through a focus session, while the app is in the foreground. e.g. Turn on Focus only for Focused Work stages.";
+"SHORTCUTSUPPORTFOOTER_IOS14" = "Automatically trigger shortcuts as you progress through a focus session, while the app is in the foreground. e.g. Turn on Do Not Disturb only for Focused Work stages.";
+
+"SHARESHEET_VALIDATION_TITLE" = "Set a Focus";
+"SHARESHEET_VALIDATION_MESSAGE" = "Enter a focus before starting the focus session.";
+
+"BREAKREMINDER_TITLE1" = "Have you started your break?";
+"BREAKREMINDER_MESSAGE1" = "Taking one now will help you be more productive later.";
+"BREAKREMINDER_MESSAGE2" = "You might think you're being more productive but this is about the long haul.";
+"BREAKREMINDER_MESSAGE3" = "It's a marathon, not a sprint.";
+"BREAKREMINDER_MESSAGE4" = "It's just as important to take a break as it is to work.";
+
+"FOCUSREMINDER_TITLE1" = "Ahoy";
+"FOCUSREMINDER_TITLE2" = "Atteeeeention";
+"FOCUSREMINDER_TITLE3" = "G'day mate";
+"FOCUSREMINDER_TITLE4" = "Hello";
+"FOCUSREMINDER_TITLE5" = "Hey you";
+"FOCUSREMINDER_TITLE6" = "Hey";
+"FOCUSREMINDER_TITLE7" = "Hey Chief";
+"FOCUSREMINDER_TITLE8" = "Hey Champ";
+"FOCUSREMINDER_TITLE9" = "Hey Good Looking";
+"FOCUSREMINDER_TITLE10" = "Mate";
+"FOCUSREMINDER_TITLE11" = "Oi, Legend";
+"FOCUSREMINDER_TITLE12" = "Psst";
+"FOCUSREMINDER_TITLE13" = "Yarr";
+"FOCUSREMINDER_TITLE14" = "Yo";
+"FOCUSREMINDER_TITLE15" = "You! Yes, You.";
+
+"FOCUSREMINDER_MESSAGE1" = "Clear Focus";
+"FOCUSREMINDER_MESSAGE2" = "Concentrate";
+"FOCUSREMINDER_MESSAGE3" = "Direct your focus";
+"FOCUSREMINDER_MESSAGE4" = "Do the right thing";
+"FOCUSREMINDER_MESSAGE5" = "Eyes open";
+"FOCUSREMINDER_MESSAGE6" = "F O C U S";
+"FOCUSREMINDER_MESSAGE7" = "Focus on the target";
+"FOCUSREMINDER_MESSAGE8" = "Focus on the task";
+"FOCUSREMINDER_MESSAGE9" = "Get back to work";
+"FOCUSREMINDER_MESSAGE10" = "Get it done";
+"FOCUSREMINDER_MESSAGE11" = "Keep going";
+"FOCUSREMINDER_MESSAGE12" = "Keep at it";
+"FOCUSREMINDER_MESSAGE13" = "Keep working";
+"FOCUSREMINDER_MESSAGE14" = "Maintain that focus";
+"FOCUSREMINDER_MESSAGE15" = "Stay focused";
+"FOCUSREMINDER_MESSAGE16" = "Stay the course";
+"FOCUSREMINDER_MESSAGE17" = "Stay sharp";
+"FOCUSREMINDER_MESSAGE18" = "Stop being distracted";
+"FOCUSREMINDER_MESSAGE19" = "Stop messing around";
+"FOCUSREMINDER_MESSAGE20" = "Whilst focusing, focus";
+
+"SESSIONCONTINUE_FOCUSEDWORK" = "Ready to start the next Focused Work stage?";
+"SESSIONCONTINUE_BREAK" = "Ready to start your break?";
+"SESSIONCONTINUE_PLANNING" = "Ready to start the next Planning stage";
+"SESSIONCONTINUE_TIMESINCE" = "Time since %@ stage ended";
+"SESSIONCONTINUE_LOGEXTRATIME" = "Log Extra Time and start %@";
+
+
+"SHORTCUT_ENDFOCUSSESSION" = "End Focus Session";
+"SHORTCUT_ENDFOCUSSESSION_PHRASE" = "End the current focus session";
+
+"SHORTCUT_GETCURRENTFOCUSSESSION" = "Get Current Focus Session";
+"SHORTCUT_GETCURRENTFOCUSSESSION_PHRASE" = "Get the current focus session";
+
+"SHORTCUT_GETFOCUSSESSIONS" = "Get Focus Sessions";
+"SHORTCUT_GETFOCUSSESSIONS_PHRASE" = "Get all focus sessions";
+
+"SHORTCUT_GETLASTFINISHEDFOCUSSESSION" = "Get Last Finished Focus Session";
+"SHORTCUT_GETLASTFINISHEDFOCUSSESSION_PHRASE" = "Get the last finished focus session";
+
+"SHORTCUT_PAUSEFOCUSSESSION" = "Pause Focus Session";
+"SHORTCUT_PAUSEFOCUSSESSION_PHRASE" = "Pause the current focus session";
+
+"SHORTCUT_RESTARTSTAGE" = "Restart Stage";
+"SHORTCUT_RESTARTSTAGE_PHRASE" = "Restart the current stage";
+
+"SHORTCUT_RESUMEFOCUSSESSION" = "Resume Focus Session";
+"SHORTCUT_RESUMEFOCUSSESSION_PHRASE" = "Resume the current focus session";
+
+"SHORTCUT_SETTIMERVOLUME" = "Set Timer Volume Level";
+"SHORTCUT_SETTIMERVOLUME_PHRASE" = "Set the timer volume";
+
+"SHORTCUT_SKIPSTAGE" = "Skip Stage";
+"SHORTCUT_SKIPSTAGE_PHRASE" = "Skip the current stage";
+
+"SHORTCUT_STARTFOCUSSESSION" = "Start Focus Session";
+"SHORTCUT_STARTFOCUSSESSION_PHRASE" = "Start a focus session";
+"SHORTCUT_STARTFOCUSSESSION_NAMED_PHRASE" = "Start a %@ session"; // Focus Session name as param
+
+"ALERT_BREAK_TITLE" = "Time for a break";
+"ALERT_BREAK_MESSAGE" = "Have a nice stretch!";
+
+"ALERT_TRANSITION_BREAK" = "Time for a break!";
+"ALERT_TRANSITION_PLANNING" = "Time for some planning!";
+"ALERT_TRANSITION_FOCUSEDWORK" = "Time to focus on your task!";
+
+"ALERT_STAGECOMPLETED" = "Stage Completed";
+"ALERT_CROSSDEVICE_STAGECOMPLETED" = "Your %@: %@ Stage Completed";
+"ALERT_STAGECOMPLETED_BACKGROUND_TITLE" = "%@ stage completed";
+"ALERT_STAGECOMPLETED_BACKGROUND_MESSAGE_NOSTAGES" = "Review the session.";
+
+"ALERT_SESSIONCOMPLETED_TITLE" = "Focus Session completed!";
+"ALERT_SESSIONCOMPLETED_MESSAGE" = "Review your session.";
+"ALERT_CROSSDEVICE_SESSIONCOMPLETED" = "Your %@: %@ Session Complete!";
+
+"ALERT_STAGENEARLYCOMPLETE_TITLE_FOCUSEDWORK" = "Focused Work stage nearly finished";
+"ALERT_STAGENEARLYCOMPLETE_TITLE_BREAK" = "Break stage nearly finished";
+"ALERT_STAGENEARLYCOMPLETE_TITLE_PLANNING" = "Planning stage nearly finished";
+"ALERT_STAGENEARLYCOMPLETE_MESSAGE" = "One minute remaining!";
+"ALERT_CROSSDEVICE_STAGENEARLYCOMPLETE" = "Your %@: %@";
+
+"ALERT_AUDIOINTERRUPT_TITLE" = "Focus Session still in progress";
+"ALERT_AUDIOINTERRUPT_MESSAGE" = "Open the app to see how much time you have left!";
+
+"ALERT_GOALCOMPLETED_TITLE" = "%@ goal completed";
+"ALERT_GOALCOMPLETED_MESSAGE" = "Great job on reaching your goal today!";
+
+"ALERT_NEWSTREAK_TITLE" = "New Longest Streak!";
+"ALERT_NEWSTREAK_MESSAGE" = "Your %@ longest record is now %@!";
+
+// Non app below
+
+"STORE_TITLE" = "Focused Work - Focus Timer";
+"STORE_TITLE_ALT" = "Focused Work - Pomodoro Timer";
+
+"STORE_SUBTITLE" = "Study, Break & Goal Tracker";
+"STORE_SUBTITLE_ALT" = "Daily Focus Goals, Track Time";
+
+"STORE_KEYWORDS" = "";
+
+"STORESCREENSHOT_1" = "Focusing on a big task has never been this easy.";
+"STORESCREENSHOT_2" = "Create flexible Focus Sessions to stay productive and avoid burnout";
+"STORESCREENSHOT_3" = "Set Automations that turn on Focus";
+"STORESCREENSHOT_3_MAC" = "Set Automations that turn on Focus and trigger other shortcuts mid-session";
+"STORESCREENSHOT_4" = "Be intentional with your time";
+"STORESCREENSHOT_5" = "Structure sessions however you like";
+"STORESCREENSHOT_6" = "Complete daily Productivity Goals";
+"STORESCREENSHOT_6_MAC" = "Complete daily Productivity Goals and create healthy habits over time";
+"STORESCREENSHOT_7" = "Stay on-task with Focus Reminders";
+"STORESCREENSHOT_8" = "Time Tracking with Toggl Track";
+"STORESCREENSHOT_9" = "Themeable Widgets and App Icons";
+"STORESCREENSHOT_10" = "Best In Class Platform Features";
+
+"STORE_DESCRIPTION" = "
+Focused Work is a flexible Focus Timer that helps you stay productive and avoid burnout.
+
+It’s purpose-built for people who struggle with focusing and structuring their time effectively.
+
+**Core Features**
+
+· Flexible Focus Sessions
+Create repeatable sessions that divide tasks into smaller parts, structured with Focused Work, Break, and Planning stages
+
+· Self-Accountability
+Each session encourages you to focus on a specific task or goal
+
+· Focus Reminders
+Avoid distractions with fun periodic reminders to maintain focus
+
+· Session Reflection
+Rate and journal about how productive you were during a session
+
+· Daily Goals & Streaks
+Create healthy productivity habits by completing productivity goals
+
+· Time Tracking with Toggl
+Assign Projects, Tags, and Tasks for a detailed breakdown on time spent
+
+**Ecosystem Features**
+
+Focused Work is designed and optimised for iOS 15, iPadOS 15, and macOS Monterey.
+
+· Siri Shortcuts
+Start a session with Siri. Pause, Skip, Restart the current stage.
+
+· Automatically turn on Focus
+Trigger shortcuts mid-focus session with Shortcut Automations
+
+· Alerts on all devices
+Start a session on Mac and receive alerts on iPhone, iPad, Apple Watch
+
+· iCloud Syncing
+Work from iPhone, iPad, or Mac. Created sessions and stats remain in-sync.
+
+· Share Extensions
+Start a session from your favourite task manager app via the Share Sheet
+
+· Themeable Widgets
+Current Session, Daily Goals, and Session Select widgets, with various themes.
+
+· App Icons
+Select an icon to match your homescreen. Coloured, Light, and Dark variants.
+
+· Productivity Export
+Export completed sessions & breadcrumbs in CSV format
+
+· Privacy Focused
+All user data is securely stored & managed via iCloud. No account registration.
+
+· More iOS & iPadOS Goodies
+Keyboard Shortcuts, VoiceOver, Split View & Slide Over, Low Power Mode, Drag & Drop, Dark Mode themes, Quick Actions, Low Power Mode, Sidebar Navigation, URL Schemes
+
+If you have any questions, please reach out to focusedworkapp@michaeltigas.com.au
+
+Privacy Policy: https://focusedwork.app/privacypolicy/
+Terms of Use: https://focusedwork.app/termsofuse/
+";

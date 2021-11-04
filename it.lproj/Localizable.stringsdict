@@ -1,0 +1,228 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>HEADING_STAGES_COUNT</key>
+	<dict>
+		<key>NSStringLocalizedFormatKey</key>
+		<string>%#@stages_count@</string>
+		<key>stages_count</key>
+		<dict>
+			<key>NSStringFormatSpecTypeKey</key>
+			<string>NSStringPluralRuleType</string>
+			<key>NSStringFormatValueTypeKey</key>
+			<string>lld</string>
+			<key>zero</key>
+			<string>No stages</string>
+			<key>one</key>
+			<string>%lld stage</string>
+			<key>other</key>
+			<string>%lld stages</string>
+		</dict>
+	</dict>
+	<key>COMPLETED_COUNT</key>
+	<dict>
+		<key>NSStringLocalizedFormatKey</key>
+		<string>%#@completed_count@</string>
+		<key>completed_count</key>
+		<dict>
+			<key>NSStringFormatSpecTypeKey</key>
+			<string>NSStringPluralRuleType</string>
+			<key>NSStringFormatValueTypeKey</key>
+			<string>lld</string>
+			<key>zero</key>
+			<string>Never Completed</string>
+			<key>one</key>
+			<string>%lld time</string>
+			<key>other</key>
+			<string>%lld times</string>
+		</dict>
+	</dict>
+	<key>SESSION_COUNT</key>
+	<dict>
+		<key>NSStringLocalizedFormatKey</key>
+		<string>%#@session_count@</string>
+		<key>session_count</key>
+		<dict>
+			<key>NSStringFormatSpecTypeKey</key>
+			<string>NSStringPluralRuleType</string>
+			<key>NSStringFormatValueTypeKey</key>
+			<string>lld</string>
+			<key>zero</key>
+			<string>No Sessions</string>
+			<key>one</key>
+			<string>%lld Session</string>
+			<key>other</key>
+			<string>%lld Sessions</string>
+		</dict>
+	</dict>
+	<key>TERM_STAGE_COUNT</key>
+	<dict>
+		<key>NSStringLocalizedFormatKey</key>
+		<string>%#@stage_count@</string>
+		<key>stage_count</key>
+		<dict>
+			<key>NSStringFormatSpecTypeKey</key>
+			<string>NSStringPluralRuleType</string>
+			<key>NSStringFormatValueTypeKey</key>
+			<string>lld</string>
+			<key>zero</key>
+			<string>No Stages</string>
+			<key>one</key>
+			<string>%lld Stage</string>
+			<key>other</key>
+			<string>%lld Stages</string>
+		</dict>
+	</dict>
+	<key>TERM_NOTES_COUNT</key>
+	<dict>
+		<key>NSStringLocalizedFormatKey</key>
+		<string>%#@note_count@</string>
+		<key>note_count</key>
+		<dict>
+			<key>NSStringFormatSpecTypeKey</key>
+			<string>NSStringPluralRuleType</string>
+			<key>NSStringFormatValueTypeKey</key>
+			<string>lld</string>
+			<key>zero</key>
+			<string>No Notes</string>
+			<key>one</key>
+			<string>%lld Note</string>
+			<key>other</key>
+			<string>%lld Notes</string>
+		</dict>
+	</dict>
+	<key>TERM_TASKS_COUNT</key>
+	<dict>
+		<key>NSStringLocalizedFormatKey</key>
+		<string>%#@task_count@</string>
+		<key>task_count</key>
+		<dict>
+			<key>NSStringFormatSpecTypeKey</key>
+			<string>NSStringPluralRuleType</string>
+			<key>NSStringFormatValueTypeKey</key>
+			<string>lld</string>
+			<key>zero</key>
+			<string>No Tasks</string>
+			<key>one</key>
+			<string>%lld Task</string>
+			<key>other</key>
+			<string>%lld Tasks</string>
+		</dict>
+	</dict>
+	<key>TERM_DAYS_COUNT</key>
+	<dict>
+		<key>NSStringLocalizedFormatKey</key>
+		<string>%#@day_count@</string>
+		<key>day_count</key>
+		<dict>
+			<key>NSStringFormatSpecTypeKey</key>
+			<string>NSStringPluralRuleType</string>
+			<key>NSStringFormatValueTypeKey</key>
+			<string>lld</string>
+			<key>zero</key>
+			<string>No Days</string>
+			<key>one</key>
+			<string>%lld Day</string>
+			<key>other</key>
+			<string>%lld Days</string>
+		</dict>
+	</dict>
+	<key>TERM_SESSION_PLURALISATION</key>
+	<dict>
+		<key>NSStringLocalizedFormatKey</key>
+		<string>%#@session_count@</string>
+		<key>session_count</key>
+		<dict>
+			<key>NSStringFormatSpecTypeKey</key>
+			<string>NSStringPluralRuleType</string>
+			<key>NSStringFormatValueTypeKey</key>
+			<string>lld</string>
+			<key>one</key>
+			<string>session</string>
+			<key>other</key>
+			<string>sessions</string>
+		</dict>
+	</dict>
+	<key>TERM_THIS_PLURALISATION</key>
+	<dict>
+		<key>NSStringLocalizedFormatKey</key>
+		<string>%#@count@</string>
+		<key>count</key>
+		<dict>
+			<key>NSStringFormatSpecTypeKey</key>
+			<string>NSStringPluralRuleType</string>
+			<key>NSStringFormatValueTypeKey</key>
+			<string>lld</string>
+			<key>one</key>
+			<string>this</string>
+			<key>other</key>
+			<string>these</string>
+		</dict>
+	</dict>
+	<key>TERM_FOCUSSESSION_PLURALISATION</key>
+	<dict>
+		<key>NSStringLocalizedFormatKey</key>
+		<string>%#@count@</string>
+		<key>count</key>
+		<dict>
+			<key>NSStringFormatSpecTypeKey</key>
+			<string>NSStringPluralRuleType</string>
+			<key>NSStringFormatValueTypeKey</key>
+			<string>lld</string>
+			<key>one</key>
+			<string>Focus Session</string>
+			<key>other</key>
+			<string>Focus Sessions</string>
+		</dict>
+	</dict>
+	<key>TERM_PRESET_PLURALISATION</key>
+	<dict>
+		<key>NSStringLocalizedFormatKey</key>
+		<string>%#@count@</string>
+		<key>count</key>
+		<dict>
+			<key>NSStringFormatSpecTypeKey</key>
+			<string>NSStringPluralRuleType</string>
+			<key>NSStringFormatValueTypeKey</key>
+			<string>lld</string>
+			<key>one</key>
+			<string>Preset</string>
+			<key>other</key>
+			<string>Presets</string>
+		</dict>
+	</dict>
+	<key>TERM_COMPLETEDSESSION_PLURALISATION</key>
+	<dict>
+		<key>NSStringLocalizedFormatKey</key>
+		<string>%#@count@</string>
+		<key>count</key>
+		<dict>
+			<key>NSStringFormatSpecTypeKey</key>
+			<string>NSStringPluralRuleType</string>
+			<key>NSStringFormatValueTypeKey</key>
+			<string>lld</string>
+			<key>one</key>
+			<string>Completed Session</string>
+			<key>other</key>
+			<string>Completed Sessions</string>
+		</dict>
+	</dict>
+	<key>TERM_DAY_COUNT_PLURALISATION</key>
+	<dict>
+		<key>NSStringLocalizedFormatKey</key>
+		<string>%#@count@</string>
+		<key>count</key>
+		<dict>
+			<key>NSStringFormatSpecTypeKey</key>
+			<string>NSStringPluralRuleType</string>
+			<key>NSStringFormatValueTypeKey</key>
+			<string>d</string>
+			<key>one</key>
+			<string>%d Day</string>
+			<key>other</key>
+			<string>%d Days</string>
+		</dict>
+	</dict>
+</dict>
+</plist>
