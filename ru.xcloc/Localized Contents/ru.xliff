@@ -219,7 +219,7 @@
       </trans-unit>
       <trans-unit id="ACTION_EXPORT" xml:space="preserve">
         <source>Export</source>
-        <target>Export</target>
+        <target>Экспортировать</target>
         <note/>
       </trans-unit>
       <trans-unit id="ACTION_FAVORITE" xml:space="preserve">
@@ -329,24 +329,23 @@
       </trans-unit>
       <trans-unit id="ACTION_SELECT" xml:space="preserve">
         <source>Select</source>
-        <target>Select</target>
+        <target>Выбрать</target>
         <note/>
       </trans-unit>
       <trans-unit id="ACTION_SELECTALL" xml:space="preserve">
         <source>Select All</source>
-        <target>Select All</target>
+        <target>Выбрать все</target>
         <note/>
       </trans-unit>
       <trans-unit id="ACTION_SELECTASESSION" xml:space="preserve">
         <source>Select a focus session</source>
-        <target>Select a focus session</target>
+        <target>Выбрать фокус сессию</target>
         <note/>
       </trans-unit>
       <trans-unit id="ACTION_SELECTASESSION_LINESEPARATED" xml:space="preserve">
         <source>Select a
 Focus Session</source>
-        <target>Select a
-Focus Session</target>
+        <target>Выбрать фокус сессию</target>
         <note/>
       </trans-unit>
       <trans-unit id="ACTION_SENDEMAIL" xml:space="preserve">
@@ -356,12 +355,12 @@ Focus Session</target>
       </trans-unit>
       <trans-unit id="ACTION_SHARE" xml:space="preserve">
         <source>Share</source>
-        <target>Share</target>
+        <target>Поделиться</target>
         <note/>
       </trans-unit>
       <trans-unit id="ACTION_SHAREIMAGE" xml:space="preserve">
         <source>Share Image</source>
-        <target>Share Image</target>
+        <target>Поделиться изображением</target>
         <note/>
       </trans-unit>
       <trans-unit id="ACTION_SHOW" xml:space="preserve">
@@ -396,7 +395,7 @@ Focus Session</target>
       </trans-unit>
       <trans-unit id="ACTION_UNSELECTALL" xml:space="preserve">
         <source>Unselect All</source>
-        <target>Unselect All</target>
+        <target>Отменить выбор</target>
         <note/>
       </trans-unit>
       <trans-unit id="ACTION_UPDATE" xml:space="preserve">
@@ -471,12 +470,12 @@ Focus Session</target>
       </trans-unit>
       <trans-unit id="ALERT_SESSIONCOMPLETED_TITLE" xml:space="preserve">
         <source>Focus Session completed!</source>
-        <target>Focus Session completed!</target>
+        <target>Фокус сессия выполнена!</target>
         <note/>
       </trans-unit>
       <trans-unit id="ALERT_STAGECOMPLETED" xml:space="preserve">
         <source>Stage Completed</source>
-        <target>Stage Completed</target>
+        <target>Этап выполнен</target>
         <note/>
       </trans-unit>
       <trans-unit id="ALERT_STAGECOMPLETED_BACKGROUND_MESSAGE_NOSTAGES" xml:space="preserve">
@@ -486,7 +485,7 @@ Focus Session</target>
       </trans-unit>
       <trans-unit id="ALERT_STAGECOMPLETED_BACKGROUND_TITLE" xml:space="preserve">
         <source>%@ stage completed</source>
-        <target>%@ stage completed</target>
+        <target>%@ этап выполнен</target>
         <note>'Break' stage completed</note>
       </trans-unit>
       <trans-unit id="ALERT_STAGENEARLYCOMPLETE_MESSAGE" xml:space="preserve">
@@ -496,17 +495,17 @@ Focus Session</target>
       </trans-unit>
       <trans-unit id="ALERT_STAGENEARLYCOMPLETE_TITLE_BREAK" xml:space="preserve">
         <source>Break stage nearly finished</source>
-        <target>Break stage nearly finished</target>
+        <target>Этап перерыва почти завершен</target>
         <note/>
       </trans-unit>
       <trans-unit id="ALERT_STAGENEARLYCOMPLETE_TITLE_FOCUSEDWORK" xml:space="preserve">
         <source>Focused Work stage nearly finished</source>
-        <target>Focused Work stage nearly finished</target>
+        <target>Этап работы в фокусе почти завершен</target>
         <note/>
       </trans-unit>
       <trans-unit id="ALERT_STAGENEARLYCOMPLETE_TITLE_PLANNING" xml:space="preserve">
         <source>Planning stage nearly finished</source>
-        <target>Planning stage nearly finished</target>
+        <target>Этап планирования почти завершен</target>
         <note/>
       </trans-unit>
       <trans-unit id="ALERT_TRANSITION_BREAK" xml:space="preserve">
@@ -596,7 +595,7 @@ Focus Session</target>
       </trans-unit>
       <trans-unit id="BETA_SHARETESTFLIGHT" xml:space="preserve">
         <source>Share TestFlight Beta link</source>
-        <target>Share TestFlight Beta link</target>
+        <target>Поделиться ссылкой на TestFlight Beta</target>
         <note/>
       </trans-unit>
       <trans-unit id="BREAKREMINDER_MESSAGE1" xml:space="preserve">
@@ -660,7 +659,7 @@ Focus Session</target>
       </trans-unit>
       <trans-unit id="EDITSESSION_PAUSEONNEXTSTAGE" xml:space="preserve">
         <source>Pause on Next Stage</source>
-        <target>Pause on Next Stage</target>
+        <target>Приостановить на следующем этапе</target>
         <note/>
       </trans-unit>
       <trans-unit id="EDITSESSION_SELECTICON" xml:space="preserve">
@@ -710,7 +709,7 @@ Focus Session</target>
       </trans-unit>
       <trans-unit id="ERROR_DELETELASTSTAGE" xml:space="preserve">
         <source>Focus Sessions must contain at least one stage.</source>
-        <target>Focus Sessions must contain at least one stage.</target>
+        <target>Фокус сессии должны содержать хотя бы один этап.</target>
         <note/>
       </trans-unit>
       <trans-unit id="ERROR_DUPLICATE" xml:space="preserve">
@@ -740,7 +739,7 @@ Focus Session</target>
       </trans-unit>
       <trans-unit id="ERROR_SESSIONNOTFOUND" xml:space="preserve">
         <source>Focus Session no longer exists.</source>
-        <target>Focus Session no longer exists.</target>
+        <target>Фокус сессия больше не существует.</target>
         <note/>
       </trans-unit>
       <trans-unit id="ERROR_STAGE" xml:space="preserve">
@@ -750,7 +749,7 @@ Focus Session</target>
       </trans-unit>
       <trans-unit id="ERROR_STAGENOTFOUND" xml:space="preserve">
         <source>Stage no longer exists.</source>
-        <target>Stage no longer exists.</target>
+        <target>Этапа больше не существует.</target>
         <note/>
       </trans-unit>
       <trans-unit id="ERROR_TOGGLTOKEN" xml:space="preserve">
@@ -855,7 +854,7 @@ Focus Session</target>
       </trans-unit>
       <trans-unit id="FOCUSREMINDER_MESSAGE13" xml:space="preserve">
         <source>Keep working</source>
-        <target>Keep working</target>
+        <target>Продолжайте работать</target>
         <note/>
       </trans-unit>
       <trans-unit id="FOCUSREMINDER_MESSAGE14" xml:space="preserve">
@@ -970,7 +969,7 @@ Focus Session</target>
       </trans-unit>
       <trans-unit id="HEADING_ABOUT" xml:space="preserve">
         <source>About</source>
-        <target>About</target>
+        <target>О приложении</target>
         <note/>
       </trans-unit>
       <trans-unit id="HEADING_ALERT" xml:space="preserve">
@@ -980,12 +979,12 @@ Focus Session</target>
       </trans-unit>
       <trans-unit id="HEADING_ALLFOCUSSESSIONS" xml:space="preserve">
         <source>All Focus Sessions</source>
-        <target>All Focus Sessions</target>
+        <target>Все фокус сессии</target>
         <note/>
       </trans-unit>
       <trans-unit id="HEADING_APPEARANCE" xml:space="preserve">
         <source>Appearance</source>
-        <target>Appearance</target>
+        <target>Оформление</target>
         <note/>
       </trans-unit>
       <trans-unit id="HEADING_AVAILABLESHORTCUTS" xml:space="preserve">
@@ -1000,7 +999,7 @@ Focus Session</target>
       </trans-unit>
       <trans-unit id="HEADING_COMPLETEDSTAGES" xml:space="preserve">
         <source>Completed Stages</source>
-        <target>Completed Stages</target>
+        <target>Выполненные этапы</target>
         <note/>
       </trans-unit>
       <trans-unit id="HEADING_CONFIGURATION" xml:space="preserve">
@@ -1015,7 +1014,7 @@ Focus Session</target>
       </trans-unit>
       <trans-unit id="HEADING_CURRENTSTAGE" xml:space="preserve">
         <source>Current Stage</source>
-        <target>Current Stage</target>
+        <target>Текущий этап</target>
         <note/>
       </trans-unit>
       <trans-unit id="HEADING_DAILYGOAL" xml:space="preserve">
@@ -1065,7 +1064,7 @@ Focus Session</target>
       </trans-unit>
       <trans-unit id="HEADING_INTEGRATIONS" xml:space="preserve">
         <source>Integrations</source>
-        <target>Integrations</target>
+        <target>Интеграции</target>
         <note/>
       </trans-unit>
       <trans-unit id="HEADING_LASTCOMPLETED" xml:space="preserve">
@@ -1090,12 +1089,12 @@ Focus Session</target>
       </trans-unit>
       <trans-unit id="HEADING_NEXTSTAGE" xml:space="preserve">
         <source>Next Stage</source>
-        <target>Next Stage</target>
+        <target>Следующий этап</target>
         <note/>
       </trans-unit>
       <trans-unit id="HEADING_NOTIFICATIONS" xml:space="preserve">
         <source>Notifications</source>
-        <target>Notifications</target>
+        <target>Уведомления</target>
         <note/>
       </trans-unit>
       <trans-unit id="HEADING_PRODUCTIVITYRATING" xml:space="preserve">
@@ -1110,7 +1109,7 @@ Focus Session</target>
       </trans-unit>
       <trans-unit id="HEADING_REMAININGSTAGES" xml:space="preserve">
         <source>Remaining Stages</source>
-        <target>Оставшиеся стадии</target>
+        <target>Оставшиеся этапы</target>
         <note/>
       </trans-unit>
       <trans-unit id="HEADING_SESSIONACTIONS" xml:space="preserve">
@@ -1125,7 +1124,7 @@ Focus Session</target>
       </trans-unit>
       <trans-unit id="HEADING_STAGE" xml:space="preserve">
         <source>Stage</source>
-        <target>Stage</target>
+        <target>Этап</target>
         <note/>
       </trans-unit>
       <trans-unit id="HEADING_STAGEACTIONS" xml:space="preserve">
@@ -1135,7 +1134,7 @@ Focus Session</target>
       </trans-unit>
       <trans-unit id="HEADING_STAGES" xml:space="preserve">
         <source>Stages</source>
-        <target>Stages</target>
+        <target>Этапы</target>
         <note/>
       </trans-unit>
       <trans-unit id="HEADING_STAGES_COUNT" xml:space="preserve">
@@ -1249,12 +1248,12 @@ Focus Session</target>
       </trans-unit>
       <trans-unit id="PERMISSION_NOTIFICATION_DENIED_MESSAGE" xml:space="preserve">
         <source>You can enable the Notification permission in the Settings app.</source>
-        <target>You can enable the Notification permission in the Settings app.</target>
+        <target>Вы можете разрешить допуск уведомлений в приложении Настройки</target>
         <note/>
       </trans-unit>
       <trans-unit id="PERMISSION_NOTIFICATION_DENIED_TITLE" xml:space="preserve">
         <source>Notification Permission Denied</source>
-        <target>Notification Permission Denied</target>
+        <target>Допуск уведомлений запрещён</target>
         <note/>
       </trans-unit>
       <trans-unit id="PERMISSION_NOTIFICATION_FOCUSREMINDERS_MESSAGE" xml:space="preserve">
@@ -1298,12 +1297,12 @@ When it's not on-screen, we need permission to share these reminders with you.</
       </trans-unit>
       <trans-unit id="PHRASE_CLICKNEXTSTAGE" xml:space="preserve">
         <source>Click to begin the next %@ stage.</source>
-        <target>Click to begin the next %@ stage.</target>
+        <target>Кликните, чтобы начать следующий %@ этап.</target>
         <note/>
       </trans-unit>
       <trans-unit id="PHRASE_CLICKSELECTSESSION" xml:space="preserve">
         <source>Click to select a Focus Session</source>
-        <target>Click to select a Focus Session</target>
+        <target>Кликните, чтобы выбрать фокус сессию</target>
         <note/>
       </trans-unit>
       <trans-unit id="PHRASE_CLICKSTARTSESSION" xml:space="preserve">
@@ -1343,12 +1342,12 @@ When it's not on-screen, we need permission to share these reminders with you.</
       </trans-unit>
       <trans-unit id="PHRASE_MADEWITHLOVE" xml:space="preserve">
         <source>Made with ❤️ in Australia by</source>
-        <target>Made with ❤️ in Australia by</target>
+        <target>Сделано с ❤️ в Австралии</target>
         <note/>
       </trans-unit>
       <trans-unit id="PHRASE_MADEWITHLOVE_TEXT" xml:space="preserve">
         <source>Made with love in Australia by</source>
-        <target>Made with love in Australia by</target>
+        <target>Сделано с любовью в Австралии</target>
         <note/>
       </trans-unit>
       <trans-unit id="PHRASE_MANUALINPUT" xml:space="preserve">
@@ -1425,7 +1424,7 @@ to focus on?</target>
       </trans-unit>
       <trans-unit id="PHRASE_SETSTAGEDURATION" xml:space="preserve">
         <source>Set Stage Duration</source>
-        <target>Set Stage Duration</target>
+        <target>Установите продолжительность этапа</target>
         <note/>
       </trans-unit>
       <trans-unit id="PHRASE_SHORTCUTOPTIONS" xml:space="preserve">
@@ -1440,7 +1439,7 @@ to focus on?</target>
       </trans-unit>
       <trans-unit id="PHRASE_SKIPSTAGE_BREAK" xml:space="preserve">
         <source>Begin Break stage</source>
-        <target>Begin Break stage</target>
+        <target>Начать </target>
         <note/>
       </trans-unit>
       <trans-unit id="PHRASE_SKIPSTAGE_FOCUSEDWORK" xml:space="preserve">
@@ -1450,7 +1449,7 @@ to focus on?</target>
       </trans-unit>
       <trans-unit id="PHRASE_SKIPSTAGE_PLANNING" xml:space="preserve">
         <source>Begin Planning stage</source>
-        <target>Begin Planning stage</target>
+        <target>Начать этап планирования</target>
         <note/>
       </trans-unit>
       <trans-unit id="PHRASE_STAGEAUTOMATIONS" xml:space="preserve">
@@ -1475,12 +1474,12 @@ to focus on?</target>
       </trans-unit>
       <trans-unit id="PHRASE_TAPNEXTSTAGE" xml:space="preserve">
         <source>Tap to begin the next %@ stage.</source>
-        <target>Tap to begin the next %@ stage.</target>
+        <target>Нажмите, чтобы начать следующий %@ этап.</target>
         <note/>
       </trans-unit>
       <trans-unit id="PHRASE_TAPSELECTSESSION" xml:space="preserve">
         <source>Tap to select a Focus Session</source>
-        <target>Tap to select a Focus Session</target>
+        <target>Нажмите, чтобы выбрать фокус сессию</target>
         <note/>
       </trans-unit>
       <trans-unit id="PHRASE_TAPSTARTSESSION" xml:space="preserve">
@@ -1495,7 +1494,7 @@ to focus on?</target>
       </trans-unit>
       <trans-unit id="PHRASE_TIMERSETTINGS" xml:space="preserve">
         <source>Timer Settings</source>
-        <target>Timer Settings</target>
+        <target>Настройки таймера</target>
         <note/>
       </trans-unit>
       <trans-unit id="PHRASE_TOGGLOPTIONS" xml:space="preserve">
@@ -1592,7 +1591,7 @@ Focused Work!</target>
       </trans-unit>
       <trans-unit id="PLACEHOLDER_NOSESSIONS_TITLE" xml:space="preserve">
         <source>No Focus Sessions</source>
-        <target>No Focus Sessions</target>
+        <target>Нет фокус сессий</target>
         <note/>
       </trans-unit>
       <trans-unit id="PLACEHOLDER_NOSHORTCUTS_DESCRIPTION" xml:space="preserve">
@@ -2012,12 +2011,12 @@ Focused Work!</target>
       </trans-unit>
       <trans-unit id="QUICKACTION_SELECTSESSION" xml:space="preserve">
         <source>Select a Session</source>
-        <target>Select a Session</target>
+        <target>Выбрать сессию</target>
         <note/>
       </trans-unit>
       <trans-unit id="QUICKACTION_STARTFOCUSSESSION" xml:space="preserve">
         <source>Start Focus Session</source>
-        <target>Start Focus Session</target>
+        <target>Начать фокус сессию</target>
         <note/>
       </trans-unit>
       <trans-unit id="SESSIONCOMPLETE_ADDTIME" xml:space="preserve">
@@ -2136,12 +2135,12 @@ Mark Complete will include your progress for the current stage.</target>
       </trans-unit>
       <trans-unit id="SESSION_ACTION_RESTARTSTAGE" xml:space="preserve">
         <source>Restart Stage</source>
-        <target>Restart Stage</target>
+        <target>Перезапустить этап</target>
         <note/>
       </trans-unit>
       <trans-unit id="SESSION_ACTION_RESTARTSTAGE_CONFIRM" xml:space="preserve">
         <source>Are you sure you want to restart the current %@ stage?</source>
-        <target>Are you sure you want to restart the current %@ stage?</target>
+        <target>Вы уверены, что хотите перезапустить текущий %@ этап?</target>
         <note/>
       </trans-unit>
       <trans-unit id="SESSION_ACTION_RESUME" xml:space="preserve">
@@ -2156,7 +2155,7 @@ Mark Complete will include your progress for the current stage.</target>
       </trans-unit>
       <trans-unit id="SESSION_ACTION_SKIPSTAGE" xml:space="preserve">
         <source>Skip Stage</source>
-        <target>Skip Stage</target>
+        <target>Пропустить этап</target>
         <note/>
       </trans-unit>
       <trans-unit id="SESSION_ACTION_SKIPSTAGE_CONFIRM" xml:space="preserve">
@@ -2234,17 +2233,17 @@ All participants will share the same focus session.</target>
       </trans-unit>
       <trans-unit id="SETTING_APPTHEME_DARK" xml:space="preserve">
         <source>Dark</source>
-        <target>Dark</target>
+        <target>Темное</target>
         <note/>
       </trans-unit>
       <trans-unit id="SETTING_APPTHEME_LIGHT" xml:space="preserve">
         <source>Light</source>
-        <target>Light</target>
+        <target>Светлое</target>
         <note/>
       </trans-unit>
       <trans-unit id="SETTING_APPTHEME_SYSTEM" xml:space="preserve">
         <source>System</source>
-        <target>System</target>
+        <target>Системное</target>
         <note/>
       </trans-unit>
       <trans-unit id="SETTING_COUNTSTYLE" xml:space="preserve">
@@ -2264,12 +2263,12 @@ All participants will share the same focus session.</target>
       </trans-unit>
       <trans-unit id="SETTING_DISCORD_DESCRIPTION" xml:space="preserve">
         <source>Keep in the loop with news, announcements, beta updates, and share why you love the app!</source>
-        <target>Keep in the loop with news, announcements, beta updates, and share why you love the app!</target>
+        <target>Будьте в курсе новостей, объявлений, обновлений в бета-версии и расскажите за что Вы любите приложение!</target>
         <note/>
       </trans-unit>
       <trans-unit id="SETTING_DISCORD_TITLE" xml:space="preserve">
         <source>Join the Discord Community</source>
-        <target>Join the Discord Community</target>
+        <target>Присоединяйтесь к сообществу в Discord</target>
         <note/>
       </trans-unit>
       <trans-unit id="SETTING_EMAIL" xml:space="preserve">
@@ -2279,17 +2278,17 @@ All participants will share the same focus session.</target>
       </trans-unit>
       <trans-unit id="SETTING_FAQ_DESCRIPTION" xml:space="preserve">
         <source>Focused Work Basics. Integrate with Toggl, Shortcuts, and other tidbits.</source>
-        <target>Focused Work Basics. Integrate with Toggl, Shortcuts, and other tidbits.</target>
+        <target>Основы Focused Work. Интеграция с Toggl, Команды и другие плюшки.</target>
         <note/>
       </trans-unit>
       <trans-unit id="SETTING_FOCUSREMINDERS_DESCRIPTION" xml:space="preserve">
         <source>Display mid-session reminders to maintain your focus.</source>
-        <target>Display mid-session reminders to maintain your focus.</target>
+        <target>Посреди сессий показывать напоминания, чтобы сохранять фокус.</target>
         <note/>
       </trans-unit>
       <trans-unit id="SETTING_FOCUSREMINDERS_TITLE" xml:space="preserve">
         <source>Focus Reminders</source>
-        <target>Focus Reminders</target>
+        <target>Напоминания о фокусе</target>
         <note/>
       </trans-unit>
       <trans-unit id="SETTING_ICLOUDSYNC_DESCRIPTION" xml:space="preserve">
@@ -2304,12 +2303,12 @@ All participants will share the same focus session.</target>
       </trans-unit>
       <trans-unit id="SETTING_ICONBADGE_DESCRIPTION" xml:space="preserve">
         <source>Show total remaining daily goals as the notification badge count.</source>
-        <target>Show total remaining daily goals as the notification badge count.</target>
+        <target>Показывать на иконке приложения оставшееся количество сессий до выполнения цели на день.</target>
         <note/>
       </trans-unit>
       <trans-unit id="SETTING_ICONBADGE_TITLE" xml:space="preserve">
         <source>Daily Goals as App Badge</source>
-        <target>Daily Goals as App Badge</target>
+        <target>Счётчик ежедневных целей на иконке</target>
         <note/>
       </trans-unit>
       <trans-unit id="SETTING_KEEPONTOP_DESCRIPTION" xml:space="preserve">
@@ -2339,7 +2338,7 @@ All participants will share the same focus session.</target>
       </trans-unit>
       <trans-unit id="SETTING_NEWSLETTER_DESCRIPTION" xml:space="preserve">
         <source>Receive monthly updates. Zero spam.</source>
-        <target>Receive monthly updates. Zero spam.</target>
+        <target>Получайте ежемесячные обновления. Никакого спама.</target>
         <note/>
       </trans-unit>
       <trans-unit id="SETTING_NOTIFICATIONSDISABLED_DESCRIPTION_IOS" xml:space="preserve">
@@ -2354,17 +2353,17 @@ All participants will share the same focus session.</target>
       </trans-unit>
       <trans-unit id="SETTING_NOTIFICATIONSDISABLED_TITLE" xml:space="preserve">
         <source>Notifications Disabled</source>
-        <target>Notifications Disabled</target>
+        <target>Уведомления отключены</target>
         <note/>
       </trans-unit>
       <trans-unit id="SETTING_OTHERDEVICES_DESCRIPTION" xml:space="preserve">
         <source>Receive alerts from Focus Sessions running on another device.</source>
-        <target>Receive alerts from Focus Sessions running on another device.</target>
+        <target>Получать уведомления о фокус сессиях, запущенных на другом устройстве.</target>
         <note/>
       </trans-unit>
       <trans-unit id="SETTING_OTHERDEVICES_TITLE" xml:space="preserve">
         <source>Other Devices</source>
-        <target>Other Devices</target>
+        <target>Другие устройства</target>
         <note/>
       </trans-unit>
       <trans-unit id="SETTING_PUREBLACK_DESCRIPTION" xml:space="preserve">
@@ -2379,12 +2378,12 @@ All participants will share the same focus session.</target>
       </trans-unit>
       <trans-unit id="SETTING_SCREENON_DESCRIPTION" xml:space="preserve">
         <source>Prevent display auto-lock when sessions are in progress.</source>
-        <target>Prevent display auto-lock when sessions are in progress.</target>
+        <target>Предотвращает автоблокировку экрана во время активной сессии.</target>
         <note/>
       </trans-unit>
       <trans-unit id="SETTING_SCREENON_TITLE" xml:space="preserve">
         <source>Keep Screen On</source>
-        <target>Keep Screen On</target>
+        <target>Экран всегда включен</target>
         <note/>
       </trans-unit>
       <trans-unit id="SETTING_SHOWMENUBAR_DESCRIPTION" xml:space="preserve">
@@ -2399,57 +2398,57 @@ All participants will share the same focus session.</target>
       </trans-unit>
       <trans-unit id="SETTING_STAGENEARLYCOMPLETE_DESCRIPTION" xml:space="preserve">
         <source>Show a one-minute remaining reminder when the app is in the background.</source>
-        <target>Show a one-minute remaining reminder when the app is in the background.</target>
+        <target>Показывать напоминание за минуту до окончания, когда приложение не активно.</target>
         <note/>
       </trans-unit>
       <trans-unit id="SETTING_STAGENEARLYCOMPLETE_TITLE" xml:space="preserve">
         <source>Stage Nearly Completed</source>
-        <target>Stage Nearly Completed</target>
+        <target>Этап почти выполнен</target>
         <note/>
       </trans-unit>
       <trans-unit id="SETTING_TIMERFONT_DESCRIPTION" xml:space="preserve">
         <source>Standard displays a normal rounded font. Monospaced evenly spaces out text to prevent pixel shifting.</source>
-        <target>Standard displays a normal rounded font. Monospaced evenly spaces out text to prevent pixel shifting.</target>
+        <target>Стандартный - привычный закругленный шрифт. Моноширинный - равномерно распределяет цифры, чтобы избежать смещения символов.</target>
         <note/>
       </trans-unit>
       <trans-unit id="SETTING_TIMERFONT_MONOSPACED" xml:space="preserve">
         <source>Monospaced</source>
-        <target>Monospaced</target>
+        <target>Моноширинный</target>
         <note/>
       </trans-unit>
       <trans-unit id="SETTING_TIMERFONT_STANDARD" xml:space="preserve">
         <source>Standard</source>
-        <target>Standard</target>
+        <target>Стандартный</target>
         <note/>
       </trans-unit>
       <trans-unit id="SETTING_TIMERFONT_TITLE" xml:space="preserve">
         <source>Timer Font</source>
-        <target>Timer Font</target>
+        <target>Шрифт таймера</target>
         <note/>
       </trans-unit>
       <trans-unit id="SETTING_TIMERREFRESH_1MINUTE" xml:space="preserve">
         <source>1 Minute</source>
-        <target>1 Minute</target>
+        <target>1 минута</target>
         <note/>
       </trans-unit>
       <trans-unit id="SETTING_TIMERREFRESH_1SECOND" xml:space="preserve">
         <source>1 Second</source>
-        <target>1 Second</target>
+        <target>1 секунда</target>
         <note/>
       </trans-unit>
       <trans-unit id="SETTING_TIMERREFRESH_30SECONDS" xml:space="preserve">
         <source>30 Seconds</source>
-        <target>30 Seconds</target>
+        <target>30 секунд</target>
         <note/>
       </trans-unit>
       <trans-unit id="SETTING_TIMERREFRESH_DESCRIPTION" xml:space="preserve">
         <source>Adjust how often the countdown timer will refresh.</source>
-        <target>Adjust how often the countdown timer will refresh.</target>
+        <target>Отрегулируйте, как часто таймер будет обновляться.</target>
         <note/>
       </trans-unit>
       <trans-unit id="SETTING_TIMERREFRESH_TITLE" xml:space="preserve">
         <source>Timer Refresh Interval</source>
-        <target>Timer Refresh Interval</target>
+        <target>Интервал обновления таймера</target>
         <note/>
       </trans-unit>
       <trans-unit id="SETTING_TIMERVOLUME" xml:space="preserve">
@@ -2519,12 +2518,12 @@ All participants will share the same focus session.</target>
       </trans-unit>
       <trans-unit id="SHORTCUT_ENDFOCUSSESSION" xml:space="preserve">
         <source>End Focus Session</source>
-        <target>End Focus Session</target>
+        <target>Завершить фокус сессию</target>
         <note/>
       </trans-unit>
       <trans-unit id="SHORTCUT_ENDFOCUSSESSION_PHRASE" xml:space="preserve">
         <source>End the current focus session</source>
-        <target>End the current focus session</target>
+        <target>Завершить текущую фокус сессию</target>
         <note/>
       </trans-unit>
       <trans-unit id="SHORTCUT_GETCURRENTFOCUSSESSION" xml:space="preserve">
@@ -2559,12 +2558,12 @@ All participants will share the same focus session.</target>
       </trans-unit>
       <trans-unit id="SHORTCUT_PAUSEFOCUSSESSION" xml:space="preserve">
         <source>Pause Focus Session</source>
-        <target>Pause Focus Session</target>
+        <target>Приостановить фокус сессию</target>
         <note/>
       </trans-unit>
       <trans-unit id="SHORTCUT_PAUSEFOCUSSESSION_PHRASE" xml:space="preserve">
         <source>Pause the current focus session</source>
-        <target>Pause the current focus session</target>
+        <target>Приостановить текущую фокус сессию</target>
         <note/>
       </trans-unit>
       <trans-unit id="SHORTCUT_RESTARTSTAGE" xml:space="preserve">
@@ -2579,12 +2578,12 @@ All participants will share the same focus session.</target>
       </trans-unit>
       <trans-unit id="SHORTCUT_RESUMEFOCUSSESSION" xml:space="preserve">
         <source>Resume Focus Session</source>
-        <target>Resume Focus Session</target>
+        <target>Возобновить фокус сессию</target>
         <note/>
       </trans-unit>
       <trans-unit id="SHORTCUT_RESUMEFOCUSSESSION_PHRASE" xml:space="preserve">
         <source>Resume the current focus session</source>
-        <target>Resume the current focus session</target>
+        <target>Возобновить текущую фокус сессию</target>
         <note/>
       </trans-unit>
       <trans-unit id="SHORTCUT_SETTIMERVOLUME" xml:space="preserve">
@@ -2609,17 +2608,17 @@ All participants will share the same focus session.</target>
       </trans-unit>
       <trans-unit id="SHORTCUT_STARTFOCUSSESSION" xml:space="preserve">
         <source>Start Focus Session</source>
-        <target>Start Focus Session</target>
+        <target>Начать фокус сессию</target>
         <note/>
       </trans-unit>
       <trans-unit id="SHORTCUT_STARTFOCUSSESSION_NAMED_PHRASE" xml:space="preserve">
         <source>Start a %@ session</source>
-        <target>Start a %@ session</target>
+        <target>Начать %@ сессию</target>
         <note>Focus Session name as param</note>
       </trans-unit>
       <trans-unit id="SHORTCUT_STARTFOCUSSESSION_PHRASE" xml:space="preserve">
         <source>Start a focus session</source>
-        <target>Start a focus session</target>
+        <target>Начать фокус сессию</target>
         <note/>
       </trans-unit>
       <trans-unit id="STAGE_PROGRESS_CANCELLED" xml:space="preserve">
@@ -3087,7 +3086,7 @@ Terms of Use: https://focusedwork.app/termsofuse/
       </trans-unit>
       <trans-unit id="TERM_DEVELOPER" xml:space="preserve">
         <source>Developer</source>
-        <target>Developer</target>
+        <target>Разработчик</target>
         <note/>
       </trans-unit>
       <trans-unit id="TERM_ENABLED" xml:space="preserve">
@@ -3122,12 +3121,12 @@ Terms of Use: https://focusedwork.app/termsofuse/
       </trans-unit>
       <trans-unit id="TERM_FOCUSSESSION" xml:space="preserve">
         <source>Focus Session</source>
-        <target>Focus Session</target>
+        <target>Фокус сессия</target>
         <note/>
       </trans-unit>
       <trans-unit id="TERM_FOCUSSESSIONS" xml:space="preserve">
         <source>Focus Sessions</source>
-        <target>Focus Sessions</target>
+        <target>Фокус сессии</target>
         <note/>
       </trans-unit>
       <trans-unit id="TERM_FOCUSSESSION_PLURALISATION" xml:space="preserve">
@@ -3151,7 +3150,7 @@ Terms of Use: https://focusedwork.app/termsofuse/
       </trans-unit>
       <trans-unit id="TERM_INTEGRATION" xml:space="preserve">
         <source>Integration</source>
-        <target>Integration</target>
+        <target>Интеграция</target>
         <note/>
       </trans-unit>
       <trans-unit id="TERM_LOADING" xml:space="preserve">
@@ -3166,7 +3165,7 @@ Terms of Use: https://focusedwork.app/termsofuse/
       </trans-unit>
       <trans-unit id="TERM_NEWSLETTER" xml:space="preserve">
         <source>Newsletter</source>
-        <target>Newsletter</target>
+        <target>Новости</target>
         <note/>
       </trans-unit>
       <trans-unit id="TERM_NOTES" xml:space="preserve">
@@ -3199,12 +3198,12 @@ Terms of Use: https://focusedwork.app/termsofuse/
       </trans-unit>
       <trans-unit id="TERM_PRIVACY" xml:space="preserve">
         <source>Privacy</source>
-        <target>Privacy</target>
+        <target>Конфиденциальность</target>
         <note/>
       </trans-unit>
       <trans-unit id="TERM_PRIVACYPOLICY" xml:space="preserve">
         <source>Privacy Policy</source>
-        <target>Privacy Policy</target>
+        <target>Политика конфиденциальности</target>
         <note/>
       </trans-unit>
       <trans-unit id="TERM_PRODUCTIVE" xml:space="preserve">
@@ -3252,7 +3251,7 @@ Terms of Use: https://focusedwork.app/termsofuse/
       </trans-unit>
       <trans-unit id="TERM_STANDARD" xml:space="preserve">
         <source>Standard</source>
-        <target>Standard</target>
+        <target>Стандартный</target>
         <note/>
       </trans-unit>
       <trans-unit id="TERM_STATUS" xml:space="preserve">
@@ -3305,7 +3304,7 @@ Terms of Use: https://focusedwork.app/termsofuse/
       </trans-unit>
       <trans-unit id="TERM_WEBSITE" xml:space="preserve">
         <source>Website</source>
-        <target>Website</target>
+        <target>Вебсайт</target>
         <note/>
       </trans-unit>
       <trans-unit id="TIMER_STAGECOMPLETED" xml:space="preserve">
@@ -3381,7 +3380,7 @@ Thank you!
       </trans-unit>
       <trans-unit id="TITLE_APPICON" xml:space="preserve">
         <source>App Icon</source>
-        <target>App Icon</target>
+        <target>Иконка приложения</target>
         <note/>
       </trans-unit>
       <trans-unit id="TITLE_COPYSHORTCUTCONFIGURATION" xml:space="preserve">
@@ -3426,7 +3425,7 @@ Thank you!
       </trans-unit>
       <trans-unit id="TITLE_POWERSAVER" xml:space="preserve">
         <source>Power Saver</source>
-        <target>Power Saver</target>
+        <target>Энергосбережение</target>
         <note/>
       </trans-unit>
       <trans-unit id="TITLE_PREFERENCES" xml:space="preserve">
@@ -3441,7 +3440,7 @@ Thank you!
       </trans-unit>
       <trans-unit id="TITLE_PRODUCTIVITYEXPORT" xml:space="preserve">
         <source>Productivity Export</source>
-        <target>Productivity Export</target>
+        <target>Экспортировать продуктивность</target>
         <note/>
       </trans-unit>
       <trans-unit id="TITLE_PRODUCTIVITYNOTES" xml:space="preserve">
@@ -3461,7 +3460,7 @@ Thank you!
       </trans-unit>
       <trans-unit id="TITLE_SELECTPROJECT" xml:space="preserve">
         <source>Select a Project</source>
-        <target>Select a Project</target>
+        <target>Выбрать проект</target>
         <note/>
       </trans-unit>
       <trans-unit id="TITLE_SELECTRECENTENTRY" xml:space="preserve">
@@ -3476,12 +3475,12 @@ Thank you!
       </trans-unit>
       <trans-unit id="TITLE_SELECTTEMPLATE" xml:space="preserve">
         <source>Select a Template</source>
-        <target>Select a Template</target>
+        <target>Выбрать шаблон</target>
         <note/>
       </trans-unit>
       <trans-unit id="TITLE_SELECTWORKSPACE" xml:space="preserve">
         <source>Select a Workspace</source>
-        <target>Select a Workspace</target>
+        <target>Выбрать рабочее пространство</target>
         <note/>
       </trans-unit>
       <trans-unit id="TITLE_SESSIONINPROGRESS" xml:space="preserve">
@@ -3496,12 +3495,12 @@ Thank you!
       </trans-unit>
       <trans-unit id="TITLE_SETTINGS" xml:space="preserve">
         <source>Settings</source>
-        <target>Settings</target>
+        <target>Настройки</target>
         <note/>
       </trans-unit>
       <trans-unit id="TITLE_SHARESTARTSESSION" xml:space="preserve">
         <source>Start a Focus Session</source>
-        <target>Start a Focus Session</target>
+        <target>Начать фокус сессию</target>
         <note/>
       </trans-unit>
       <trans-unit id="TITLE_SHORTCUTAUTOMATIONS" xml:space="preserve">
@@ -3511,7 +3510,7 @@ Thank you!
       </trans-unit>
       <trans-unit id="TITLE_TIPJAR" xml:space="preserve">
         <source>Tip Jar</source>
-        <target>Tip Jar</target>
+        <target>Чаевые</target>
         <note/>
       </trans-unit>
       <trans-unit id="TITLE_TIPSENT" xml:space="preserve">
@@ -3536,7 +3535,7 @@ Thank you!
       </trans-unit>
       <trans-unit id="TITLE_WHATSNEW" xml:space="preserve">
         <source>What's New</source>
-        <target>What's New</target>
+        <target>Что нового</target>
         <note/>
       </trans-unit>
       <trans-unit id="TOGGLPRESET_ALTACC_DISABLED" xml:space="preserve">
@@ -3651,7 +3650,7 @@ Thank you!
       </trans-unit>
       <trans-unit id="TOGGL_WEBSITE" xml:space="preserve">
         <source>Toggl Website</source>
-        <target>Toggl Website</target>
+        <target>Toggl вебсайт</target>
         <note/>
       </trans-unit>
       <trans-unit id="TOGGL_WORKSPACE" xml:space="preserve">
@@ -3701,7 +3700,7 @@ Thank you!
       </trans-unit>
       <trans-unit id="UPSELL_FEATURE_DATAEXPORT" xml:space="preserve">
         <source>Productivity Export.</source>
-        <target>Productivity Export.</target>
+        <target>Экспортировать продуктивность.</target>
         <note/>
       </trans-unit>
       <trans-unit id="UPSELL_FEATURE_DEVICEALERTS" xml:space="preserve">
@@ -3711,7 +3710,7 @@ Thank you!
       </trans-unit>
       <trans-unit id="UPSELL_FEATURE_FOCUSSESSIONS" xml:space="preserve">
         <source>Unlimited Focus Sessions.</source>
-        <target>Unlimited Focus Sessions.</target>
+        <target>Неограниченное количество фокус сессий.</target>
         <note/>
       </trans-unit>
       <trans-unit id="UPSELL_FEATURE_ICLOUD" xml:space="preserve">
@@ -3788,7 +3787,7 @@ Updates</target>
       </trans-unit>
       <trans-unit id="WIDGET_CURRENTSESSION_NAME" xml:space="preserve">
         <source>Current Focus Session</source>
-        <target>Current Focus Session</target>
+        <target>Текущая фокус сессия</target>
         <note/>
       </trans-unit>
       <trans-unit id="WIDGET_DAILYGOALS_DESCRIPTION" xml:space="preserve">
@@ -3803,7 +3802,7 @@ Updates</target>
       </trans-unit>
       <trans-unit id="WIDGET_MULTIPLESTARTSESSION_DESCRIPTION" xml:space="preserve">
         <source>Quickly start a focus session.</source>
-        <target>Quickly start a focus session.</target>
+        <target>Быстро начать фокус сессию.</target>
         <note/>
       </trans-unit>
       <trans-unit id="WIDGET_MULTIPLESTARTSESSION_NAME" xml:space="preserve">
@@ -3813,12 +3812,12 @@ Updates</target>
       </trans-unit>
       <trans-unit id="WIDGET_SINGLESTARTSESSION_DESCRIPTION" xml:space="preserve">
         <source>Quickly start a focus session.</source>
-        <target>Quickly start a focus session.</target>
+        <target>Быстро начать фокус сессию.</target>
         <note/>
       </trans-unit>
       <trans-unit id="WIDGET_SINGLESTARTSESSION_NAME" xml:space="preserve">
         <source>Start Focus Session</source>
-        <target>Start Focus Session</target>
+        <target>Начать фокус сессию</target>
         <note/>
       </trans-unit>
     </body>
