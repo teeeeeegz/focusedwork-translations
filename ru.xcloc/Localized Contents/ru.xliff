@@ -149,7 +149,7 @@
       </trans-unit>
       <trans-unit id="ACTION_CONTINUE" xml:space="preserve">
         <source>Continue</source>
-        <target>Continue</target>
+        <target>Продолжить</target>
         <note/>
       </trans-unit>
       <trans-unit id="ACTION_COPY" xml:space="preserve">
@@ -264,7 +264,7 @@
       </trans-unit>
       <trans-unit id="ACTION_OFF" xml:space="preserve">
         <source>Off</source>
-        <target>Off</target>
+        <target>Выкл.</target>
         <note/>
       </trans-unit>
       <trans-unit id="ACTION_OK" xml:space="preserve">
@@ -274,7 +274,7 @@
       </trans-unit>
       <trans-unit id="ACTION_ON" xml:space="preserve">
         <source>On</source>
-        <target>On</target>
+        <target>Вкл.</target>
         <note/>
       </trans-unit>
       <trans-unit id="ACTION_OPENAPP" xml:space="preserve">
@@ -289,7 +289,7 @@
       </trans-unit>
       <trans-unit id="ACTION_PAUSE" xml:space="preserve">
         <source>Pause</source>
-        <target>Pause</target>
+        <target>Пауза</target>
         <note/>
       </trans-unit>
       <trans-unit id="ACTION_QUIT" xml:space="preserve">
@@ -669,7 +669,7 @@ Focus Session</source>
       </trans-unit>
       <trans-unit id="ERROR_APPICON" xml:space="preserve">
         <source>Unable to set icon</source>
-        <target>Unable to set icon</target>
+        <target>Не удалось выбрать иконку</target>
         <note/>
       </trans-unit>
       <trans-unit id="ERROR_AUTOMATION" xml:space="preserve">
@@ -719,7 +719,7 @@ Focus Session</source>
       </trans-unit>
       <trans-unit id="ERROR_PRO" xml:space="preserve">
         <source>Focused Work Pro Error</source>
-        <target>Focused Work Pro Error</target>
+        <target>Focused Work Pro ошибка</target>
         <note/>
       </trans-unit>
       <trans-unit id="ERROR_PURCHASE" xml:space="preserve">
@@ -1009,7 +1009,7 @@ Focus Session</source>
       </trans-unit>
       <trans-unit id="HEADING_CONTACT" xml:space="preserve">
         <source>Contact</source>
-        <target>Contact</target>
+        <target>Обратная связь</target>
         <note/>
       </trans-unit>
       <trans-unit id="HEADING_CURRENTSTAGE" xml:space="preserve">
@@ -1382,7 +1382,7 @@ When it's not on-screen, we need permission to share these reminders with you.</
       </trans-unit>
       <trans-unit id="PHRASE_REDEEMCODE" xml:space="preserve">
         <source>Redeem Code</source>
-        <target>Redeem Code</target>
+        <target>Ввести код</target>
         <note/>
       </trans-unit>
       <trans-unit id="PHRASE_REMAINING" xml:space="preserve">
@@ -1469,7 +1469,7 @@ to focus on?</target>
       </trans-unit>
       <trans-unit id="PHRASE_SUPPORTINDIE" xml:space="preserve">
         <source>Support Indie Development</source>
-        <target>Support Indie Development</target>
+        <target>Поддержите индивидуальных разработчиков</target>
         <note/>
       </trans-unit>
       <trans-unit id="PHRASE_TAPNEXTSTAGE" xml:space="preserve">
@@ -1504,7 +1504,7 @@ to focus on?</target>
       </trans-unit>
       <trans-unit id="PHRASE_UPGRADETO" xml:space="preserve">
         <source>Upgrade to</source>
-        <target>Upgrade to</target>
+        <target>Обновить до</target>
         <note/>
       </trans-unit>
       <trans-unit id="PHRASE_WELCOME" xml:space="preserve">
@@ -1691,52 +1691,52 @@ Focused Work!</target>
       </trans-unit>
       <trans-unit id="POWERSAVER_ALWAYSENABLED" xml:space="preserve">
         <source>Always Enabled</source>
-        <target>Always Enabled</target>
+        <target>Всегда включено</target>
         <note/>
       </trans-unit>
       <trans-unit id="POWERSAVER_ALWAYSENABLED_DESCRIPTION" xml:space="preserve">
         <source>Enable Power Saver at all times.</source>
-        <target>Enable Power Saver at all times.</target>
+        <target>Всегда включать сохранение энергии.</target>
         <note/>
       </trans-unit>
       <trans-unit id="POWERSAVER_ENABLED_ALERTS" xml:space="preserve">
         <source>Focus Reminders won't appear mid-session.</source>
-        <target>Focus Reminders won't appear mid-session.</target>
+        <target>Напоминания не будут появляться во время сессий.</target>
         <note/>
       </trans-unit>
       <trans-unit id="POWERSAVER_ENABLED_AUDIO" xml:space="preserve">
         <source>Ticking sound is unavailable when Focused Work is in the background.</source>
-        <target>Ticking sound is unavailable when Focused Work is in the background.</target>
+        <target>Фоновый звук недоступен, когда приложение находится в фоновом режиме.</target>
         <note/>
       </trans-unit>
       <trans-unit id="POWERSAVER_ENABLED_PAUSEONNEXTSTAGE" xml:space="preserve">
         <source>The total time between stages won't be counted.</source>
-        <target>The total time between stages won't be counted.</target>
+        <target>Общее время между этапами не будет учитываться.</target>
         <note/>
       </trans-unit>
       <trans-unit id="POWERSAVER_ENABLED_SESSIONS" xml:space="preserve">
         <source>After a stage is completed, tap the alert to begin the next stage.</source>
-        <target>After a stage is completed, tap the alert to begin the next stage.</target>
+        <target>После завершения этапа, нажмите на предупреждение, чтобы начать следующий этап.</target>
         <note/>
       </trans-unit>
       <trans-unit id="POWERSAVER_FOLLOWLOWPOWER" xml:space="preserve">
         <source>Follow Low Power Mode</source>
-        <target>Follow Low Power Mode</target>
+        <target>Следовать за режимом энергосбережения</target>
         <note/>
       </trans-unit>
       <trans-unit id="POWERSAVER_FOLLOWLOWPOWER_DESCRIPTION" xml:space="preserve">
         <source>Enable Power Saver when system Low Power Mode is active.</source>
-        <target>Enable Power Saver when system Low Power Mode is active.</target>
+        <target>Включать сохранение энергии, когда устройство находится в режиме энергосбережения.</target>
         <note/>
       </trans-unit>
       <trans-unit id="POWERSAVER_FOOTER" xml:space="preserve">
         <source>Power Saver reduces background activity when Focused Work is not on-screen or when the device is locked.</source>
-        <target>Power Saver reduces background activity when Focused Work is not on-screen or when the device is locked.</target>
+        <target>Сохранение энергии снижает фоновую активность, когда приложение не отображается на экране или устройство заблокировано.</target>
         <note/>
       </trans-unit>
       <trans-unit id="POWERSAVER_WHENENABLED" xml:space="preserve">
         <source>When Power Saver is enabled:</source>
-        <target>When Power Saver is enabled:</target>
+        <target>При включенном сохранении энергии:</target>
         <note/>
       </trans-unit>
       <trans-unit id="PRODUCTIVITYHISTORY_DESCRIPTION_1" xml:space="preserve">
@@ -1751,7 +1751,7 @@ Focused Work!</target>
       </trans-unit>
       <trans-unit id="PRODUCTIVITYHISTORY_HEADING" xml:space="preserve">
         <source>Export Productivity History</source>
-        <target>Export Productivity History</target>
+        <target>Экспортировать историю продуктивности</target>
         <note/>
       </trans-unit>
       <trans-unit id="PRODUCTIVITY_20SESSIONS" xml:space="preserve">
@@ -1896,7 +1896,7 @@ Focused Work!</target>
       </trans-unit>
       <trans-unit id="PURCHASE_PRICESUFFIX_ANNUAL" xml:space="preserve">
         <source>/year</source>
-        <target>/year</target>
+        <target>/год</target>
         <note/>
       </trans-unit>
       <trans-unit id="PURCHASE_PRICESUFFIX_LIFETIME" xml:space="preserve">
@@ -1921,7 +1921,7 @@ Focused Work!</target>
       </trans-unit>
       <trans-unit id="PURCHASE_RESTORING_COMPLETE_MESSAGE" xml:space="preserve">
         <source>Focused Work Pro is now active.</source>
-        <target>Focused Work Pro is now active.</target>
+        <target>Focused Work Pro теперь активен.</target>
         <note/>
       </trans-unit>
       <trans-unit id="PURCHASE_RESTORING_COMPLETE_TITLE" xml:space="preserve">
@@ -1976,7 +1976,7 @@ Focused Work!</target>
       </trans-unit>
       <trans-unit id="PURCHASE_TYPE_ANNUAL" xml:space="preserve">
         <source>Annual</source>
-        <target>Annual</target>
+        <target>Ежегодно</target>
         <note/>
       </trans-unit>
       <trans-unit id="PURCHASE_TYPE_CUSTOM" xml:space="preserve">
@@ -1986,7 +1986,7 @@ Focused Work!</target>
       </trans-unit>
       <trans-unit id="PURCHASE_TYPE_LIFETIME" xml:space="preserve">
         <source>Lifetime</source>
-        <target>Lifetime</target>
+        <target>Пожизненно</target>
         <note/>
       </trans-unit>
       <trans-unit id="PURCHASE_TYPE_MONTHLY" xml:space="preserve">
@@ -2120,7 +2120,7 @@ Mark Complete will include your progress for the current stage.</target>
       </trans-unit>
       <trans-unit id="SESSION_ACTION_PAUSE" xml:space="preserve">
         <source>Pause Session</source>
-        <target>Pause Session</target>
+        <target>Приостановить сессию</target>
         <note/>
       </trans-unit>
       <trans-unit id="SESSION_ACTION_PROGRESS" xml:space="preserve">
@@ -2223,7 +2223,7 @@ All participants will share the same focus session.</target>
       </trans-unit>
       <trans-unit id="SESSION_PAUSED" xml:space="preserve">
         <source>Session Paused</source>
-        <target>Session Paused</target>
+        <target>Сессия на паузе</target>
         <note/>
       </trans-unit>
       <trans-unit id="SETTING_APPTHEME" xml:space="preserve">
@@ -2283,7 +2283,7 @@ All participants will share the same focus session.</target>
       </trans-unit>
       <trans-unit id="SETTING_FOCUSREMINDERS_DESCRIPTION" xml:space="preserve">
         <source>Display mid-session reminders to maintain your focus.</source>
-        <target>Посреди сессий показывать напоминания, чтобы сохранять фокус.</target>
+        <target>Показывать напоминания во время сессий, чтобы сохранять фокус.</target>
         <note/>
       </trans-unit>
       <trans-unit id="SETTING_FOCUSREMINDERS_TITLE" xml:space="preserve">
@@ -2313,7 +2313,7 @@ All participants will share the same focus session.</target>
       </trans-unit>
       <trans-unit id="SETTING_KEEPONTOP_DESCRIPTION" xml:space="preserve">
         <source>Always show Focused Work above other apps.</source>
-        <target>Always show Focused Work above other apps.</target>
+        <target>Всегда показывать Focused Work поверх других приложений.</target>
         <note/>
       </trans-unit>
       <trans-unit id="SETTING_KEEPONTOP_TITLE" xml:space="preserve">
@@ -2333,7 +2333,7 @@ All participants will share the same focus session.</target>
       </trans-unit>
       <trans-unit id="SETTING_MENUBAR_STAGEICON" xml:space="preserve">
         <source>Display Stage Icon</source>
-        <target>Display Stage Icon</target>
+        <target>Показывать иконку этапа</target>
         <note/>
       </trans-unit>
       <trans-unit id="SETTING_NEWSLETTER_DESCRIPTION" xml:space="preserve">
@@ -2638,7 +2638,7 @@ All participants will share the same focus session.</target>
       </trans-unit>
       <trans-unit id="STAGE_PROGRESS_PAUSED" xml:space="preserve">
         <source>Paused</source>
-        <target>Paused</target>
+        <target>На паузе</target>
         <note/>
       </trans-unit>
       <trans-unit id="STAGE_PROGRESS_QUEUED" xml:space="preserve">
@@ -3024,7 +3024,7 @@ Terms of Use: https://focusedwork.app/termsofuse/
       </trans-unit>
       <trans-unit id="TERM_ALERTS" xml:space="preserve">
         <source>Alerts</source>
-        <target>Alerts</target>
+        <target>Предупреждения</target>
         <note/>
       </trans-unit>
       <trans-unit id="TERM_APP" xml:space="preserve">
@@ -3034,7 +3034,7 @@ Terms of Use: https://focusedwork.app/termsofuse/
       </trans-unit>
       <trans-unit id="TERM_AUDIO" xml:space="preserve">
         <source>Audio</source>
-        <target>Audio</target>
+        <target>Аудио</target>
         <note/>
       </trans-unit>
       <trans-unit id="TERM_AUTOMATION" xml:space="preserve">
@@ -3101,7 +3101,7 @@ Terms of Use: https://focusedwork.app/termsofuse/
       </trans-unit>
       <trans-unit id="TERM_FAQ" xml:space="preserve">
         <source>FAQ</source>
-        <target>FAQ</target>
+        <target>Частые вопросы</target>
         <note/>
       </trans-unit>
       <trans-unit id="TERM_FINISH" xml:space="preserve">
@@ -3179,7 +3179,7 @@ Terms of Use: https://focusedwork.app/termsofuse/
       </trans-unit>
       <trans-unit id="TERM_PAUSED" xml:space="preserve">
         <source>Paused</source>
-        <target>Paused</target>
+        <target>На паузе</target>
         <note/>
       </trans-unit>
       <trans-unit id="TERM_PLANNING" xml:space="preserve">
@@ -3218,7 +3218,7 @@ Terms of Use: https://focusedwork.app/termsofuse/
       </trans-unit>
       <trans-unit id="TERM_RESTOREPURCHASES" xml:space="preserve">
         <source>Restore Purchases</source>
-        <target>Restore Purchases</target>
+        <target>Восстановить покупки</target>
         <note/>
       </trans-unit>
       <trans-unit id="TERM_SESSION" xml:space="preserve">
@@ -3275,7 +3275,7 @@ Terms of Use: https://focusedwork.app/termsofuse/
       </trans-unit>
       <trans-unit id="TERM_TERMS" xml:space="preserve">
         <source>Terms</source>
-        <target>Terms</target>
+        <target>Условия</target>
         <note/>
       </trans-unit>
       <trans-unit id="TERM_THIS_PLURALISATION" xml:space="preserve">
@@ -3425,7 +3425,7 @@ Thank you!
       </trans-unit>
       <trans-unit id="TITLE_POWERSAVER" xml:space="preserve">
         <source>Power Saver</source>
-        <target>Энергосбережение</target>
+        <target>Сохранение энергии</target>
         <note/>
       </trans-unit>
       <trans-unit id="TITLE_PREFERENCES" xml:space="preserve">
@@ -3520,7 +3520,7 @@ Thank you!
       </trans-unit>
       <trans-unit id="TITLE_TOGGLINTEGRATION" xml:space="preserve">
         <source>Toggl Integration</source>
-        <target>Toggl Integration</target>
+        <target>Интеграция с Toggl</target>
         <note/>
       </trans-unit>
       <trans-unit id="TITLE_UPDATESESSIONFOCUS" xml:space="preserve">
@@ -3705,7 +3705,7 @@ Thank you!
       </trans-unit>
       <trans-unit id="UPSELL_FEATURE_DEVICEALERTS" xml:space="preserve">
         <source>Mid-session alerts on all devices.</source>
-        <target>Mid-session alerts on all devices.</target>
+        <target>Предупреждения во время сессий на всех устройствах.</target>
         <note/>
       </trans-unit>
       <trans-unit id="UPSELL_FEATURE_FOCUSSESSIONS" xml:space="preserve">
@@ -3720,32 +3720,32 @@ Thank you!
       </trans-unit>
       <trans-unit id="UPSELL_FEATURE_ICONS" xml:space="preserve">
         <source>App Icons. App &amp; Widget Themes.</source>
-        <target>App Icons. App &amp; Widget Themes.</target>
+        <target>Иконки приложения. Оформление приложения и виджетов.</target>
         <note/>
       </trans-unit>
       <trans-unit id="UPSELL_FEATURE_SHORTCUTAUTOMATIONS" xml:space="preserve">
         <source>Automatically trigger Shortcuts mid-session.</source>
-        <target>Automatically trigger Shortcuts mid-session.</target>
+        <target>Автоматически запускает Быстрые Команды во время сессий.</target>
         <note/>
       </trans-unit>
       <trans-unit id="UPSELL_FEATURE_TOGGL" xml:space="preserve">
         <source>Toggl Integration. Assign Projects, Tags, Tasks.</source>
-        <target>Toggl Integration. Assign Projects, Tags, Tasks.</target>
+        <target>Интеграция с Toggl. Назначайте проекты, тэги, задачи.</target>
         <note/>
       </trans-unit>
       <trans-unit id="UPSELL_INTRO_LINE1" xml:space="preserve">
         <source>Focused Work is made by me, Michael! 👋 </source>
-        <target>Focused Work is made by me, Michael! 👋 </target>
+        <target>Focused Work сделан мной, Майклом! 👋 </target>
         <note/>
       </trans-unit>
       <trans-unit id="UPSELL_INTRO_LINE2" xml:space="preserve">
         <source>I created it to help people focus and structure their time effectively. (me included! 😁)</source>
-        <target>I created it to help people focus and structure their time effectively. (me included! 😁)</target>
+        <target>Я создал его, чтобы помочь людям фокусироваться и эффективно структурировать свое время. (мне включительно! 😁)</target>
         <note/>
       </trans-unit>
       <trans-unit id="UPSELL_LIFETIMEPURCHASED" xml:space="preserve">
         <source>Lifetime Purchased ❤️</source>
-        <target>Lifetime Purchased ❤️</target>
+        <target>Пожизненная подписка приорбретена ❤️</target>
         <note/>
       </trans-unit>
       <trans-unit id="UPSELL_LIFETIME_PREFIX" xml:space="preserve">
