@@ -2787,64 +2787,64 @@ Trabajo Enfocado es un cronómetro flexible para enfocarte que te ayuda a manten
 
 Fue desarrollado para ayudar a quienes tienen problemas para enfocarse y manejar su tiempo eficientemente.
 
-**Core Features**
+**Funcionalidad clave**
 
-· Flexible Focus Sessions
-Create repeatable sessions that divide tasks into smaller parts, structured with Focused Work, Break, and Planning stages
+· Sesiones de Enfoque Flexibles
+Crea sesiones repetibles que dividen tareas en partes más pequeñas, estructuradas con etapas de Trabajo Enfocado, Descanso y Planeación.
 
-· Self-Accountability
-Each session encourages you to focus on a specific task or goal
+· Autocontrol
+Casa sesión de motiva a mantenerte enfocado en una tarea espefícica y objetivo.
 
-· Focus Reminders
-Avoid distractions with fun periodic reminders to maintain focus
+· Recordatorios de Conentración
+Evita distraacciones con recordatorios periodicos divertidos para mantener la concentración.
 
-· Session Reflection
-Rate and journal about how productive you were during a session
+· Reflexión por Sesión
+Califica y reflexiona sobre tu productividad durante una sesión
 
-· Daily Goals &amp; Streaks
-Create healthy productivity habits by completing productivity goals
+· Logros Diarios &amp; Rachas
+Crea hábitos de productividad sanos y completa tus objetivos diarios.
 
-· Time Tracking with Toggl
-Assign Projects, Tags, and Tasks for a detailed breakdown on time spent
+· Seguimiento del Tiempo con Toggl
+Asigna Proyectos, Etiquetas y Tareas para un desgloce del tiempo.
 
-**Ecosystem Features**
+**Funcionalidad del Ecosistema**
 
-Focused Work is designed and optimised for iOS 15, iPadOS 15, and macOS Monterey.
+Trabajo Enfocado está diseñado y optimizado para iOS 15, iPadOS 15 y macOS Monterey.
 
-· Siri Shortcuts
-Start a session with Siri. Pause, Skip, Restart the current stage.
+· Atajos de Siri
+Empieza una sesión con Siri, Pausa, Salta y Resetea la etapa actual.
 
-· Automatically turn on Focus
-Trigger shortcuts mid-focus session with Shortcut Automations
+· Activa una Concentración automáticamente
+Activa atajos a la mitad de una sesión y Acciones Automáticas de Atajos
 
-· Alerts on all devices
-Start a session on Mac and receive alerts on iPhone, iPad, Apple Watch
+· Alertas en todos los dispositivos
+Empieza una sesión en una Mac y recive alertas en el iPhone, iPad y Apple Watch
 
-· iCloud Syncing
-Work from iPhone, iPad, or Mac. Created sessions and stats remain in-sync.
+· Sincronización con iCloud
+Trabaja desde tu iPhone, iPad o Mac. Creando sesiones y estadísticas que se mantienen al corriente.
 
-· Share Extensions
-Start a session from your favourite task manager app via the Share Sheet
+· Extensiones para Compartir
+Empieza una sesión desde tu administrador de tareas favorito desde la Pantalla para Compartir
 
-· Themeable Widgets
-Current Session, Daily Goals, and Session Select widgets, with various themes.
+· Widgets Custumizables
+Widgets para Sesión Actual, Objetivos Diarios y Seleccionar Sesiones, con varios temas.
 
-· App Icons
-Select an icon to match your homescreen. Coloured, Light, and Dark variants.
+· Íconos del App
+Selecciona un ícono convine con tu Pantalla de Inicio, ya sea Colorido, o variantes Luz o Noche.
 
-· Productivity Export
-Export completed sessions &amp; breadcrumbs in CSV format
+· Exportación de Productividad
+Exporta sesiones completadas &amp; en formato CSV 
 
-· Privacy Focused
-All user data is securely stored &amp; managed via iCloud. No account registration.
+· Enfocado en la Privacidad
+Toda la información del usuario se guardará de forma seguda y mediante iCloud. No hay registro de cuenta.
 
-· More iOS &amp; iPadOS Goodies
-Keyboard Shortcuts, VoiceOver, Split View &amp; Slide Over, Low Power Mode, Drag &amp; Drop, Dark Mode themes, Quick Actions, Low Power Mode, Sidebar Navigation, URL Schemes
+· Más perks de iOS y iPadOS
+Atajos del Teclado, VoiceOver, Pantalla Dividida &amp; Slide Over, Modo Ahorro de Energía, Arrastra y Suelta, Temas Modo Oscuro, Acciones Ráìdas, Navegación en el Sidebar y URLs
 
-If you have any questions, please reach out to focusedworkapp@michaeltigas.com.au
+Si tienes cualquier preguta, por favor escríbenos a focusedworkapp@michaeltigas.com.au
 
-Privacy Policy: https://focusedwork.app/privacypolicy/
-Terms of Use: https://focusedwork.app/termsofuse/
+Política de Privacidad: https://focusedwork.app/privacypolicy/
+Términos y Condiciones: https://focusedwork.app/termsofuse/
 </target>
         <note/>
       </trans-unit>
@@ -2855,57 +2855,57 @@ Terms of Use: https://focusedwork.app/termsofuse/
       </trans-unit>
       <trans-unit id="STORE_SUBTITLE" xml:space="preserve">
         <source>Study, Break &amp; Goal Tracker</source>
-        <target>Study, Break &amp; Goal Tracker</target>
+        <target>Estudia, Descanso &amp; Rastreador de Objetivos</target>
         <note/>
       </trans-unit>
       <trans-unit id="STORE_SUBTITLE_ALT" xml:space="preserve">
         <source>Daily Focus Goals, Track Time</source>
-        <target>Daily Focus Goals, Track Time</target>
+        <target>Objetivos de Enfoque Diarios, Registra tu Tiempo</target>
         <note/>
       </trans-unit>
       <trans-unit id="STORE_TITLE" xml:space="preserve">
         <source>Focused Work - Focus Timer</source>
-        <target>Focused Work - Focus Timer</target>
+        <target>Trabajo Enfocado - Cronómetro de Concentración</target>
         <note>Non app below</note>
       </trans-unit>
       <trans-unit id="STORE_TITLE_ALT" xml:space="preserve">
         <source>Focused Work - Pomodoro Timer</source>
-        <target>Focused Work - Pomodoro Timer</target>
+        <target>Trabajo Enfocado - Cronómetro Pomodoro</target>
         <note/>
       </trans-unit>
       <trans-unit id="TEMPLATE_GAPTIME_DESCRIPTION" xml:space="preserve">
         <source>Perfect for completing short tasks while you're waiting for your tasty dinner to finish cooking!</source>
-        <target>Perfect for completing short tasks while you're waiting for your tasty dinner to finish cooking!</target>
+        <target>¡Perfecto para completar tareas cortas mientras esperas por tu deliciosa cena!</target>
         <note/>
       </trans-unit>
       <trans-unit id="TEMPLATE_GAPTIME_NAME" xml:space="preserve">
         <source>Gap Time</source>
-        <target>Gap Time</target>
+        <target>Tiempo Vacio</target>
         <note/>
       </trans-unit>
       <trans-unit id="TEMPLATE_HALF_DESCRIPTION" xml:space="preserve">
         <source>A half of Two Halves. Suited for focusing on larger tasks but you have less than an hour to spare.</source>
-        <target>A half of Two Halves. Suited for focusing on larger tasks but you have less than an hour to spare.</target>
+        <target>La mitad de Dos Mitades. Diseñado para enfocarse en tareas más grandes, pero tienes menos de una hora libre.</target>
         <note/>
       </trans-unit>
       <trans-unit id="TEMPLATE_HALF_NAME" xml:space="preserve">
         <source>Half</source>
-        <target>Half</target>
+        <target>Mitad</target>
         <note/>
       </trans-unit>
       <trans-unit id="TEMPLATE_LUNCH_DESCRIPTION" xml:space="preserve">
         <source>Treat yourself to a one-hour lunch break to clear your mind, and enjoy some tasty food!</source>
-        <target>Treat yourself to a one-hour lunch break to clear your mind, and enjoy some tasty food!</target>
+        <target>¡Conciente con un tiempo para un lunch, aclara tu mente y distruta!</target>
         <note/>
       </trans-unit>
       <trans-unit id="TEMPLATE_LUNCH_NAME" xml:space="preserve">
         <source>Lunch Break</source>
-        <target>Lunch Break</target>
+        <target>Tiempo para Lunch</target>
         <note/>
       </trans-unit>
       <trans-unit id="TEMPLATE_POMODORO_DESCRIPTION" xml:space="preserve">
         <source>A common focus technique that encourages dividing tasks into three 25 min Focused Work stages, with two 5 min Breaks inbetween, ending with a 15 min Break.</source>
-        <target>A common focus technique that encourages dividing tasks into three 25 min Focused Work stages, with two 5 min Breaks inbetween, ending with a 15 min Break.</target>
+        <target>Una técnica común para enfocarse que promueve dividir tareas en tres etapas de 25 minutos, con dos descansos de 5 minutos entre ellas y termina con un descanso de 15 minutos</target>
         <note/>
       </trans-unit>
       <trans-unit id="TEMPLATE_POMODORO_NAME" xml:space="preserve">
@@ -2915,127 +2915,127 @@ Terms of Use: https://focusedwork.app/termsofuse/
       </trans-unit>
       <trans-unit id="TEMPLATE_READING_DESCRIPTION" xml:space="preserve">
         <source>A brief focus session for completing some daily reading.</source>
-        <target>A brief focus session for completing some daily reading.</target>
+        <target>Una sesión breve de Enfoque para leer un poco.</target>
         <note/>
       </trans-unit>
       <trans-unit id="TEMPLATE_READING_NAME" xml:space="preserve">
         <source>Reading</source>
-        <target>Reading</target>
+        <target>Leer</target>
         <note/>
       </trans-unit>
       <trans-unit id="TEMPLATE_REVERSEPOMODORO_DESCRIPTION" xml:space="preserve">
         <source>The go-to session when you're feeling unmotivated or have brain fog. It emphasises taking long breaks with short bursts of Focused Work to help you complete smaller tasks and build momentum.</source>
-        <target>The go-to session when you're feeling unmotivated or have brain fog. It emphasises taking long breaks with short bursts of Focused Work to help you complete smaller tasks and build momentum.</target>
+        <target>La sesión fundamental cuando te sientes poco motivado o con la mente nublada. Enfatiza tomar largos descansos con rachas rápidas de Trabajo Enfocado que te ayudarán a completar tareas más cortas y crear incercia.</target>
         <note/>
       </trans-unit>
       <trans-unit id="TEMPLATE_REVERSEPOMODORO_NAME" xml:space="preserve">
         <source>Reverse Pomodoro</source>
-        <target>Reverse Pomodoro</target>
+        <target>Pomodoro en Reversa</target>
         <note/>
       </trans-unit>
       <trans-unit id="TEMPLATE_SPRINT_DESCRIPTION" xml:space="preserve">
         <source>A session divided into short Focused Work and Break stages, for when you're studying for an exam or need to memorise information. Balanced short breaks help keep your mind fresh and on-task.</source>
-        <target>A session divided into short Focused Work and Break stages, for when you're studying for an exam or need to memorise information. Balanced short breaks help keep your mind fresh and on-task.</target>
+        <target>Una sesión divida en pequeñas etapas de Trabajo Enfocado y Descanso, para cuando estés estuando para un examen o necesites memorizar información. Etapas cortas balanceadas ayudan a tu mente a mantenerse fresca y enfocada.</target>
         <note/>
       </trans-unit>
       <trans-unit id="TEMPLATE_SPRINT_NAME" xml:space="preserve">
         <source>Sprint</source>
-        <target>Sprint</target>
+        <target>Carrera</target>
         <note/>
       </trans-unit>
       <trans-unit id="TEMPLATE_STACK_DESCRIPTION" xml:space="preserve">
         <source>A technique that encourages working hard on a task in the first part, with a focus to wrap it up in the second part.</source>
-        <target>A technique that encourages working hard on a task in the first part, with a focus to wrap it up in the second part.</target>
+        <target>Una técnica que te motiva a trabajar de forma enfocada y con una concentración finalizarla en la segunda parte.</target>
         <note/>
       </trans-unit>
       <trans-unit id="TEMPLATE_STACK_NAME" xml:space="preserve">
         <source>Stack</source>
-        <target>Stack</target>
+        <target>Montón</target>
         <note/>
       </trans-unit>
       <trans-unit id="TEMPLATE_STAGE_PREPARE" xml:space="preserve">
         <source>Prepare for the sprint</source>
-        <target>Prepare for the sprint</target>
+        <target>Prepárate para la carrera</target>
         <note/>
       </trans-unit>
       <trans-unit id="TEMPLATE_STAGE_RELAX" xml:space="preserve">
         <source>Relax, and enjoy my well deserved break!</source>
-        <target>Relax, and enjoy my well deserved break!</target>
+        <target>¡Relájate, y disfruta tu bien merecido descanso!</target>
         <note/>
       </trans-unit>
       <trans-unit id="TEMPLATE_STAGE_STANDSTRETCHWALK" xml:space="preserve">
         <source>Stand up, stretch, walk around</source>
-        <target>Stand up, stretch, walk around</target>
+        <target>Levántate, estírate y camina un poco</target>
         <note/>
       </trans-unit>
       <trans-unit id="TEMPLATE_STAGE_STRETCH" xml:space="preserve">
         <source>Stand up, and stretch</source>
-        <target>Stand up, and stretch</target>
+        <target>Levántate y estírate</target>
         <note/>
       </trans-unit>
       <trans-unit id="TEMPLATE_STAGE_TASKS" xml:space="preserve">
         <source>Finish up remaining tasks</source>
-        <target>Finish up remaining tasks</target>
+        <target>Terminar tareas restantes</target>
         <note/>
       </trans-unit>
       <trans-unit id="TEMPLATE_STAGE_WALK" xml:space="preserve">
         <source>Walk around</source>
-        <target>Walk around</target>
+        <target>Camina un poco</target>
         <note/>
       </trans-unit>
       <trans-unit id="TEMPLATE_STAGE_WALKSTRETCH" xml:space="preserve">
         <source>Walk around, and stretch</source>
-        <target>Walk around, and stretch</target>
+        <target>Camina un poco y estírate</target>
         <note/>
       </trans-unit>
       <trans-unit id="TEMPLATE_TIMER_DESCRIPTION" xml:space="preserve">
         <source>A simple count up timer that's great for open-ended tasks such as meetings.</source>
-        <target>A simple count up timer that's great for open-ended tasks such as meetings.</target>
+        <target>Un siempre cronómetro que es genial para tareas sin fin claro, como una junta.</target>
         <note/>
       </trans-unit>
       <trans-unit id="TEMPLATE_TIMER_NAME" xml:space="preserve">
         <source>Simple Timer</source>
-        <target>Simple Timer</target>
+        <target>Simple Cronómetro</target>
         <note/>
       </trans-unit>
       <trans-unit id="TEMPLATE_TWOHALVES_DESCRIPTION" xml:space="preserve">
         <source>Suited for focusing on larger tasks that require extra time to reach a flow state, such as Coding or Content Writing. Two 45 min Focused Work stages with a 10 min Break inbetween. A favorite of the developer. 🙂</source>
-        <target>Suited for focusing on larger tasks that require extra time to reach a flow state, such as Coding or Content Writing. Two 45 min Focused Work stages with a 10 min Break inbetween. A favorite of the developer. 🙂</target>
+        <target>Diseñado para enfocarte en tareas más grandes que requieren tiempo extra para llegar a un estado de flow, como Programación o Creación de Contenido. Dos etapas de Trabajo Enfocado de 45 minutos, entre descansos de 10 minutos. Un favorito del desarrollador. 🙂</target>
         <note/>
       </trans-unit>
       <trans-unit id="TEMPLATE_TWOHALVES_NAME" xml:space="preserve">
         <source>Two Halves</source>
-        <target>Two Halves</target>
+        <target>Dos mitades</target>
         <note/>
       </trans-unit>
       <trans-unit id="TEMPLATE_ULTRADIAN_DESCRIPTION" xml:space="preserve">
         <source>Follow the Ultradian Rhythms technique which includes two 90 min stages of high productivity, with two 20 min breaks inbetween.</source>
-        <target>Follow the Ultradian Rhythms technique which includes two 90 min stages of high productivity, with two 20 min breaks inbetween.</target>
+        <target>Sigue la técnica Ritmos Ultradianos, la cual incluye dos etapas de 90 minutos de alta productividad, con dos descansos de 20 minutos.</target>
         <note/>
       </trans-unit>
       <trans-unit id="TEMPLATE_ULTRADIAN_NAME" xml:space="preserve">
         <source>Ultradian</source>
-        <target>Ultradian</target>
+        <target>Ultradiano</target>
         <note/>
       </trans-unit>
       <trans-unit id="TEMPLATE_WINDDOWN_DESCRIPTION" xml:space="preserve">
         <source>Complete a relaxing routine before bed to help with falling asleep. Read a book, listen to your favorite meditation app, or journal about your day.</source>
-        <target>Complete a relaxing routine before bed to help with falling asleep. Read a book, listen to your favorite meditation app, or journal about your day.</target>
+        <target>Completa una rutina relajante antes de ir a dormir, que facilita el sueño. Lee un libro, escucha tu app de meditación favorita o un diario sobre to día.</target>
         <note/>
       </trans-unit>
       <trans-unit id="TEMPLATE_WINDDOWN_NAME" xml:space="preserve">
         <source>Wind Down</source>
-        <target>Wind Down</target>
+        <target>Relajarse</target>
         <note/>
       </trans-unit>
       <trans-unit id="TERM_ACTIVE" xml:space="preserve">
         <source>Active</source>
-        <target>Active</target>
+        <target>Activo</target>
         <note/>
       </trans-unit>
       <trans-unit id="TERM_ALERTS" xml:space="preserve">
         <source>Alerts</source>
-        <target>Alerts</target>
+        <target>Alertas</target>
         <note/>
       </trans-unit>
       <trans-unit id="TERM_APP" xml:space="preserve">
@@ -3050,27 +3050,27 @@ Terms of Use: https://focusedwork.app/termsofuse/
       </trans-unit>
       <trans-unit id="TERM_AUTOMATION" xml:space="preserve">
         <source>Automation</source>
-        <target>Automation</target>
+        <target>Automatización</target>
         <note/>
       </trans-unit>
       <trans-unit id="TERM_AUTOMATIONS" xml:space="preserve">
         <source>Automations</source>
-        <target>Automations</target>
+        <target>Automatizaciones</target>
         <note/>
       </trans-unit>
       <trans-unit id="TERM_BREAK" xml:space="preserve">
         <source>Break</source>
-        <target>Break</target>
+        <target>Descanso</target>
         <note/>
       </trans-unit>
       <trans-unit id="TERM_BREAKTIME" xml:space="preserve">
         <source>Break Time</source>
-        <target>Break Time</target>
+        <target>Tiempo de Descanso</target>
         <note/>
       </trans-unit>
       <trans-unit id="TERM_COMPLETEDSESSION" xml:space="preserve">
         <source>Completed Session</source>
-        <target>Completed Session</target>
+        <target>Sesiones Completadas</target>
         <note/>
       </trans-unit>
       <trans-unit id="TERM_COMPLETEDSESSION_PLURALISATION" xml:space="preserve">
@@ -3087,22 +3087,22 @@ Terms of Use: https://focusedwork.app/termsofuse/
       </trans-unit>
       <trans-unit id="TERM_DEFAULT" xml:space="preserve">
         <source>Default</source>
-        <target>Default</target>
+        <target>De Facto</target>
         <note/>
       </trans-unit>
       <trans-unit id="TERM_DETAILS" xml:space="preserve">
         <source>Details</source>
-        <target>Details</target>
+        <target>Detalles</target>
         <note/>
       </trans-unit>
       <trans-unit id="TERM_DEVELOPER" xml:space="preserve">
         <source>Developer</source>
-        <target>Developer</target>
+        <target>Desarrollador</target>
         <note/>
       </trans-unit>
       <trans-unit id="TERM_ENABLED" xml:space="preserve">
         <source>Enabled</source>
-        <target>Enabled</target>
+        <target>Habilitado</target>
         <note/>
       </trans-unit>
       <trans-unit id="TERM_ERROR" xml:space="preserve">
@@ -3117,27 +3117,27 @@ Terms of Use: https://focusedwork.app/termsofuse/
       </trans-unit>
       <trans-unit id="TERM_FINISH" xml:space="preserve">
         <source>Finish</source>
-        <target>Finish</target>
+        <target>Terminado</target>
         <note/>
       </trans-unit>
       <trans-unit id="TERM_FOCUSEDWORK" xml:space="preserve">
         <source>Focused Work</source>
-        <target>Focused Work</target>
+        <target>Trabajo Enfocado</target>
         <note/>
       </trans-unit>
       <trans-unit id="TERM_FOCUSGROUP" xml:space="preserve">
         <source>Focus Group</source>
-        <target>Focus Group</target>
+        <target>Enfoque Grupal</target>
         <note/>
       </trans-unit>
       <trans-unit id="TERM_FOCUSSESSION" xml:space="preserve">
         <source>Focus Session</source>
-        <target>Focus Session</target>
+        <target>Sesión de Enfoque</target>
         <note/>
       </trans-unit>
       <trans-unit id="TERM_FOCUSSESSIONS" xml:space="preserve">
         <source>Focus Sessions</source>
-        <target>Focus Sessions</target>
+        <target>Sesiones de Enfoque</target>
         <note/>
       </trans-unit>
       <trans-unit id="TERM_FOCUSSESSION_PLURALISATION" xml:space="preserve">
@@ -3146,42 +3146,42 @@ Terms of Use: https://focusedwork.app/termsofuse/
       </trans-unit>
       <trans-unit id="TERM_GOAL" xml:space="preserve">
         <source>Goal</source>
-        <target>Goal</target>
+        <target>Objetivo</target>
         <note/>
       </trans-unit>
       <trans-unit id="TERM_GROUP" xml:space="preserve">
         <source>Group</source>
-        <target>Group</target>
+        <target>Grupo</target>
         <note/>
       </trans-unit>
       <trans-unit id="TERM_INACTIVE" xml:space="preserve">
         <source>Inactive</source>
-        <target>Inactive</target>
+        <target>Inactivo</target>
         <note/>
       </trans-unit>
       <trans-unit id="TERM_INTEGRATION" xml:space="preserve">
         <source>Integration</source>
-        <target>Integration</target>
+        <target>Integración</target>
         <note/>
       </trans-unit>
       <trans-unit id="TERM_LOADING" xml:space="preserve">
         <source>Loading</source>
-        <target>Loading</target>
+        <target>Cargando</target>
         <note/>
       </trans-unit>
       <trans-unit id="TERM_NEVER" xml:space="preserve">
         <source>Never</source>
-        <target>Never</target>
+        <target>Nunca</target>
         <note/>
       </trans-unit>
       <trans-unit id="TERM_NEWSLETTER" xml:space="preserve">
         <source>Newsletter</source>
-        <target>Newsletter</target>
+        <target>Boletín Informativo</target>
         <note/>
       </trans-unit>
       <trans-unit id="TERM_NOTES" xml:space="preserve">
         <source>Notes</source>
-        <target>Notes</target>
+        <target>Notas</target>
         <note/>
       </trans-unit>
       <trans-unit id="TERM_NOTES_COUNT" xml:space="preserve">
@@ -3190,17 +3190,17 @@ Terms of Use: https://focusedwork.app/termsofuse/
       </trans-unit>
       <trans-unit id="TERM_PAUSED" xml:space="preserve">
         <source>Paused</source>
-        <target>Paused</target>
+        <target>Pausado</target>
         <note/>
       </trans-unit>
       <trans-unit id="TERM_PLANNING" xml:space="preserve">
         <source>Planning</source>
-        <target>Planning</target>
+        <target>Pleaneando</target>
         <note/>
       </trans-unit>
       <trans-unit id="TERM_PRESETS" xml:space="preserve">
         <source>Presets</source>
-        <target>Presets</target>
+        <target>Plantillas</target>
         <note/>
       </trans-unit>
       <trans-unit id="TERM_PRESET_PLURALISATION" xml:space="preserve">
@@ -3209,37 +3209,37 @@ Terms of Use: https://focusedwork.app/termsofuse/
       </trans-unit>
       <trans-unit id="TERM_PRIVACY" xml:space="preserve">
         <source>Privacy</source>
-        <target>Privacy</target>
+        <target>Privacidad</target>
         <note/>
       </trans-unit>
       <trans-unit id="TERM_PRIVACYPOLICY" xml:space="preserve">
         <source>Privacy Policy</source>
-        <target>Privacy Policy</target>
+        <target>Política de Privacidad</target>
         <note/>
       </trans-unit>
       <trans-unit id="TERM_PRODUCTIVE" xml:space="preserve">
         <source>Productive</source>
-        <target>Productive</target>
+        <target>Productividad</target>
         <note/>
       </trans-unit>
       <trans-unit id="TERM_PROFILE" xml:space="preserve">
         <source>Profile</source>
-        <target>Profile</target>
+        <target>Perfil</target>
         <note/>
       </trans-unit>
       <trans-unit id="TERM_RESTOREPURCHASES" xml:space="preserve">
         <source>Restore Purchases</source>
-        <target>Restore Purchases</target>
+        <target>Restaurar Compras</target>
         <note/>
       </trans-unit>
       <trans-unit id="TERM_SESSION" xml:space="preserve">
         <source>Session</source>
-        <target>Session</target>
+        <target>Sesión</target>
         <note/>
       </trans-unit>
       <trans-unit id="TERM_SESSIONID" xml:space="preserve">
         <source>Session ID</source>
-        <target>Session ID</target>
+        <target>ID de Sesión</target>
         <note/>
       </trans-unit>
       <trans-unit id="TERM_SESSION_PLURALISATION" xml:space="preserve">
@@ -3248,12 +3248,12 @@ Terms of Use: https://focusedwork.app/termsofuse/
       </trans-unit>
       <trans-unit id="TERM_STAGE" xml:space="preserve">
         <source>Stage</source>
-        <target>Stage</target>
+        <target>Etapa</target>
         <note/>
       </trans-unit>
       <trans-unit id="TERM_STAGETYPE" xml:space="preserve">
         <source>Stage Type</source>
-        <target>Stage Type</target>
+        <target>Tipo de Sesión</target>
         <note/>
       </trans-unit>
       <trans-unit id="TERM_STAGE_COUNT" xml:space="preserve">
@@ -3262,17 +3262,17 @@ Terms of Use: https://focusedwork.app/termsofuse/
       </trans-unit>
       <trans-unit id="TERM_STANDARD" xml:space="preserve">
         <source>Standard</source>
-        <target>Standard</target>
+        <target>Estándar</target>
         <note/>
       </trans-unit>
       <trans-unit id="TERM_STATUS" xml:space="preserve">
         <source>Status</source>
-        <target>Status</target>
+        <target>Estatus</target>
         <note/>
       </trans-unit>
       <trans-unit id="TERM_SUPPORT" xml:space="preserve">
         <source>Support</source>
-        <target>Support</target>
+        <target>Soporte</target>
         <note/>
       </trans-unit>
       <trans-unit id="TERM_TASKS_COUNT" xml:space="preserve">
@@ -3281,12 +3281,12 @@ Terms of Use: https://focusedwork.app/termsofuse/
       </trans-unit>
       <trans-unit id="TERM_TEMPLATE" xml:space="preserve">
         <source>Template</source>
-        <target>Template</target>
+        <target>Plantilla</target>
         <note/>
       </trans-unit>
       <trans-unit id="TERM_TERMS" xml:space="preserve">
         <source>Terms</source>
-        <target>Terms</target>
+        <target>Términos</target>
         <note/>
       </trans-unit>
       <trans-unit id="TERM_THIS_PLURALISATION" xml:space="preserve">
@@ -3295,7 +3295,7 @@ Terms of Use: https://focusedwork.app/termsofuse/
       </trans-unit>
       <trans-unit id="TERM_TIMER" xml:space="preserve">
         <source>Timer</source>
-        <target>Timer</target>
+        <target>Cronómetro</target>
         <note/>
       </trans-unit>
       <trans-unit id="TERM_TOKEN" xml:space="preserve">
@@ -3305,22 +3305,22 @@ Terms of Use: https://focusedwork.app/termsofuse/
       </trans-unit>
       <trans-unit id="TERM_UNKNOWN" xml:space="preserve">
         <source>Unknown</source>
-        <target>Unknown</target>
+        <target>Desconocido</target>
         <note/>
       </trans-unit>
       <trans-unit id="TERM_VOLUME" xml:space="preserve">
         <source>Volume</source>
-        <target>Volume</target>
+        <target>Volumen</target>
         <note/>
       </trans-unit>
       <trans-unit id="TERM_WEBSITE" xml:space="preserve">
         <source>Website</source>
-        <target>Website</target>
+        <target>Página Web</target>
         <note/>
       </trans-unit>
       <trans-unit id="TIMER_STAGECOMPLETED" xml:space="preserve">
         <source>Stage Completed</source>
-        <target>Stage Completed</target>
+        <target>Etapa Completada</target>
         <note/>
       </trans-unit>
       <trans-unit id="TIP_DESCRIPTION" xml:space="preserve">
@@ -3334,11 +3334,11 @@ Thank you!
 ❤️ Michael
 </source>
         <target>
-Hey! 👋
+¡Hola! 👋
 
-I appreciate your support and contribution to Focused Work. In case you wish to further share your love for this app, feel free to leave a tip of any size below. 🙂
+Aprecio tu apoyo y contrubución a Trabajo Enfocado. En caso que quieras seguir compartiendo tu amor por esta App, siente libre de dejar una propina del tamaño que sea. 🙂
 
-Thank you!
+¡Gracias!
 
 ❤️ Michael
 </target>
@@ -3346,432 +3346,432 @@ Thank you!
       </trans-unit>
       <trans-unit id="TIP_ON" xml:space="preserve">
         <source>Tipped on %@</source>
-        <target>Tipped on %@</target>
+        <target>Propina en %@</target>
         <note/>
       </trans-unit>
       <trans-unit id="TIP_STAGEGESTURE_IOS" xml:space="preserve">
         <source>Swipe to duplicate or delete.</source>
-        <target>Swipe to duplicate or delete.</target>
+        <target>Desliza para duplicar o borrar.</target>
         <note/>
       </trans-unit>
       <trans-unit id="TIP_STAGEGESTURE_MAC" xml:space="preserve">
         <source>Right-click to duplicate or delete.</source>
-        <target>Right-click to duplicate or delete.</target>
+        <target>Click derecho para duplicar o borrar.</target>
         <note/>
       </trans-unit>
       <trans-unit id="TIP_THANKYOU_LINE1" xml:space="preserve">
         <source>I appreciate the support, it really means a lot.</source>
-        <target>I appreciate the support, it really means a lot.</target>
+        <target>Aprecio el apoyo, significa muchísimo.</target>
         <note/>
       </trans-unit>
       <trans-unit id="TIP_THANKYOU_LINE2" xml:space="preserve">
         <source>Share this screen with me on Twitter / send me an email. I'd love to hear how Focused Work has helped you be more productive.</source>
-        <target>Share this screen with me on Twitter / send me an email. I'd love to hear how Focused Work has helped you be more productive.</target>
+        <target>Compárteme esta pantalla en Twitter o mándamela por mail. Me encantaria saber como te ha ayudado Trabajo Enfocado a ser más productivo.</target>
         <note/>
       </trans-unit>
       <trans-unit id="TIP_THANKYOU_LINE3" xml:space="preserve">
         <source>Or, feel free to leave a kind review on the App Store!</source>
-        <target>Or, feel free to leave a kind review on the App Store!</target>
+        <target>Ó, ¡Sientete libre de dejar una reseña en la App Store!</target>
         <note/>
       </trans-unit>
       <trans-unit id="TITLE_ADDNOTES" xml:space="preserve">
         <source>Add Notes</source>
-        <target>Add Notes</target>
+        <target>Agregar Notas</target>
         <note/>
       </trans-unit>
       <trans-unit id="TITLE_ALLSESSIONS" xml:space="preserve">
         <source>All Sessions</source>
-        <target>All Sessions</target>
+        <target>Todas las sesiones</target>
         <note/>
       </trans-unit>
       <trans-unit id="TITLE_ALLTAGS" xml:space="preserve">
         <source>All Tags</source>
-        <target>All Tags</target>
+        <target>Todas las etiquetas</target>
         <note/>
       </trans-unit>
       <trans-unit id="TITLE_APPICON" xml:space="preserve">
         <source>App Icon</source>
-        <target>App Icon</target>
+        <target>Ícono del App</target>
         <note/>
       </trans-unit>
       <trans-unit id="TITLE_COPYSHORTCUTCONFIGURATION" xml:space="preserve">
         <source>Copy Shortcut Configuration</source>
-        <target>Copy Shortcut Configuration</target>
+        <target>Copiar Configuración de Atajo</target>
         <note/>
       </trans-unit>
       <trans-unit id="TITLE_COPYTOGGLCONFIGURATION" xml:space="preserve">
         <source>Copy Toggl Configuration</source>
-        <target>Copy Toggl Configuration</target>
+        <target>Copiar Configuración de Toggl</target>
         <note/>
       </trans-unit>
       <trans-unit id="TITLE_CREATESESSION" xml:space="preserve">
         <source>Create Session</source>
-        <target>Create Session</target>
+        <target>Crear Sesión</target>
         <note/>
       </trans-unit>
       <trans-unit id="TITLE_CREATETOGGLPRESET" xml:space="preserve">
         <source>Create Toggl Preset</source>
-        <target>Create Toggl Preset</target>
+        <target>Crear Plantilla de Toggl</target>
         <note/>
       </trans-unit>
       <trans-unit id="TITLE_CURRENTSESSION" xml:space="preserve">
         <source>Current Session</source>
-        <target>Current Session</target>
+        <target>Sesión Actual</target>
         <note/>
       </trans-unit>
       <trans-unit id="TITLE_EDITPRODUCTIVITYNOTES" xml:space="preserve">
         <source>Edit Productivity Notes</source>
-        <target>Edit Productivity Notes</target>
+        <target>Editar Notas de Productividad</target>
         <note/>
       </trans-unit>
       <trans-unit id="TITLE_FOCUSEDWORKPRO" xml:space="preserve">
         <source>Focused Work Pro</source>
-        <target>Focused Work Pro</target>
+        <target>Trabajo Enfocado Pro</target>
         <note/>
       </trans-unit>
       <trans-unit id="TITLE_ICLOUDSYNCSTATE" xml:space="preserve">
         <source>iCloud Sync State</source>
-        <target>iCloud Sync State</target>
+        <target>Estado de Sincronización de iCloud</target>
         <note/>
       </trans-unit>
       <trans-unit id="TITLE_POWERSAVER" xml:space="preserve">
         <source>Power Saver</source>
-        <target>Power Saver</target>
+        <target>Ahorro de Energía</target>
         <note/>
       </trans-unit>
       <trans-unit id="TITLE_PREFERENCES" xml:space="preserve">
         <source>Preferences</source>
-        <target>Preferences</target>
+        <target>Preferencias</target>
         <note/>
       </trans-unit>
       <trans-unit id="TITLE_PRODUCTIVITY" xml:space="preserve">
         <source>Productivity</source>
-        <target>Productivity</target>
+        <target>Productividad</target>
         <note/>
       </trans-unit>
       <trans-unit id="TITLE_PRODUCTIVITYEXPORT" xml:space="preserve">
         <source>Productivity Export</source>
-        <target>Productivity Export</target>
+        <target>Exportar Productividad</target>
         <note/>
       </trans-unit>
       <trans-unit id="TITLE_PRODUCTIVITYNOTES" xml:space="preserve">
         <source>Productivity Notes</source>
-        <target>Productivity Notes</target>
+        <target>Notas de Productividad</target>
         <note/>
       </trans-unit>
       <trans-unit id="TITLE_RECENTSESSIONS" xml:space="preserve">
         <source>Recent Sessions</source>
-        <target>Recent Sessions</target>
+        <target>Sesiones Recientes</target>
         <note/>
       </trans-unit>
       <trans-unit id="TITLE_SELECTPRESET" xml:space="preserve">
         <source>Select a Preset</source>
-        <target>Select a Preset</target>
+        <target>Seleccionar una Plantilla</target>
         <note/>
       </trans-unit>
       <trans-unit id="TITLE_SELECTPROJECT" xml:space="preserve">
         <source>Select a Project</source>
-        <target>Select a Project</target>
+        <target>Selecciona un Proyecto</target>
         <note/>
       </trans-unit>
       <trans-unit id="TITLE_SELECTRECENTENTRY" xml:space="preserve">
         <source>Select a Recent Entry</source>
-        <target>Select a Recent Entry</target>
+        <target>Selecciona una Entrada Reciente</target>
         <note/>
       </trans-unit>
       <trans-unit id="TITLE_SELECTTAGS" xml:space="preserve">
         <source>Select Tags</source>
-        <target>Select Tags</target>
+        <target>Selecciona Etiquetas</target>
         <note/>
       </trans-unit>
       <trans-unit id="TITLE_SELECTTEMPLATE" xml:space="preserve">
         <source>Select a Template</source>
-        <target>Select a Template</target>
+        <target>Selecciona una Plantilla</target>
         <note/>
       </trans-unit>
       <trans-unit id="TITLE_SELECTWORKSPACE" xml:space="preserve">
         <source>Select a Workspace</source>
-        <target>Select a Workspace</target>
+        <target>Selecciona una Mesa de Trabajo</target>
         <note/>
       </trans-unit>
       <trans-unit id="TITLE_SESSIONINPROGRESS" xml:space="preserve">
         <source>Session In Progress</source>
-        <target>Session In Progress</target>
+        <target>Sesión en Progreso</target>
         <note/>
       </trans-unit>
       <trans-unit id="TITLE_SETAUTOMATIONSHORTCUT" xml:space="preserve">
         <source>Set %@ Shortcut</source>
-        <target>Set %@ Shortcut</target>
+        <target>Colocar %@ Atajo</target>
         <note>Set Session Start Shortcut</note>
       </trans-unit>
       <trans-unit id="TITLE_SETTINGS" xml:space="preserve">
         <source>Settings</source>
-        <target>Settings</target>
+        <target>Ajustes</target>
         <note/>
       </trans-unit>
       <trans-unit id="TITLE_SHARESTARTSESSION" xml:space="preserve">
         <source>Start a Focus Session</source>
-        <target>Start a Focus Session</target>
+        <target>Empieza una Sesión de Enfoque</target>
         <note/>
       </trans-unit>
       <trans-unit id="TITLE_SHORTCUTAUTOMATIONS" xml:space="preserve">
         <source>Shortcut Automations</source>
-        <target>Shortcut Automations</target>
+        <target>Automatización de Atajos</target>
         <note/>
       </trans-unit>
       <trans-unit id="TITLE_TIPJAR" xml:space="preserve">
         <source>Tip Jar</source>
-        <target>Tip Jar</target>
+        <target>Tarro de Propina</target>
         <note/>
       </trans-unit>
       <trans-unit id="TITLE_TIPSENT" xml:space="preserve">
         <source>Tip Sent</source>
-        <target>Tip Sent</target>
+        <target>Propina Enviada</target>
         <note/>
       </trans-unit>
       <trans-unit id="TITLE_TOGGLINTEGRATION" xml:space="preserve">
         <source>Toggl Integration</source>
-        <target>Toggl Integration</target>
+        <target>Integración de Toggl</target>
         <note/>
       </trans-unit>
       <trans-unit id="TITLE_UPDATESESSIONFOCUS" xml:space="preserve">
         <source>Update Session Focus</source>
-        <target>Update Session Focus</target>
+        <target>Actualiza una Sesión de Enfoque</target>
         <note/>
       </trans-unit>
       <trans-unit id="TITLE_UPDATETOGGLPRESET" xml:space="preserve">
         <source>Update Toggl Preset</source>
-        <target>Update Toggl Preset</target>
+        <target>Actualiza Plantilla de Toggl</target>
         <note/>
       </trans-unit>
       <trans-unit id="TITLE_WHATSNEW" xml:space="preserve">
         <source>What's New</source>
-        <target>What's New</target>
+        <target>¿Qué hay nuevo?</target>
         <note/>
       </trans-unit>
       <trans-unit id="TOGGLPRESET_ALTACC_DISABLED" xml:space="preserve">
         <source>This preset was created with a different Toggl account. Select another preset.</source>
-        <target>This preset was created with a different Toggl account. Select another preset.</target>
+        <target>Esta plantilla fue creada con una cuenta diferente de Toggl. Selecciona otra plantilla.</target>
         <note/>
       </trans-unit>
       <trans-unit id="TOGGLPRESET_ALTACC_MESSAGE" xml:space="preserve">
         <source>This preset was not created with the current Toggl account. Do you want to delete it?</source>
-        <target>This preset was not created with the current Toggl account. Do you want to delete it?</target>
+        <target>Esta plantilla no fue creada con la cuenta actual de Toggl. ¿Quiéres borrarla?</target>
         <note/>
       </trans-unit>
       <trans-unit id="TOGGLPRESET_ALTACC_TITLE" xml:space="preserve">
         <source>Preset created with another Toggl account</source>
-        <target>Preset created with another Toggl account</target>
+        <target>Plantilla creada con otra cuenta de Toggl</target>
         <note/>
       </trans-unit>
       <trans-unit id="TOGGLPRESET_DESELECT" xml:space="preserve">
         <source>Deselect Toggl Preset</source>
-        <target>Deselect Toggl Preset</target>
+        <target>Deselecciona Plantilla de Toggl</target>
         <note/>
       </trans-unit>
       <trans-unit id="TOGGLPRESET_HINT" xml:space="preserve">
         <source>Enter a name</source>
-        <target>Enter a name</target>
+        <target>Ingresa un nombre</target>
         <note/>
       </trans-unit>
       <trans-unit id="TOGGLPRESET_MANUAL" xml:space="preserve">
         <source>Convert to Manual Configuration</source>
-        <target>Convert to Manual Configuration</target>
+        <target>Convertir a Configuración Manual</target>
         <note/>
       </trans-unit>
       <trans-unit id="TOGGLPRESET_NONAME" xml:space="preserve">
         <source>No Name</source>
-        <target>No Name</target>
+        <target>Sin nombre</target>
         <note/>
       </trans-unit>
       <trans-unit id="TOGGLPRESET_SELECT" xml:space="preserve">
         <source>Select a Toggl Preset</source>
-        <target>Select a Toggl Preset</target>
+        <target>Selecciona una Plantilla de Toggl</target>
         <note/>
       </trans-unit>
       <trans-unit id="TOGGL_CONFIGURATIONDISABLED" xml:space="preserve">
         <source>This configuration was saved with another Toggl account. Select another workspace.</source>
-        <target>This configuration was saved with another Toggl account. Select another workspace.</target>
+        <target>Esta configuración fue guardada con otra cuenta de Toggl. Selecciona otra mesa de trabajo.</target>
         <note/>
       </trans-unit>
       <trans-unit id="TOGGL_DISCLAIMER" xml:space="preserve">
         <source>Focus Session stages will be submitted to Toggl if there's an active internet connection.</source>
-        <target>Focus Session stages will be submitted to Toggl if there's an active internet connection.</target>
+        <target>Etapas en la Sesión de Enfoque serán enviadas a Toggl si hay una conexión activa de internet.</target>
         <note/>
       </trans-unit>
       <trans-unit id="TOGGL_ENTERTOKEN" xml:space="preserve">
         <source>Enter your API token</source>
-        <target>Enter your API token</target>
+        <target>Ingresa tu API Token</target>
         <note/>
       </trans-unit>
       <trans-unit id="TOGGL_ENTERTOKEN_FOOTER" xml:space="preserve">
         <source>Add your Toggl API Token to authenticate with Toggl.</source>
-        <target>Add your Toggl API Token to authenticate with Toggl.</target>
+        <target>Agrega tu API Token de Toggl para autenticarte.</target>
         <note/>
       </trans-unit>
       <trans-unit id="TOGGL_INFO_DESCRIPTION" xml:space="preserve">
         <source>Assign Projects and Tags to each Focus Session, and create common presets that link to multiple sessions.</source>
-        <target>Assign Projects and Tags to each Focus Session, and create common presets that link to multiple sessions.</target>
+        <target>Asigna Proyectos y Etiquetas en cada Sesión de Enfoque y crea plantillas comunes que vinculan múltiples sesiones.</target>
         <note/>
       </trans-unit>
       <trans-unit id="TOGGL_INFO_TITLE" xml:space="preserve">
         <source>Link your Toggl account to log Focused Work, Break, and Planning stages.</source>
-        <target>Link your Toggl account to log Focused Work, Break, and Planning stages.</target>
+        <target>Vincula tu cuenta de Toggl para registrar etapas de Trabajo Enfocado, Descanso y Planeación.</target>
         <note/>
       </trans-unit>
       <trans-unit id="TOGGL_INFO_TOKEN" xml:space="preserve">
         <source>Get my API Token</source>
-        <target>Get my API Token</target>
+        <target>Obtener mi API Token</target>
         <note/>
       </trans-unit>
       <trans-unit id="TOGGL_LOGSTAGES" xml:space="preserve">
         <source>Log Stages</source>
-        <target>Log Stages</target>
+        <target>Registra Etapas</target>
         <note/>
       </trans-unit>
       <trans-unit id="TOGGL_LOGSTAGES_FOOTER" xml:space="preserve">
         <source>Log completed stages. Assign Projects, Tags, and Tasks.</source>
-        <target>Log completed stages. Assign Projects, Tags, and Tasks.</target>
+        <target>Registra etapas completadas. Asigna Proyectos, Etiquetas y Tareas.</target>
         <note/>
       </trans-unit>
       <trans-unit id="TOGGL_PRESETS" xml:space="preserve">
         <source>Presets</source>
-        <target>Presets</target>
+        <target>Plantillas</target>
         <note/>
       </trans-unit>
       <trans-unit id="TOGGL_PROJECT" xml:space="preserve">
         <source>Project</source>
-        <target>Project</target>
+        <target>Proyecto</target>
         <note/>
       </trans-unit>
       <trans-unit id="TOGGL_PROJECTS" xml:space="preserve">
         <source>Projects</source>
-        <target>Projects</target>
+        <target>Proyecto</target>
         <note/>
       </trans-unit>
       <trans-unit id="TOGGL_TAG" xml:space="preserve">
         <source>Tag</source>
-        <target>Tag</target>
+        <target>Etiqueta</target>
         <note/>
       </trans-unit>
       <trans-unit id="TOGGL_TAGS" xml:space="preserve">
         <source>Tags</source>
-        <target>Tags</target>
+        <target>Etiquetas</target>
         <note/>
       </trans-unit>
       <trans-unit id="TOGGL_WEBSITE" xml:space="preserve">
         <source>Toggl Website</source>
-        <target>Toggl Website</target>
+        <target>Página de Toggl</target>
         <note/>
       </trans-unit>
       <trans-unit id="TOGGL_WORKSPACE" xml:space="preserve">
         <source>Workspace</source>
-        <target>Workspace</target>
+        <target>Mesa de Trabajo</target>
         <note/>
       </trans-unit>
       <trans-unit id="TOGGL_WORKSPACES" xml:space="preserve">
         <source>Workspaces</source>
-        <target>Workspaces</target>
+        <target>Mesas de Trabajo</target>
         <note/>
       </trans-unit>
       <trans-unit id="UPDATEGOAL_COMPLETED" xml:space="preserve">
         <source>Well done completing your %@ goal!</source>
-        <target>Well done completing your %@ goal!</target>
+        <target>¡Buen trabajo completando tu %@ objectivo!</target>
         <note>Well done completing your 'Break' goal!</note>
       </trans-unit>
       <trans-unit id="UPDATEGOAL_FOOTER_BREAKTIME" xml:space="preserve">
         <source>Set how much break time you want to aim for each day.</source>
-        <target>Set how much break time you want to aim for each day.</target>
+        <target>Establece cuando tiempo de descanso quieres cada día.</target>
         <note/>
       </trans-unit>
       <trans-unit id="UPDATEGOAL_FOOTER_FOCUSEDWORK" xml:space="preserve">
         <source>Set how much Focused Work you want to aim for each day.</source>
-        <target>Set how much Focused Work you want to aim for each day.</target>
+        <target>Establece cuando Trabajo Enfocado quieres cada día.</target>
         <note/>
       </trans-unit>
       <trans-unit id="UPDATEGOAL_FOOTER_FOCUSSESSIONS" xml:space="preserve">
         <source>Set how many sessions you want to aim for each day.</source>
-        <target>Set how many sessions you want to aim for each day.</target>
+        <target>Establece cuantas sesiones quieres cada día.</target>
         <note/>
       </trans-unit>
       <trans-unit id="UPDATEGOAL_LONGESTSTREAK" xml:space="preserve">
         <source>Longest streak ending on %@.</source>
-        <target>Longest streak ending on %@.</target>
+        <target>Racha más larga terminando en %@.</target>
         <note/>
       </trans-unit>
       <trans-unit id="UPDATEGOAL_STREAKNONE" xml:space="preserve">
         <source>Complete your %@ goal today to begin a new streak.</source>
-        <target>Complete your %@ goal today to begin a new streak.</target>
+        <target>Completa tu %@ objetivo hoy y empieza una nueva racha.</target>
         <note/>
       </trans-unit>
       <trans-unit id="UPDATEGOAL_STREAKSINCE" xml:space="preserve">
         <source>Currently on a streak since %@.</source>
-        <target>Currently on a streak since %@.</target>
+        <target>Actualmente en una racha desde %@.</target>
         <note/>
       </trans-unit>
       <trans-unit id="UPSELL_FEATURE_DATAEXPORT" xml:space="preserve">
         <source>Productivity Export.</source>
-        <target>Productivity Export.</target>
+        <target>Exportar Productividad.</target>
         <note/>
       </trans-unit>
       <trans-unit id="UPSELL_FEATURE_DEVICEALERTS" xml:space="preserve">
         <source>Mid-session alerts on all devices.</source>
-        <target>Mid-session alerts on all devices.</target>
+        <target>Alertas a la mitad de las sesiones en todos los dispositivos.</target>
         <note/>
       </trans-unit>
       <trans-unit id="UPSELL_FEATURE_FOCUSSESSIONS" xml:space="preserve">
         <source>Unlimited Focus Sessions.</source>
-        <target>Unlimited Focus Sessions.</target>
+        <target>Ilimitadas Sesiones de Enfoque.</target>
         <note/>
       </trans-unit>
       <trans-unit id="UPSELL_FEATURE_ICLOUD" xml:space="preserve">
         <source>iCloud Sync &amp; Backup.</source>
-        <target>iCloud Sync &amp; Backup.</target>
+        <target>Sincronización iCloud &amp; Respaldo.</target>
         <note/>
       </trans-unit>
       <trans-unit id="UPSELL_FEATURE_ICONS" xml:space="preserve">
         <source>App Icons. App &amp; Widget Themes.</source>
-        <target>App Icons. App &amp; Widget Themes.</target>
+        <target>Tmeas para Íconos de Apps. App &amp; Widgets.</target>
         <note/>
       </trans-unit>
       <trans-unit id="UPSELL_FEATURE_SHORTCUTAUTOMATIONS" xml:space="preserve">
         <source>Automatically trigger Shortcuts mid-session.</source>
-        <target>Automatically trigger Shortcuts mid-session.</target>
+        <target>Automaticamente activa Atajos a la mitad de la sesión.</target>
         <note/>
       </trans-unit>
       <trans-unit id="UPSELL_FEATURE_TOGGL" xml:space="preserve">
         <source>Toggl Integration. Assign Projects, Tags, Tasks.</source>
-        <target>Toggl Integration. Assign Projects, Tags, Tasks.</target>
+        <target>Integración con Toggl. Asigna Proyectos, Etiquetas y Tareas</target>
         <note/>
       </trans-unit>
       <trans-unit id="UPSELL_INTRO_LINE1" xml:space="preserve">
         <source>Focused Work is made by me, Michael! 👋 </source>
-        <target>Focused Work is made by me, Michael! 👋 </target>
+        <target>¡Trabajo Enfocado está hecho por mi, Michael! 👋 </target>
         <note/>
       </trans-unit>
       <trans-unit id="UPSELL_INTRO_LINE2" xml:space="preserve">
         <source>I created it to help people focus and structure their time effectively. (me included! 😁)</source>
-        <target>I created it to help people focus and structure their time effectively. (me included! 😁)</target>
+        <target>Lo cree para ayudar a las personas a enfocar y estructurar su tiempo eficientemente. (¡incluyéndome! 😁)</target>
         <note/>
       </trans-unit>
       <trans-unit id="UPSELL_LIFETIMEPURCHASED" xml:space="preserve">
         <source>Lifetime Purchased ❤️</source>
-        <target>Lifetime Purchased ❤️</target>
+        <target>Comprado de por vida ❤️</target>
         <note/>
       </trans-unit>
       <trans-unit id="UPSELL_LIFETIME_PREFIX" xml:space="preserve">
         <source>You've permanently unlocked</source>
-        <target>You've permanently unlocked</target>
+        <target>Haz sido desbloqueado permanentemente</target>
         <note/>
       </trans-unit>
       <trans-unit id="UPSELL_SUBSCRIBEDUNTIL" xml:space="preserve">
         <source>Subscribed until</source>
-        <target>Subscribed until</target>
+        <target>Suscrito hasta</target>
         <note/>
       </trans-unit>
       <trans-unit id="UPSELL_SUBSCRIPTION_PREFIX" xml:space="preserve">
         <source>You've unlocked</source>
-        <target>You've unlocked</target>
+        <target>Haz sido desbloqueado</target>
         <note/>
       </trans-unit>
       <trans-unit id="WHATSNEW_LEAVEREVIEW" xml:space="preserve">
@@ -3781,54 +3781,54 @@ Thank you!
       </trans-unit>
       <trans-unit id="WHATSNEW_READMORE" xml:space="preserve">
         <source>Read More</source>
-        <target>Read More</target>
+        <target>Leer más</target>
         <note/>
       </trans-unit>
       <trans-unit id="WHATSNEW_TITLE" xml:space="preserve">
         <source>Focused Work
 Updates</source>
-        <target>Focused Work
-Updates</target>
+        <target>Tranajo Enfocado
+Actualizaciones</target>
         <note/>
       </trans-unit>
       <trans-unit id="WIDGET_CURRENTSESSION_DESCRIPTION" xml:space="preserve">
         <source>Display the timer and current session. Session controls aren't available in small widget.</source>
-        <target>Display the timer and current session. Session controls aren't available in small widget.</target>
+        <target>Muestra el cronómetro y la sesión actual. Los controles de la Sesión no están disponibles en el widget pequeño.</target>
         <note/>
       </trans-unit>
       <trans-unit id="WIDGET_CURRENTSESSION_NAME" xml:space="preserve">
         <source>Current Focus Session</source>
-        <target>Current Focus Session</target>
+        <target>Sesión de Enfoque Actual</target>
         <note/>
       </trans-unit>
       <trans-unit id="WIDGET_DAILYGOALS_DESCRIPTION" xml:space="preserve">
         <source>Display your daily productivity goals.</source>
-        <target>Display your daily productivity goals.</target>
+        <target>Muestra tus objetivos de productividad actuales.</target>
         <note/>
       </trans-unit>
       <trans-unit id="WIDGET_DAILYGOALS_NAME" xml:space="preserve">
         <source>Daily Goals</source>
-        <target>Daily Goals</target>
+        <target>Objetivos Diarios</target>
         <note/>
       </trans-unit>
       <trans-unit id="WIDGET_MULTIPLESTARTSESSION_DESCRIPTION" xml:space="preserve">
         <source>Quickly start a focus session.</source>
-        <target>Quickly start a focus session.</target>
+        <target>Empieza una sesión de enfoque rápidamente.</target>
         <note/>
       </trans-unit>
       <trans-unit id="WIDGET_MULTIPLESTARTSESSION_NAME" xml:space="preserve">
         <source>Multiple Start Focus Session</source>
-        <target>Multiple Start Focus Session</target>
+        <target>Empieza múltiples Sesiones de Enfoque</target>
         <note/>
       </trans-unit>
       <trans-unit id="WIDGET_SINGLESTARTSESSION_DESCRIPTION" xml:space="preserve">
         <source>Quickly start a focus session.</source>
-        <target>Quickly start a focus session.</target>
+        <target>Empieza una sesión de enfoque rápidamente.</target>
         <note/>
       </trans-unit>
       <trans-unit id="WIDGET_SINGLESTARTSESSION_NAME" xml:space="preserve">
         <source>Start Focus Session</source>
-        <target>Start Focus Session</target>
+        <target>Empieza una Sesión de Enfoque</target>
         <note/>
       </trans-unit>
     </body>
