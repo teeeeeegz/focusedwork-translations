@@ -2336,7 +2336,7 @@ Alle Teilnehmer/innen teilen sich die gleiche Fokusgruppe.</target>
       </trans-unit>
       <trans-unit id="SETTING_KEEPONTOP_TITLE" xml:space="preserve">
         <source>Keep On Top</source>
-        <target state="translated">Oben bleiben</target>
+        <target state="translated">Oben lasseb</target>
         <note/>
       </trans-unit>
       <trans-unit id="SETTING_LEAVEREVIEW" xml:space="preserve">
@@ -2516,22 +2516,22 @@ Alle Teilnehmer/innen teilen sich die gleiche Fokusgruppe.</target>
       </trans-unit>
       <trans-unit id="SHORTCUTSUPPORTFOOTER_BIGSUR" xml:space="preserve">
         <source>Automatically trigger shortcuts mid-session on an iOS or iPadOS device.</source>
-        <target state="translated">Löse auf einem iOS- oder iPadOS-Gerät automatisch Verknüpfungen mitten in der Session aus.</target>
+        <target state="translated">Löse auf einem iOS- oder iPadOS-Gerät automatisch Kurzbefehle mitten in der Session aus.</target>
         <note/>
       </trans-unit>
       <trans-unit id="SHORTCUTSUPPORTFOOTER_IOS14" xml:space="preserve">
         <source>Automatically trigger shortcuts as you progress through a focus session, while the app is in the foreground. e.g. Turn on Do Not Disturb only for Focused Work stages.</source>
-        <target state="translated">Löse automatisch Verknüpfungen aus, wenn du in einer FokussierungsSession vorankommst, während die App im Vordergrund ist. z.B. Aktiviere "Nicht stören" nur für Phasen der konzentrierten Arbeit.</target>
+        <target state="translated">Löse automatisch Kurzbefehle aus, wenn du in einer Fokus-Session vorankommst, während die App im Vordergrund ist. z.B. Aktiviere "Nicht stören" nur für Abschnitte der konzentrierten Arbeit.</target>
         <note/>
       </trans-unit>
       <trans-unit id="SHORTCUTSUPPORTFOOTER_IOS15" xml:space="preserve">
         <source>Automatically trigger shortcuts as you progress through a focus session, while the app is in the foreground. e.g. Turn on Focus only for Focused Work stages.</source>
-        <target state="translated">Löse automatisch Verknüpfungen aus, wenn du in einer Fokus-Session vorankommst, während die App im Vordergrund ist. z.B. Aktiviere den Fokus nur für Phasen der konzentrierten Arbeit.</target>
+        <target state="translated">Löse automatisch Kurzbefehle aus, wenn du in einer Fokus-Session vorankommst, während die App im Vordergrund ist. z.B. Aktiviere den Fokus nur für Abschnitte der konzentrierten Arbeit.</target>
         <note/>
       </trans-unit>
       <trans-unit id="SHORTCUTSUPPORTFOOTER_MONTEREY" xml:space="preserve">
         <source>Automatically trigger shortcuts as you progress through a focus session. e.g. Turn on Focus only for Focused Work stages.</source>
-        <target state="translated">Löse automatisch Verknüpfungen aus, wenn du in einer FokussierungsSession vorankommst. z.B. Schalte den Fokus nur für Phasen der fokussierten Arbeit ein.</target>
+        <target state="translated">Löse automatisch Kurzbefehle aus, wenn du in einer Fokus-Session vorankommst. z.B. Schalte den Fokus nur für Abschnitte der fokussierten Arbeit ein.</target>
         <note/>
       </trans-unit>
       <trans-unit id="SHORTCUT_ENDFOCUSSESSION" xml:space="preserve">
@@ -2661,7 +2661,7 @@ Alle Teilnehmer/innen teilen sich die gleiche Fokusgruppe.</target>
       </trans-unit>
       <trans-unit id="STAGE_PROGRESS_QUEUED" xml:space="preserve">
         <source>Queued</source>
-        <target state="translated">Warteschlange</target>
+        <target state="translated">In Warteschlage</target>
         <note/>
       </trans-unit>
       <trans-unit id="STORESCREENSHOT_1" xml:space="preserve">
@@ -2716,7 +2716,7 @@ Alle Teilnehmer/innen teilen sich die gleiche Fokusgruppe.</target>
       </trans-unit>
       <trans-unit id="STORESCREENSHOT_9" xml:space="preserve">
         <source>Themeable Widgets and App Icons</source>
-        <target state="translated">Thematisierbare Widgets und App-Symbole</target>
+        <target state="translated">Anpassbare Widgets und App-Symbole</target>
         <note/>
       </trans-unit>
       <trans-unit id="STORESCREENSHOT_10" xml:space="preserve">
@@ -2796,8 +2796,8 @@ Er wurde speziell für Menschen entwickelt, die Schwierigkeiten haben, sich zu k
 
 **Kernfunktionen**
 
-- Flexible Fokus-Sessionen
-Erstelle wiederholbare Sessionen, die Aufgaben in kleinere Teile unterteilen, strukturiert mit Focused Work, Break, und Planungsphasen
+- Flexible Fokus-Sessions
+Erstelle wiederholbare Sessions, die Aufgaben in kleinere Teile unterteilen, strukturiert mit Arbeit, Pausen, und Planungsphasen
 
 - Selbst-Selbstverantwortung
 Jede Session ermutigt dich, dich auf eine bestimmte Aufgabe oder ein Ziel zu konzentrieren
@@ -2806,7 +2806,7 @@ Jede Session ermutigt dich, dich auf eine bestimmte Aufgabe oder ein Ziel zu kon
 Vermeide Ablenkungen mit lustigen, regelmäßigen Erinnerungen, um den Fokus aufrecht zu erhalten
 
 - Sessionsreflexion
-Bewerte und
+Bewerte und halte fest, wie produktiv du während einer Session warst
 
 - Tägliche Ziele &amp; Streaks
 Schaffe dir gesunde Produktivitätsgewohnheiten, indem du Produktivitätsziele erreichst
@@ -2818,11 +2818,11 @@ Weise Projekte, Tags und Aufgaben für eine detaillierte Aufschlüsselung des Ze
 
 Focused Work wurde für iOS 15, iPadOS 15 und macOS Monterey entwickelt und optimiert.
 
-- Siri Shortcuts
-Starte eine Session mit Siri. Pause, Überspringen, Neustart der aktuellen Etappe.
+- Siri-Kurzbefehle
+Starte eine Session mit Siri. Pause, Überspringen, Neustart der aktuellen Abschnitt.
 
 - Fokus automatisch einschalten
-Mit Shortcut-Automatisierungen Shortcuts mitten in der Session auslösen
+Mit Kurzbefehle-Automatisierungen Kurzbefehle mitten in der Session auslösen
 
 - Benachrichtigungen auf allen Geräten
 Starte eine Session auf dem Mac und erhalte Benachrichtigungen auf iPhone, iPad, Apple Watch
@@ -2830,17 +2830,17 @@ Starte eine Session auf dem Mac und erhalte Benachrichtigungen auf iPhone, iPad,
 - iCloud-Synchronisierung
 Arbeite vom iPhone, iPad oder Mac. Erstellte Sessionen und Statistiken bleiben auf dem neuesten Stand.
 
-- Share Extensions
+- Teilen-Erweiterung
 Starte eine Session aus deiner bevorzugten Taskmanager-App über das Share Sheet
 
 - Thematisierbare Widgets
 Widgets für die aktuelle Session, die täglichen Ziele und die Sessionsauswahl, mit verschiedenen Themen.
 
-- App-Symbole
-Wähle ein Symbol, das zu deinem Homescreen passt. Farbige, helle und dunkle Varianten.
+- App-Icoons
+Wähle ein Icon, das zu deinem Homescreen passt. Farbige, helle und dunkle Varianten.
 
-- Produktivität Export
-Exportiere abgeschlossene Sessionen &amp; Breadcrumbs im CSV-Format
+- Produktivitäts-Export
+Exportiere abgeschlossene Sessions &amp; Breadcrumbs im CSV-Format
 
 - Datenschutz im Fokus
 Alle Nutzerdaten werden sicher gespeichert &amp; und über iCloud verwaltet. Keine Kontoregistrierung.
@@ -2937,7 +2937,7 @@ Nutzungsbedingungen: https://focusedwork.app/termsofuse/
       </trans-unit>
       <trans-unit id="TEMPLATE_REVERSEPOMODORO_NAME" xml:space="preserve">
         <source>Reverse Pomodoro</source>
-        <target state="translated">Pomodoro umkehren</target>
+        <target state="translated">Umgekehrere Pomodoro</target>
         <note/>
       </trans-unit>
       <trans-unit id="TEMPLATE_SPRINT_DESCRIPTION" xml:space="preserve">
@@ -2997,7 +2997,7 @@ Nutzungsbedingungen: https://focusedwork.app/termsofuse/
       </trans-unit>
       <trans-unit id="TEMPLATE_TIMER_DESCRIPTION" xml:space="preserve">
         <source>A simple count up timer that's great for open-ended tasks such as meetings.</source>
-        <target state="translated">Ein einfacher Count-up-Timer, der sich gut für offene Aufgaben wie Meetings eignet.</target>
+        <target state="translated">Ein einfacher Hochzählender-Timer, der sich gut für offene Aufgaben wie Meetings eignet.</target>
         <note/>
       </trans-unit>
       <trans-unit id="TEMPLATE_TIMER_NAME" xml:space="preserve">
@@ -3007,7 +3007,7 @@ Nutzungsbedingungen: https://focusedwork.app/termsofuse/
       </trans-unit>
       <trans-unit id="TEMPLATE_TWOHALVES_DESCRIPTION" xml:space="preserve">
         <source>Suited for focusing on larger tasks that require extra time to reach a flow state, such as Coding or Content Writing. Two 45 min Focused Work stages with a 10 min Break inbetween. A favorite of the developer. 🙂</source>
-        <target state="translated">Geeignet, um sich auf größere Aufgaben zu konzentrieren, die mehr Zeit benötigen, um einen Flow-Zustand zu erreichen, wie z. B. Coding oder Content Writing. Zwei 45-minütige konzentrierte Arbeitsphasen mit einer 10-minütigen Pause dazwischen. Ein Favorit des Entwicklers 🙂 .</target>
+        <target state="translated">Geeignet, um sich auf größere Aufgaben zu konzentrieren, die mehr Zeit benötigen, um einen Flow-Zustand zu erreichen, wie z. B. Programmieren oder Schreiben. Zwei 45-minütige konzentrierte Arbeitsphasen mit einer 10-minütigen Pause dazwischen. Ein Favorit des Entwicklers 🙂 .</target>
         <note/>
       </trans-unit>
       <trans-unit id="TEMPLATE_TWOHALVES_NAME" xml:space="preserve">
@@ -3032,7 +3032,7 @@ Nutzungsbedingungen: https://focusedwork.app/termsofuse/
       </trans-unit>
       <trans-unit id="TEMPLATE_WINDDOWN_NAME" xml:space="preserve">
         <source>Wind Down</source>
-        <target state="translated">Wind Down</target>
+        <target state="translated">Entspannung</target>
         <note/>
       </trans-unit>
       <trans-unit id="TERM_ACTIVE" xml:space="preserve">
@@ -3147,7 +3147,7 @@ Nutzungsbedingungen: https://focusedwork.app/termsofuse/
       </trans-unit>
       <trans-unit id="TERM_FOCUSSESSIONS" xml:space="preserve">
         <source>Focus Sessions</source>
-        <target state="translated">Fokus-Sessionen</target>
+        <target state="translated">Fokus-Session</target>
         <note/>
       </trans-unit>
       <trans-unit id="TERM_FOCUSSESSION_PLURALISATION" xml:space="preserve">
@@ -3945,7 +3945,7 @@ Updates</target>
       </trans-unit>
       <trans-unit id="/TERM_NOTES_COUNT:dict/note_count:dict/one:dict/:string">
         <source>%lld Note</source>
-        <target state="translated">%lld Hinweis</target>
+        <target state="translated">%lld Notiz</target>
       </trans-unit>
       <trans-unit id="/TERM_NOTES_COUNT:dict/note_count:dict/other:dict/:string">
         <source>%lld Notes</source>
