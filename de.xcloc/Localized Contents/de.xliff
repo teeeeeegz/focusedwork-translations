@@ -98,12 +98,12 @@
       </trans-unit>
       <trans-unit id="A11Y_SESSIONFOCUS" xml:space="preserve">
         <source>Session Focus</source>
-        <target state="translated">Session Fokus</target>
+        <target state="translated">Session-Fokus</target>
         <note/>
       </trans-unit>
       <trans-unit id="A11Y_STAGEFOCUS" xml:space="preserve">
         <source>Stage Focus</source>
-        <target state="translated">Bühnenfokus</target>
+        <target state="translated">Abschnitts-Fokus</target>
         <note/>
       </trans-unit>
       <trans-unit id="A11Y_STARTSESSIONNAME" xml:space="preserve">
@@ -128,7 +128,7 @@
       </trans-unit>
       <trans-unit id="ACTION_ADDSHORTCUT" xml:space="preserve">
         <source>Add Shortcut</source>
-        <target state="translated">Abkürzung hinzufügen</target>
+        <target state="translated">Kurzbefehle hinzufügen</target>
         <note/>
       </trans-unit>
       <trans-unit id="ACTION_AUTHENTICATE" xml:space="preserve">
@@ -148,7 +148,7 @@
       </trans-unit>
       <trans-unit id="ACTION_CLEAR" xml:space="preserve">
         <source>Clear</source>
-        <target state="translated">Klar</target>
+        <target state="translated">Löschen</target>
         <note/>
       </trans-unit>
       <trans-unit id="ACTION_CLICK" xml:space="preserve">
@@ -248,7 +248,7 @@
       </trans-unit>
       <trans-unit id="ACTION_LEAVE" xml:space="preserve">
         <source>Leave</source>
-        <target state="translated">Lass</target>
+        <target state="translated">Verlassen</target>
         <note/>
       </trans-unit>
       <trans-unit id="ACTION_MOREOPTIONS" xml:space="preserve">
@@ -288,7 +288,7 @@
       </trans-unit>
       <trans-unit id="ACTION_ON" xml:space="preserve">
         <source>On</source>
-        <target state="translated">Auf</target>
+        <target state="translated">An</target>
         <note/>
       </trans-unit>
       <trans-unit id="ACTION_OPENAPP" xml:space="preserve">
@@ -298,7 +298,7 @@
       </trans-unit>
       <trans-unit id="ACTION_OPENSHORTCUTS" xml:space="preserve">
         <source>Open Shortcuts</source>
-        <target state="translated">Abkürzungen öffnen</target>
+        <target state="translated">Kurzbefehle öffnen</target>
         <note/>
       </trans-unit>
       <trans-unit id="ACTION_PAUSE" xml:space="preserve">
@@ -308,7 +308,7 @@
       </trans-unit>
       <trans-unit id="ACTION_QUIT" xml:space="preserve">
         <source>Quit</source>
-        <target state="translated">Beenden Sie</target>
+        <target state="translated">Schließen</target>
         <note/>
       </trans-unit>
       <trans-unit id="ACTION_REMOVE" xml:space="preserve">
@@ -450,7 +450,7 @@ Fokus-Session</target>
       </trans-unit>
       <trans-unit id="ALERT_CROSSDEVICE_STAGECOMPLETED" xml:space="preserve">
         <source>Your %@: %@ Stage Completed</source>
-        <target state="translated">Deine %@: %@ Stufe abgeschlossen</target>
+        <target state="translated">Deine %@: %@ Abschnitt abgeschlossen</target>
         <note>Your iPad: Break Stage Completed</note>
       </trans-unit>
       <trans-unit id="ALERT_CROSSDEVICE_STAGENEARLYCOMPLETE" xml:space="preserve">
@@ -500,7 +500,7 @@ Fokus-Session</target>
       </trans-unit>
       <trans-unit id="ALERT_STAGECOMPLETED_BACKGROUND_TITLE" xml:space="preserve">
         <source>%@ stage completed</source>
-        <target state="translated">%@ Etappe abgeschlossen</target>
+        <target state="translated">%@ Abschnitt abgeschlossen</target>
         <note>'Break' stage completed</note>
       </trans-unit>
       <trans-unit id="ALERT_STAGENEARLYCOMPLETE_MESSAGE" xml:space="preserve">
@@ -550,22 +550,22 @@ Fokus-Session</target>
       </trans-unit>
       <trans-unit id="AUTOMATION_FOCUSEDWORKEND" xml:space="preserve">
         <source>Focused Work End</source>
-        <target state="translated">Fokussiertes Arbeiten Ende</target>
+        <target state="translated">Fokus-Ende</target>
         <note/>
       </trans-unit>
       <trans-unit id="AUTOMATION_FOCUSEDWORKSTART" xml:space="preserve">
         <source>Focused Work Start</source>
-        <target state="translated">Fokussierter Arbeitsbeginn</target>
+        <target state="translated">Fokus-Beginn</target>
         <note/>
       </trans-unit>
       <trans-unit id="AUTOMATION_MANUALINPUT_MESSAGE" xml:space="preserve">
         <source>Enter a shortcut for this event</source>
-        <target state="translated">Gib eine Abkürzung für dieses Ereignis ein</target>
+        <target state="translated">Gib einen Kurzbefehle für dieses Ereignis ein</target>
         <note/>
       </trans-unit>
       <trans-unit id="AUTOMATION_MANUALINPUT_PLACEHOLDER" xml:space="preserve">
         <source>Shortcut name</source>
-        <target state="translated">Name der Abkürzung</target>
+        <target state="translated">Name des Kurzbefehle</target>
         <note/>
       </trans-unit>
       <trans-unit id="AUTOMATION_PLANNINGEND" xml:space="preserve">
@@ -590,7 +590,7 @@ Fokus-Session</target>
       </trans-unit>
       <trans-unit id="AUTOMATION_SETHINT" xml:space="preserve">
         <source>Set a Shortcut</source>
-        <target state="translated">Eine Abkürzung festlegen</target>
+        <target state="translated">Eine Kurzbefehle festlegen</target>
         <note/>
       </trans-unit>
       <trans-unit id="BETA_FEATUREROADMAP" xml:space="preserve">
@@ -720,7 +720,7 @@ Fokus-Session</target>
       </trans-unit>
       <trans-unit id="ERROR_DELETE" xml:space="preserve">
         <source>Delete Error</source>
-        <target state="translated">Fehler löschen</target>
+        <target state="translated">Löschungs-Fehler</target>
         <note/>
       </trans-unit>
       <trans-unit id="ERROR_DELETELASTSTAGE" xml:space="preserve">
@@ -735,7 +735,7 @@ Fokus-Session</target>
       </trans-unit>
       <trans-unit id="ERROR_PRO" xml:space="preserve">
         <source>Focused Work Pro Error</source>
-        <target state="translated">Fokussierte Arbeit Pro Fehler</target>
+        <target state="translated">Focused Work Pro Fehler</target>
         <note/>
       </trans-unit>
       <trans-unit id="ERROR_PURCHASE" xml:space="preserve">
@@ -745,7 +745,7 @@ Fokus-Session</target>
       </trans-unit>
       <trans-unit id="ERROR_RESTOREPURCHASE" xml:space="preserve">
         <source>Restore Purchase Error</source>
-        <target state="translated">Kauffehler wiederherstellen</target>
+        <target state="translated">Fehler beim Kauf wiederherstellen</target>
         <note/>
       </trans-unit>
       <trans-unit id="ERROR_SESSION" xml:space="preserve">
@@ -755,17 +755,17 @@ Fokus-Session</target>
       </trans-unit>
       <trans-unit id="ERROR_SESSIONNOTFOUND" xml:space="preserve">
         <source>Focus Session no longer exists.</source>
-        <target state="translated">Focus Session gibt es nicht mehr.</target>
+        <target state="translated">Fokus Session gibt es nicht mehr.</target>
         <note/>
       </trans-unit>
       <trans-unit id="ERROR_STAGE" xml:space="preserve">
         <source>Stage Error</source>
-        <target state="translated">Bühnenfehler</target>
+        <target state="translated">Abschnitts-Fehler</target>
         <note/>
       </trans-unit>
       <trans-unit id="ERROR_STAGENOTFOUND" xml:space="preserve">
         <source>Stage no longer exists.</source>
-        <target state="translated">Die Bühne existiert nicht mehr.</target>
+        <target state="translated">Der Abschnitt existiert nicht mehr.</target>
         <note/>
       </trans-unit>
       <trans-unit id="ERROR_TOGGLTOKEN" xml:space="preserve">
@@ -825,7 +825,7 @@ Fokus-Session</target>
       </trans-unit>
       <trans-unit id="FOCUSREMINDER_MESSAGE4" xml:space="preserve">
         <source>Do the right thing</source>
-        <target state="translated">Das Richtige tun</target>
+        <target state="translated">Tue das Richtige</target>
         <note/>
       </trans-unit>
       <trans-unit id="FOCUSREMINDER_MESSAGE5" xml:space="preserve">
@@ -835,7 +835,7 @@ Fokus-Session</target>
       </trans-unit>
       <trans-unit id="FOCUSREMINDER_MESSAGE6" xml:space="preserve">
         <source>F O C U S</source>
-        <target state="translated">F O C U S</target>
+        <target state="translated">F O K U S</target>
         <note/>
       </trans-unit>
       <trans-unit id="FOCUSREMINDER_MESSAGE7" xml:space="preserve">
@@ -915,7 +915,7 @@ Fokus-Session</target>
       </trans-unit>
       <trans-unit id="FOCUSREMINDER_TITLE2" xml:space="preserve">
         <source>Atteeeeention</source>
-        <target state="translated">Atteeeeention</target>
+        <target state="translated">Achhhhtung</target>
         <note/>
       </trans-unit>
       <trans-unit id="FOCUSREMINDER_TITLE3" xml:space="preserve">
@@ -945,7 +945,7 @@ Fokus-Session</target>
       </trans-unit>
       <trans-unit id="FOCUSREMINDER_TITLE8" xml:space="preserve">
         <source>Hey Champ</source>
-        <target state="translated">Hey Champ</target>
+        <target state="translated">Hey Kumple</target>
         <note/>
       </trans-unit>
       <trans-unit id="FOCUSREMINDER_TITLE9" xml:space="preserve">
@@ -990,17 +990,17 @@ Fokus-Session</target>
       </trans-unit>
       <trans-unit id="HEADING_ALERT" xml:space="preserve">
         <source>Alert</source>
-        <target state="translated">Alert</target>
+        <target state="translated">Alarm</target>
         <note/>
       </trans-unit>
       <trans-unit id="HEADING_ALLFOCUSSESSIONS" xml:space="preserve">
         <source>All Focus Sessions</source>
-        <target state="translated">Alle Fokus-Sessionen</target>
+        <target state="translated">Alle Fokus-Sessions</target>
         <note/>
       </trans-unit>
       <trans-unit id="HEADING_APPEARANCE" xml:space="preserve">
         <source>Appearance</source>
-        <target state="translated">Erscheinungsbild</target>
+        <target state="translated">Aussehen</target>
         <note/>
       </trans-unit>
       <trans-unit id="HEADING_AVAILABLESHORTCUTS" xml:space="preserve">
@@ -1010,12 +1010,12 @@ Fokus-Session</target>
       </trans-unit>
       <trans-unit id="HEADING_BETANOTES" xml:space="preserve">
         <source>Beta Notes</source>
-        <target state="translated">Beta-Noten</target>
+        <target state="translated">Beta-Notizen</target>
         <note/>
       </trans-unit>
       <trans-unit id="HEADING_COMPLETEDSTAGES" xml:space="preserve">
         <source>Completed Stages</source>
-        <target state="translated">Abgeschlossene Etappen</target>
+        <target state="translated">Abgeschlossener Abschnitt</target>
         <note/>
       </trans-unit>
       <trans-unit id="HEADING_CONFIGURATION" xml:space="preserve">
@@ -1030,7 +1030,7 @@ Fokus-Session</target>
       </trans-unit>
       <trans-unit id="HEADING_CURRENTSTAGE" xml:space="preserve">
         <source>Current Stage</source>
-        <target state="translated">Aktuelle Etappe</target>
+        <target state="translated">Aktueller Abschnitt</target>
         <note/>
       </trans-unit>
       <trans-unit id="HEADING_DAILYGOAL" xml:space="preserve">
@@ -1050,7 +1050,7 @@ Fokus-Session</target>
       </trans-unit>
       <trans-unit id="HEADING_FAVOURITESESSIONS" xml:space="preserve">
         <source>Favorite Sessions</source>
-        <target state="translated">LieblingsSessionen</target>
+        <target state="translated">Lieblingssessions</target>
         <note/>
       </trans-unit>
       <trans-unit id="HEADING_FOCUS" xml:space="preserve">
@@ -1105,7 +1105,7 @@ Fokus-Session</target>
       </trans-unit>
       <trans-unit id="HEADING_NEXTSTAGE" xml:space="preserve">
         <source>Next Stage</source>
-        <target state="translated">Nächste Etappe</target>
+        <target state="translated">Nächster Abschnitt</target>
         <note/>
       </trans-unit>
       <trans-unit id="HEADING_NOTIFICATIONS" xml:space="preserve">
@@ -1125,7 +1125,7 @@ Fokus-Session</target>
       </trans-unit>
       <trans-unit id="HEADING_REMAININGSTAGES" xml:space="preserve">
         <source>Remaining Stages</source>
-        <target state="translated">Verbleibende Etappen</target>
+        <target state="translated">Verbleibende Abschnitte</target>
         <note/>
       </trans-unit>
       <trans-unit id="HEADING_SESSIONACTIONS" xml:space="preserve">
@@ -1140,17 +1140,17 @@ Fokus-Session</target>
       </trans-unit>
       <trans-unit id="HEADING_STAGE" xml:space="preserve">
         <source>Stage</source>
-        <target state="translated">Bühne</target>
+        <target state="translated">Abschnitt</target>
         <note/>
       </trans-unit>
       <trans-unit id="HEADING_STAGEACTIONS" xml:space="preserve">
         <source>Stage Actions</source>
-        <target state="translated">Etappen-Aktionen</target>
+        <target state="translated">Abschnitts-Aktionen</target>
         <note/>
       </trans-unit>
       <trans-unit id="HEADING_STAGES" xml:space="preserve">
         <source>Stages</source>
-        <target state="translated">Etappen</target>
+        <target state="translated">Abschnitte</target>
         <note/>
       </trans-unit>
       <trans-unit id="HEADING_STAGES_COUNT" xml:space="preserve">
@@ -1200,7 +1200,7 @@ Fokus-Session</target>
       </trans-unit>
       <trans-unit id="MOCK_FOCUS_INBOXZERO" xml:space="preserve">
         <source>Get to inbox zero</source>
-        <target state="translated">Gehe zum Posteingang Null</target>
+        <target state="translated">Leere den Posteingang</target>
         <note/>
       </trans-unit>
       <trans-unit id="MOCK_FOCUS_MEMORIZEEXAM" xml:space="preserve">
@@ -1240,7 +1240,7 @@ Fokus-Session</target>
       </trans-unit>
       <trans-unit id="ONBOARDING_CREATESESSIONS" xml:space="preserve">
         <source>Create repeatable Focus Sessions for different tasks.</source>
-        <target state="translated">Erstelle wiederholbare Fokus-Sessionen für verschiedene Aufgaben.</target>
+        <target state="translated">Erstelle wiederholbare Fokus-Sessions für verschiedene Aufgaben.</target>
         <note/>
       </trans-unit>
       <trans-unit id="ONBOARDING_CURRENTSESSION" xml:space="preserve">
@@ -1309,12 +1309,12 @@ Wenn sie nicht auf dem Bildschirm ist, brauchen wir die Erlaubnis, diese Erinner
       </trans-unit>
       <trans-unit id="PHRASE_AUTOMATIONGUIDE" xml:space="preserve">
         <source>Automation Guide</source>
-        <target state="translated">Leitfaden zur Automatisierung</target>
+        <target state="translated">Anleitung zur Automatisierung</target>
         <note/>
       </trans-unit>
       <trans-unit id="PHRASE_CLICKNEXTSTAGE" xml:space="preserve">
         <source>Click to begin the next %@ stage.</source>
-        <target state="translated">Klicke, um die nächste %@ Stufe zu beginnen.</target>
+        <target state="translated">Klicke, um den nächste %@ Abschnitt zu beginnen.</target>
         <note/>
       </trans-unit>
       <trans-unit id="PHRASE_CLICKSELECTSESSION" xml:space="preserve">
@@ -1374,17 +1374,17 @@ Wenn sie nicht auf dem Bildschirm ist, brauchen wir die Erlaubnis, diese Erinner
       </trans-unit>
       <trans-unit id="PHRASE_NEXTUP" xml:space="preserve">
         <source>Next Up</source>
-        <target state="translated">Weiter oben</target>
+        <target state="translated">Nächste</target>
         <note/>
       </trans-unit>
       <trans-unit id="PHRASE_NOSTAGESREMAIN" xml:space="preserve">
         <source>No other stages remain. 🙂</source>
-        <target state="translated">Es bleiben keine weiteren Stufen übrig. 🙂</target>
+        <target state="translated">Es bleiben keine weiteren Abschnitte übrig. 🙂</target>
         <note/>
       </trans-unit>
       <trans-unit id="PHRASE_ORLEAVETHE" xml:space="preserve">
         <source>or leave the</source>
-        <target state="translated">oder verlassen Sie die</target>
+        <target state="translated">oder verlassen sie</target>
         <note>'or leave the' focus session</note>
       </trans-unit>
       <trans-unit id="PHRASE_PLEASEWAIT" xml:space="preserve">
@@ -1425,8 +1425,8 @@ Wenn sie nicht auf dem Bildschirm ist, brauchen wir die Erlaubnis, diese Erinner
       <trans-unit id="PHRASE_SESSIONFOCUSQUESTION_LINESEPARATED" xml:space="preserve">
         <source>What do you want
 to focus on?</source>
-        <target state="translated">Worauf soll sich
-konzentrieren?</target>
+        <target state="translated">Worauf willst du
+dich konzentrieren?</target>
         <note/>
       </trans-unit>
       <trans-unit id="PHRASE_SESSIONFOCUSQUESTION_PLACEHOLDER" xml:space="preserve">
@@ -1441,17 +1441,17 @@ konzentrieren?</target>
       </trans-unit>
       <trans-unit id="PHRASE_SETSTAGEDURATION" xml:space="preserve">
         <source>Set Stage Duration</source>
-        <target state="translated">Bühne einstellen Dauer</target>
+        <target state="translated">Abschnitts-Dauer einstellen</target>
         <note/>
       </trans-unit>
       <trans-unit id="PHRASE_SHORTCUTOPTIONS" xml:space="preserve">
         <source>Shortcut Options</source>
-        <target state="translated">Shortcut-Optionen</target>
+        <target state="translated">Kurzbefehles-Optionen</target>
         <note/>
       </trans-unit>
       <trans-unit id="PHRASE_SHOWME" xml:space="preserve">
         <source>Show Me</source>
-        <target state="translated">Zeige mich</target>
+        <target state="translated">Zeige mir</target>
         <note/>
       </trans-unit>
       <trans-unit id="PHRASE_SKIPSTAGE_BREAK" xml:space="preserve">
@@ -1471,12 +1471,12 @@ konzentrieren?</target>
       </trans-unit>
       <trans-unit id="PHRASE_STAGEAUTOMATIONS" xml:space="preserve">
         <source>Stage Automations</source>
-        <target state="translated">Bühnenautomationen</target>
+        <target state="translated">Abschnitts-Automationen</target>
         <note/>
       </trans-unit>
       <trans-unit id="PHRASE_STAGEFOCUSQUESTION" xml:space="preserve">
         <source>My focus for the current stage.</source>
-        <target state="translated">Mein Fokus für die aktuelle Etappe.</target>
+        <target state="translated">Mein Fokus für den aktuelle Abschnitt.</target>
         <note/>
       </trans-unit>
       <trans-unit id="PHRASE_STAGEFOCUSQUESTION_PLACEHOLDER" xml:space="preserve">
@@ -1491,12 +1491,12 @@ konzentrieren?</target>
       </trans-unit>
       <trans-unit id="PHRASE_TAPNEXTSTAGE" xml:space="preserve">
         <source>Tap to begin the next %@ stage.</source>
-        <target state="translated">Tippe auf , um die nächste %@ Stufe zu beginnen.</target>
+        <target state="translated">Tippe um dem nächste %@ Abschnitt zu beginnen.</target>
         <note/>
       </trans-unit>
       <trans-unit id="PHRASE_TAPSELECTSESSION" xml:space="preserve">
         <source>Tap to select a Focus Session</source>
-        <target state="translated">Tippe auf , um eine Fokus-Session auszuwählen</target>
+        <target state="translated">Tippe um eine Fokus-Session auszuwählen</target>
         <note/>
       </trans-unit>
       <trans-unit id="PHRASE_TAPSTARTSESSION" xml:space="preserve">
@@ -1533,7 +1533,7 @@ konzentrieren?</target>
         <source>Welcome to
 Focused Work!</source>
         <target state="translated">Willkommen bei
-Fokussierte Arbeit!</target>
+Focused Work!</target>
         <note/>
       </trans-unit>
       <trans-unit id="PHRASE_WELCOME_MESSAGE" xml:space="preserve">
@@ -1583,7 +1583,7 @@ Fokussierte Arbeit!</target>
       </trans-unit>
       <trans-unit id="PLACEHOLDER_NOPRODUCTIVITYNOTES" xml:space="preserve">
         <source>Review your productivity notes here after completing a session.</source>
-        <target state="translated">Hier kannst du deine Produktivitätsnotizen nach Abschluss einer Lerneinheit überprüfen.</target>
+        <target state="translated">Hier kannst du deine Produktivitätsnotizen nach Abschluss einer Session überprüfen.</target>
         <note/>
       </trans-unit>
       <trans-unit id="PLACEHOLDER_NOPROJECT" xml:space="preserve">
@@ -1598,7 +1598,7 @@ Fokussierte Arbeit!</target>
       </trans-unit>
       <trans-unit id="PLACEHOLDER_NORECENTSESSIONS" xml:space="preserve">
         <source>Review and reflect on recently completed focus sessions here.</source>
-        <target state="translated">Hier kannst du die kürzlich abgeschlossenen Fokus-Sessionen nachlesen und reflektieren.</target>
+        <target state="translated">Hier kannst du die kürzlich abgeschlossenen Fokus-Sessions nachlesen und reflektieren.</target>
         <note/>
       </trans-unit>
       <trans-unit id="PLACEHOLDER_NOSESSIONS_DESCRIPTION" xml:space="preserve">
@@ -1608,22 +1608,22 @@ Fokussierte Arbeit!</target>
       </trans-unit>
       <trans-unit id="PLACEHOLDER_NOSESSIONS_TITLE" xml:space="preserve">
         <source>No Focus Sessions</source>
-        <target state="translated">Keine Fokus-Sessionen</target>
+        <target state="translated">Keine Fokus-Sessions</target>
         <note/>
       </trans-unit>
       <trans-unit id="PLACEHOLDER_NOSHORTCUTS_DESCRIPTION" xml:space="preserve">
         <source>Create a shortcut in the Shortcuts app and trigger it mid-session.</source>
-        <target state="translated">Erstelle eine Verknüpfung in der App Shortcuts und löse sie mitten in der Session aus.</target>
+        <target state="translated">Erstelle eine Verknüpfung in der Kurzbefehle-App und löse sie mitten in der Session aus.</target>
         <note/>
       </trans-unit>
       <trans-unit id="PLACEHOLDER_NOSHORTCUTS_TITLE" xml:space="preserve">
         <source>No Shortcuts</source>
-        <target state="translated">Keine Abkürzungen</target>
+        <target state="translated">Keine Kurzbefehle</target>
         <note/>
       </trans-unit>
       <trans-unit id="PLACEHOLDER_NOSTAGES" xml:space="preserve">
         <source>No stages</source>
-        <target state="translated">Keine Stufen</target>
+        <target state="translated">Keine Abschnitte</target>
         <note/>
       </trans-unit>
       <trans-unit id="PLACEHOLDER_NOTAGS" xml:space="preserve">
@@ -1653,7 +1653,7 @@ Fokussierte Arbeit!</target>
       </trans-unit>
       <trans-unit id="PLACEHOLDER_OVERLAY_FOCUSEDWORK" xml:space="preserve">
         <source>See how much focused work you've completed over time.</source>
-        <target state="translated">Sieh dir an, wie viel konzentrierte Arbeit du im Laufe der Zeit geleistet hast.</target>
+        <target state="translated">Sieh dir an, wie viel fokusierte Arbeit du im Laufe der Zeit geleistet hast.</target>
         <note/>
       </trans-unit>
       <trans-unit id="PLACEHOLDER_OVERLAY_FOCUSESSIONS" xml:space="preserve">
@@ -1663,7 +1663,7 @@ Fokussierte Arbeit!</target>
       </trans-unit>
       <trans-unit id="PLACEHOLDER_OVERLAY_SESSIONS" xml:space="preserve">
         <source>Complete focus sessions to rate &amp; track your productivity.</source>
-        <target state="translated">Schließe Fokus-Sessionen ab, um &amp; deine Produktivität zu bewerten.</target>
+        <target state="translated">Schließe Fokus-Sessions ab, um deine Produktivität zu tracken und zu bewerten.</target>
         <note/>
       </trans-unit>
       <trans-unit id="PLACEHOLDER_PRODUCTIVITYNOTES_DESCRIPTION" xml:space="preserve">
@@ -1678,7 +1678,7 @@ Fokussierte Arbeit!</target>
       </trans-unit>
       <trans-unit id="PLACEHOLDER_RECENTFOCUSENTRIES_DESCRIPTION" xml:space="preserve">
         <source>As you complete focus sessions, your recent focus entries will appear here.</source>
-        <target state="translated">Wenn du Fokus-Sessionen abschließt, werden hier deine letzten Fokus-Einträge angezeigt.</target>
+        <target state="translated">Wenn du Fokus-Sessions abschließt, werden hier deine letzten Fokus-Einträge angezeigt.</target>
         <note/>
       </trans-unit>
       <trans-unit id="PLACEHOLDER_RECENTFOCUSENTRIES_TITLE" xml:space="preserve">
@@ -1723,7 +1723,7 @@ Fokussierte Arbeit!</target>
       </trans-unit>
       <trans-unit id="POWERSAVER_ENABLED_AUDIO" xml:space="preserve">
         <source>Ticking sound is unavailable when Focused Work is in the background.</source>
-        <target state="translated">Der Tickerton ist nicht verfügbar, wenn die Fokussierte Arbeit im Hintergrund läuft.</target>
+        <target state="translated">Der Tickerton ist nicht verfügbar, wenn Focused Work im Hintergrund läuft.</target>
         <note/>
       </trans-unit>
       <trans-unit id="POWERSAVER_ENABLED_PAUSEONNEXTSTAGE" xml:space="preserve">
@@ -1768,7 +1768,7 @@ Fokussierte Arbeit!</target>
       </trans-unit>
       <trans-unit id="PRODUCTIVITYHISTORY_HEADING" xml:space="preserve">
         <source>Export Productivity History</source>
-        <target state="translated">Produktivitätsgeschichte exportieren</target>
+        <target state="translated">Produktivitäts-Historie exportieren</target>
         <note/>
       </trans-unit>
       <trans-unit id="PRODUCTIVITY_20SESSIONS" xml:space="preserve">
@@ -1783,7 +1783,7 @@ Fokussierte Arbeit!</target>
       </trans-unit>
       <trans-unit id="PRODUCTIVITY_AVERAGEBREAK_PER" xml:space="preserve">
         <source>Averaging %@ Break Time per</source>
-        <target state="translated">Mittelwertbildung %@ Pausenzeit pro</target>
+        <target state="translated">Durschnittliche %@ Pausenzeit pro</target>
         <note/>
       </trans-unit>
       <trans-unit id="PRODUCTIVITY_AVERAGEEMPTY" xml:space="preserve">
@@ -1793,7 +1793,7 @@ Fokussierte Arbeit!</target>
       </trans-unit>
       <trans-unit id="PRODUCTIVITY_AVERAGEFOCUSEDWORK_PER" xml:space="preserve">
         <source>Averaging %@ Focused Work per</source>
-        <target state="translated">Mittelwertbildung %@ Fokussierte Arbeit pro</target>
+        <target state="translated">Durschnittliche %@ Fokussierte Arbeit pro</target>
         <note/>
       </trans-unit>
       <trans-unit id="PRODUCTIVITY_AVERAGEFOCUSSESSIONS_PER" xml:space="preserve">
@@ -1803,12 +1803,12 @@ Fokussierte Arbeit!</target>
       </trans-unit>
       <trans-unit id="PRODUCTIVITY_AVERAGERATING_20SESSIONS" xml:space="preserve">
         <source>Avg. %@ rating from your last 20 sessions</source>
-        <target state="translated">Avg. %@ Bewertung aus deinen letzten 20 Sessionen</target>
+        <target state="translated">Durschnittliche %@ Bewertung aus deinen letzten 20 Sessionen</target>
         <note/>
       </trans-unit>
       <trans-unit id="PRODUCTIVITY_AVERAGERATING_PERDAY" xml:space="preserve">
         <source>Avg. %@ rating per day</source>
-        <target state="translated">Avg. %@ Bewertung pro Tag</target>
+        <target state="translated">Durschnittliche %@ Bewertung pro Tag</target>
         <note/>
       </trans-unit>
       <trans-unit id="PRODUCTIVITY_BREAKTIME_NONE" xml:space="preserve">
@@ -1818,17 +1818,17 @@ Fokussierte Arbeit!</target>
       </trans-unit>
       <trans-unit id="PRODUCTIVITY_FOCUSEDWORK_NONE" xml:space="preserve">
         <source>No Focused Work</source>
-        <target state="translated">Keine gezielte Arbeit</target>
+        <target state="translated">Keine Focused Work</target>
         <note/>
       </trans-unit>
       <trans-unit id="PRODUCTIVITY_FOCUSSESSIONS_NONE" xml:space="preserve">
         <source>No Completed Sessions</source>
-        <target state="translated">Keine abgeschlossenen Sessionen</target>
+        <target state="translated">Keine abgeschlossenen Sessions</target>
         <note/>
       </trans-unit>
       <trans-unit id="PRODUCTIVITY_HALFYEAR" xml:space="preserve">
         <source>Half Year</source>
-        <target state="translated">Das halbe Jahr</target>
+        <target state="translated">Halbes Jahr</target>
         <note/>
       </trans-unit>
       <trans-unit id="PRODUCTIVITY_LASTMONTH" xml:space="preserve">
@@ -1868,12 +1868,12 @@ Fokussierte Arbeit!</target>
       </trans-unit>
       <trans-unit id="PRODUCTIVITY_RATING_SOMEWHAT" xml:space="preserve">
         <source>Somewhat Productive..</source>
-        <target state="translated">Einigermaßen produktiv.</target>
+        <target state="translated">Ein bisschen produktiv.</target>
         <note/>
       </trans-unit>
       <trans-unit id="PRODUCTIVITY_RATING_SOMEWHAT_SHORT" xml:space="preserve">
         <source>Kinda</source>
-        <target state="translated">Irgendwie</target>
+        <target state="translated">Ein bisschen</target>
         <note/>
       </trans-unit>
       <trans-unit id="PRODUCTIVITY_RATING_SUPER" xml:space="preserve">
@@ -1953,27 +1953,27 @@ Fokussierte Arbeit!</target>
       </trans-unit>
       <trans-unit id="PURCHASE_TIP_LARGE" xml:space="preserve">
         <source>Large Tip</source>
-        <target state="translated">Große Spitze</target>
+        <target state="translated">Große Spende</target>
         <note/>
       </trans-unit>
       <trans-unit id="PURCHASE_TIP_LITTLE" xml:space="preserve">
         <source>Little Tip</source>
-        <target state="translated">Kleiner Tipp</target>
+        <target state="translated">Kleine Spende</target>
         <note/>
       </trans-unit>
       <trans-unit id="PURCHASE_TIP_MASSIVE" xml:space="preserve">
         <source>Massive Tip</source>
-        <target state="translated">Massiver Tipp</target>
+        <target state="translated">Massive Spende</target>
         <note/>
       </trans-unit>
       <trans-unit id="PURCHASE_TIP_MEDIUM" xml:space="preserve">
         <source>Medium Tip</source>
-        <target state="translated">Mittlere Spitze</target>
+        <target state="translated">Mittlere Spende</target>
         <note/>
       </trans-unit>
       <trans-unit id="PURCHASE_TIP_SMALL" xml:space="preserve">
         <source>Small Tip</source>
-        <target state="translated">Kleiner Tipp</target>
+        <target state="translated">Mini-Spende</target>
         <note/>
       </trans-unit>
       <trans-unit id="PURCHASE_TYPE_2MONTH" xml:space="preserve">
@@ -2033,7 +2033,7 @@ Fokussierte Arbeit!</target>
       </trans-unit>
       <trans-unit id="QUICKACTION_STARTFOCUSSESSION" xml:space="preserve">
         <source>Start Focus Session</source>
-        <target state="translated">Start Fokus Session</target>
+        <target state="translated">Fokus-Session starten</target>
         <note/>
       </trans-unit>
       <trans-unit id="SESSIONCOMPLETE_ADDTIME" xml:space="preserve">
@@ -2043,7 +2043,7 @@ Fokussierte Arbeit!</target>
       </trans-unit>
       <trans-unit id="SESSIONCOMPLETE_ADDTIME_FOOTER" xml:space="preserve">
         <source>Log extra time after completing the session, based on the final stage type.</source>
-        <target state="translated">Protokolliere nach Abschluss der Lerneinheit zusätzliche Zeit, je nach Art der letzten Stufe.</target>
+        <target state="translated">Erfasse nach Abschluss der Session zusätzliche Zeit, je nach Art der letzten Stufe.</target>
         <note/>
       </trans-unit>
       <trans-unit id="SESSIONCOMPLETE_TITLE_1" xml:space="preserve">
@@ -2068,12 +2068,12 @@ Fokussierte Arbeit!</target>
       </trans-unit>
       <trans-unit id="SESSIONCONTINUE_FOCUSEDWORK" xml:space="preserve">
         <source>Ready to start the next Focused Work stage?</source>
-        <target state="translated">Bist du bereit für die nächste Phase der Fokussierten Arbeit?</target>
+        <target state="translated">Bist du bereit für die nächste Fokus-Phase ?</target>
         <note/>
       </trans-unit>
       <trans-unit id="SESSIONCONTINUE_LOGEXTRATIME" xml:space="preserve">
         <source>Log Extra Time and start %@</source>
-        <target state="translated">Extra Zeit protokollieren und starten %@</target>
+        <target state="translated">Extra Zeit aufzeichnen und %@ starten</target>
         <note/>
       </trans-unit>
       <trans-unit id="SESSIONCONTINUE_PLANNING" xml:space="preserve">
@@ -2083,7 +2083,7 @@ Fokussierte Arbeit!</target>
       </trans-unit>
       <trans-unit id="SESSIONCONTINUE_TIMESINCE" xml:space="preserve">
         <source>Time since %@ stage ended</source>
-        <target state="translated">Zeit seit %@ Etappenende</target>
+        <target state="translated">Zeit seit %@ Abschnitts-Ende</target>
         <note/>
       </trans-unit>
       <trans-unit id="SESSION_ACTION_CHANGE" xml:space="preserve">
@@ -2093,7 +2093,7 @@ Fokussierte Arbeit!</target>
       </trans-unit>
       <trans-unit id="SESSION_ACTION_DETAILS" xml:space="preserve">
         <source>Session Details</source>
-        <target state="translated">Session Details</target>
+        <target state="translated">Session-Details</target>
         <note/>
       </trans-unit>
       <trans-unit id="SESSION_ACTION_END" xml:space="preserve">
@@ -2103,12 +2103,12 @@ Fokussierte Arbeit!</target>
       </trans-unit>
       <trans-unit id="SESSION_ACTION_ENDCOMPLETE" xml:space="preserve">
         <source>End and Mark Complete</source>
-        <target state="translated">Ende und Markierung abgeschlossen</target>
+        <target state="translated">Beenden und abschließen</target>
         <note/>
       </trans-unit>
       <trans-unit id="SESSION_ACTION_ENDGROUP_CONFIRM" xml:space="preserve">
         <source>Are you sure you want to end the current focus session for all participants?</source>
-        <target state="translated">Bist du sicher, dass du die aktuelle Fokus-Session für alle Teilnehmer/innen beenden möchtest?</target>
+        <target state="translated">Bist du sicher, dass du die aktuelle Fokus-Session für alle Teilnehmer*innen beenden möchtest?</target>
         <note/>
       </trans-unit>
       <trans-unit id="SESSION_ACTION_END_CONFIRM" xml:space="preserve">
@@ -2117,7 +2117,7 @@ Fokussierte Arbeit!</target>
 Mark Complete will include your progress for the current stage.</source>
         <target state="translated">Bist du sicher, dass du die aktuelle Fokus-Session beenden willst?
 
-Die Markierung "abgeschlossen" enthält deinen Fortschritt für die aktuelle Phase.</target>
+Abschließen wird deinen Fortschritt für die aktuelle Phase speichern.</target>
         <note/>
       </trans-unit>
       <trans-unit id="SESSION_ACTION_JOINGROUP_CONFIRM" xml:space="preserve">
@@ -2137,7 +2137,7 @@ Die Markierung "abgeschlossen" enthält deinen Fortschritt für die aktuelle Pha
       </trans-unit>
       <trans-unit id="SESSION_ACTION_PAUSE" xml:space="preserve">
         <source>Pause Session</source>
-        <target state="translated">Pause Session</target>
+        <target state="translated">Session pausieren</target>
         <note/>
       </trans-unit>
       <trans-unit id="SESSION_ACTION_PROGRESS" xml:space="preserve">
@@ -2152,7 +2152,7 @@ Die Markierung "abgeschlossen" enthält deinen Fortschritt für die aktuelle Pha
       </trans-unit>
       <trans-unit id="SESSION_ACTION_RESTARTSTAGE" xml:space="preserve">
         <source>Restart Stage</source>
-        <target state="translated">Neustart Phase</target>
+        <target state="translated">Phase neustarten</target>
         <note/>
       </trans-unit>
       <trans-unit id="SESSION_ACTION_RESTARTSTAGE_CONFIRM" xml:space="preserve">
@@ -2162,7 +2162,7 @@ Die Markierung "abgeschlossen" enthält deinen Fortschritt für die aktuelle Pha
       </trans-unit>
       <trans-unit id="SESSION_ACTION_RESUME" xml:space="preserve">
         <source>Resume Session</source>
-        <target state="translated">Lebenslauf Session</target>
+        <target state="translated">Session fortsetzen</target>
         <note/>
       </trans-unit>
       <trans-unit id="SESSION_ACTION_SELECT" xml:space="preserve">
@@ -2172,7 +2172,7 @@ Die Markierung "abgeschlossen" enthält deinen Fortschritt für die aktuelle Pha
       </trans-unit>
       <trans-unit id="SESSION_ACTION_SKIPSTAGE" xml:space="preserve">
         <source>Skip Stage</source>
-        <target state="translated">Bühne überspringen</target>
+        <target state="translated">Abschnitt überspringen</target>
         <note/>
       </trans-unit>
       <trans-unit id="SESSION_ACTION_SKIPSTAGE_CONFIRM" xml:space="preserve">
@@ -2187,7 +2187,7 @@ Die Markierung "abgeschlossen" enthält deinen Fortschritt für die aktuelle Pha
       </trans-unit>
       <trans-unit id="SESSION_ACTION_SKIPSTAGE_CONFIRM_FOCUSEDWORK" xml:space="preserve">
         <source>Are you sure you want to begin the next Focused Work stage?</source>
-        <target state="translated">Bist du sicher, dass du die nächste Phase der Fokussierten Arbeit beginnen willst?</target>
+        <target state="translated">Bist du sicher, dass du die nächste Fokus-Phase beginnen willst?</target>
         <note/>
       </trans-unit>
       <trans-unit id="SESSION_ACTION_SKIPSTAGE_CONFIRM_PLANNING" xml:space="preserve">
@@ -2197,12 +2197,12 @@ Die Markierung "abgeschlossen" enthält deinen Fortschritt für die aktuelle Pha
       </trans-unit>
       <trans-unit id="SESSION_ACTION_START" xml:space="preserve">
         <source>Start Session</source>
-        <target state="translated">Start Session</target>
+        <target state="translated">Session starten</target>
         <note/>
       </trans-unit>
       <trans-unit id="SESSION_ACTION_STARTGROUP" xml:space="preserve">
         <source>Start Focus Group</source>
-        <target state="translated">Start Fokusgruppe</target>
+        <target state="translated">Fokusgruppe starten</target>
         <note/>
       </trans-unit>
       <trans-unit id="SESSION_ACTION_STARTGROUP_CONFIRM" xml:space="preserve">
@@ -2211,17 +2211,17 @@ Die Markierung "abgeschlossen" enthält deinen Fortschritt für die aktuelle Pha
 All participants will share the same focus session.</source>
         <target state="translated">Willst du eine neue Fokusgruppe mit SharePlay gründen?
 
-Alle Teilnehmer/innen teilen sich die gleiche Fokusgruppe.</target>
+Alle Teilnehmer*innen teilen sich die gleiche Fokusgruppe.</target>
         <note/>
       </trans-unit>
       <trans-unit id="SESSION_ACTION_UPDATEFOCUS" xml:space="preserve">
         <source>Update Focus</source>
-        <target state="translated">Update Fokus</target>
+        <target state="translated">Fokus aktualisieren</target>
         <note/>
       </trans-unit>
       <trans-unit id="SESSION_CANCELLED" xml:space="preserve">
         <source>Session Cancelled</source>
-        <target state="translated">Session abgesagt</target>
+        <target state="translated">Session abbrechen</target>
         <note/>
       </trans-unit>
       <trans-unit id="SESSION_COMPLETED" xml:space="preserve">
@@ -2256,7 +2256,7 @@ Alle Teilnehmer/innen teilen sich die gleiche Fokusgruppe.</target>
       </trans-unit>
       <trans-unit id="SETTING_APPTHEME_LIGHT" xml:space="preserve">
         <source>Light</source>
-        <target state="translated">Licht</target>
+        <target state="translated">Hell</target>
         <note/>
       </trans-unit>
       <trans-unit id="SETTING_APPTHEME_SYSTEM" xml:space="preserve">
@@ -2296,7 +2296,7 @@ Alle Teilnehmer/innen teilen sich die gleiche Fokusgruppe.</target>
       </trans-unit>
       <trans-unit id="SETTING_FAQ_DESCRIPTION" xml:space="preserve">
         <source>Focused Work Basics. Integrate with Toggl, Shortcuts, and other tidbits.</source>
-        <target state="translated">Grundlagen der konzentrierten Arbeit. Integriere mit Toggl, Shortcuts und anderen Leckerbissen.</target>
+        <target state="translated">Grundlagen von Focused Work. Integriere mit Toggl, Shortcuts und anderen Leckerbissen.</target>
         <note/>
       </trans-unit>
       <trans-unit id="SETTING_FOCUSREMINDERS_DESCRIPTION" xml:space="preserve">
@@ -2321,17 +2321,17 @@ Alle Teilnehmer/innen teilen sich die gleiche Fokusgruppe.</target>
       </trans-unit>
       <trans-unit id="SETTING_ICONBADGE_DESCRIPTION" xml:space="preserve">
         <source>Show total remaining daily goals as the notification badge count.</source>
-        <target state="translated">Zeige die Summe der verbleibenden Tagesziele als Anzahl der Benachrichtigungsabzeichen an.</target>
+        <target state="translated">Zeige die Summe der verbleibenden Tagesziele als Anzahl der Benachrichtigungsbadge an.</target>
         <note/>
       </trans-unit>
       <trans-unit id="SETTING_ICONBADGE_TITLE" xml:space="preserve">
         <source>Daily Goals as App Badge</source>
-        <target state="translated">Tägliche Ziele als App-Abzeichen</target>
+        <target state="translated">Tägliche Ziele als App-Badge</target>
         <note/>
       </trans-unit>
       <trans-unit id="SETTING_KEEPONTOP_DESCRIPTION" xml:space="preserve">
         <source>Always show Focused Work above other apps.</source>
-        <target state="translated">Zeige Fokussierte Arbeit immer über anderen Apps an.</target>
+        <target state="translated">Zeige Focused Work immer über anderen Apps an.</target>
         <note/>
       </trans-unit>
       <trans-unit id="SETTING_KEEPONTOP_TITLE" xml:space="preserve">
@@ -3861,7 +3861,7 @@ Updates</target>
       </trans-unit>
       <trans-unit id="/COMPLETED_COUNT:dict/completed_count:dict/one:dict/:string">
         <source>%lld time</source>
-        <target state="translated">%lld Zeit</target>
+        <target state="translated">%lld mal</target>
       </trans-unit>
       <trans-unit id="/COMPLETED_COUNT:dict/completed_count:dict/other:dict/:string">
         <source>%lld times</source>
@@ -3873,11 +3873,11 @@ Updates</target>
       </trans-unit>
       <trans-unit id="/HEADING_STAGES_COUNT:dict/stages_count:dict/one:dict/:string">
         <source>%lld stage</source>
-        <target state="translated">%lld stage</target>
+        <target state="translated">%lld Abschnitt</target>
       </trans-unit>
       <trans-unit id="/HEADING_STAGES_COUNT:dict/stages_count:dict/other:dict/:string">
         <source>%lld stages</source>
-        <target state="translated">%lld Stufen</target>
+        <target state="translated">%lld Abschnitte</target>
       </trans-unit>
       <trans-unit id="/SESSION_COUNT:dict/NSStringLocalizedFormatKey:dict/:string">
         <source>%#@session_count@</source>
@@ -3889,7 +3889,7 @@ Updates</target>
       </trans-unit>
       <trans-unit id="/SESSION_COUNT:dict/session_count:dict/other:dict/:string">
         <source>%lld Sessions</source>
-        <target state="translated">%lld Sessionen</target>
+        <target state="translated">%lld Sessions</target>
       </trans-unit>
       <trans-unit id="/TERM_COMPLETEDSESSION_PLURALISATION:dict/NSStringLocalizedFormatKey:dict/:string">
         <source>%#@count@</source>
