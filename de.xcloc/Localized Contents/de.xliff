@@ -3773,7 +3773,7 @@ Danke!
       </trans-unit>
       <trans-unit id="UPSELL_LIFETIMEPURCHASED" xml:space="preserve">
         <source>Lifetime Purchased ❤️</source>
-        <target state="translated">Gekaufte Lebenszeit ❤️</target>
+        <target state="translated">Gekaufte auf Lebenszeit ❤️</target>
         <note/>
       </trans-unit>
       <trans-unit id="UPSELL_LIFETIME_PREFIX" xml:space="preserve">
@@ -3804,7 +3804,7 @@ Danke!
       <trans-unit id="WHATSNEW_TITLE" xml:space="preserve">
         <source>Focused Work
 Updates</source>
-        <target state="translated">Fokussierte Arbeit
+        <target state="translated">Focused Work
 Updates</target>
         <note/>
       </trans-unit>
@@ -3901,7 +3901,7 @@ Updates</target>
       </trans-unit>
       <trans-unit id="/TERM_COMPLETEDSESSION_PLURALISATION:dict/count:dict/other:dict/:string">
         <source>Completed Sessions</source>
-        <target state="translated">Abgeschlossene Sessionen</target>
+        <target state="translated">Abgeschlossene Sessions</target>
       </trans-unit>
       <trans-unit id="/TERM_DAYS_COUNT:dict/NSStringLocalizedFormatKey:dict/:string">
         <source>%#@day_count@</source>
@@ -3937,7 +3937,7 @@ Updates</target>
       </trans-unit>
       <trans-unit id="/TERM_FOCUSSESSION_PLURALISATION:dict/count:dict/other:dict/:string">
         <source>Focus Sessions</source>
-        <target state="translated">Fokus-Sessionen</target>
+        <target state="translated">Fokus-Sessions</target>
       </trans-unit>
       <trans-unit id="/TERM_NOTES_COUNT:dict/NSStringLocalizedFormatKey:dict/:string">
         <source>%#@note_count@</source>
@@ -3949,7 +3949,7 @@ Updates</target>
       </trans-unit>
       <trans-unit id="/TERM_NOTES_COUNT:dict/note_count:dict/other:dict/:string">
         <source>%lld Notes</source>
-        <target state="translated">%lld Anmerkungen</target>
+        <target state="translated">%lld Notizen</target>
       </trans-unit>
       <trans-unit id="/TERM_PRESET_PLURALISATION:dict/NSStringLocalizedFormatKey:dict/:string">
         <source>%#@count@</source>
@@ -3973,7 +3973,7 @@ Updates</target>
       </trans-unit>
       <trans-unit id="/TERM_SESSION_PLURALISATION:dict/session_count:dict/other:dict/:string">
         <source>sessions</source>
-        <target state="translated">Sessionen</target>
+        <target state="translated">Sessions</target>
       </trans-unit>
       <trans-unit id="/TERM_STAGE_COUNT:dict/NSStringLocalizedFormatKey:dict/:string">
         <source>%#@stage_count@</source>
@@ -3981,11 +3981,11 @@ Updates</target>
       </trans-unit>
       <trans-unit id="/TERM_STAGE_COUNT:dict/stage_count:dict/one:dict/:string">
         <source>%lld Stage</source>
-        <target state="translated">%lld Stufe</target>
+        <target state="translated">%lld Abschnitt</target>
       </trans-unit>
       <trans-unit id="/TERM_STAGE_COUNT:dict/stage_count:dict/other:dict/:string">
         <source>%lld Stages</source>
-        <target state="translated">%lld Etappen</target>
+        <target state="translated">%lld Abschnitte</target>
       </trans-unit>
       <trans-unit id="/TERM_TASKS_COUNT:dict/NSStringLocalizedFormatKey:dict/:string">
         <source>%#@task_count@</source>
